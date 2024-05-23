@@ -1,0 +1,24 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "NBC",
+      "Products": [
+        "NBCBootsGray,1,-1,0,1300,300",
+        "NVGHeadstrap,1,-1,0,1300,300",
+        "NBCPantsYellow,1,-1,0,1300,300",
+        "NBCPantsGray,1,-1,0,1300,300",
+        "NBCJacketYellow,1,-1,0,1300,300",
+        "NBCJacketGray,1,-1,0,1300,300",
+        "NBCHoodYellow,1,-1,0,1300,300",
+        "NBCHoodGray,1,-1,0,1300,300",
+        "NBCGlovesYellow,1,-1,0,1300,300",
+        "NBCGlovesGray,1,-1,0,1300,300",
+        "NBCBootsYellow,1,-1,0,1300,300"
+      ]
+    }
+  ]
+}
