@@ -1,0 +1,91 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "Truck Frames ",
+      "Products": [
+        "Techs_Hilux_Black,1,-1,0,175000,65000",
+        "Techs_Hilux_Fractal,1,-1,0,175000,65000",
+        "Techs_Hilux_Emergency,1,-1,0,175000,65000",
+        "Techs_Hilux_Moss,1,-1,0,175000,65000",
+        "Techs_Hilux_Tiger,1,-1,0,175000,65000",
+        "Techs_Hilux_RU,1,-1,0,175000,65000",
+        "Techs_Hilux_OCP,1,-1,0,175000,65000",
+        "Techs_Hilux_Geo,1,-1,0,175000,65000",
+        "Techs_Hilux_Faded,1,-1,0,175000,65000",
+        "Techs_Hilux_DFlek,1,-1,0,175000,65000",
+        "Techs_Hilux_TTSKO,1,-1,0,175000,65000",
+        "Techs_Hilux_Pizza,1,-1,0,175000,65000",
+        "Techs_Hilux_Gold,1,-1,0,175000,65000",
+        "Techs_Hilux_Purple,1,-1,0,175000,65000",
+        "Techs_Hilux_Pink,1,-1,0,175000,65000",
+        "Techs_Hilux_OD,1,-1,0,175000,65000",
+        "Techs_Hilux_Yellow,1,-1,0,175000,65000",
+        "Techs_Hilux_Silver,1,-1,0,175000,65000",
+        "Techs_Hilux_Red,1,-1,0,175000,65000",
+        "Techs_Hilux_Blue,1,-1,0,175000,65000"
+      ]
+    },
+    {
+      "CategoryName": "Truck Driver Doors",
+      "Products": [
+        "Techs_Hilux_Driver_Door,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Fractal,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Emergency,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Moss,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Tiger,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_RU,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_OCP,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Geo,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Faded,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_DFlek,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_TTSKO,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Pizza,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Gold,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Purple,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Pink,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_OD,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Yellow,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Silver,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Red,1,-1,0,450,130",
+        "Techs_Hilux_Driver_Door_Blue,1,-1,0,450,130"
+      ]
+    },
+    {
+      "CategoryName": "Truck CoDriver Doors",
+      "Products": [
+        "Techs_Hilux_CoDriver_Door,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Fractal,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Emergency,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Moss,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Tiger,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_RU,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_OCP,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_OCP,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Geo,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Faded,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_DFlek,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_TTSKO,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Pizza,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Gold,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Purple,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Pink,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_OD,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Yellow,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Silver,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Red,1,-1,0,450,130",
+        "Techs_Hilux_CoDriver_Door_Blue,1,-1,0,450,130"
+      ]
+    },
+    {
+      "CategoryName": "Hilux Wheel",
+      "Products": [
+        "Techs_Hilux_Wheel,1,-1,0,450,130",
+        "Techs_Hilux_Wheel_Ruined,1,-1,0,450,130"
+      ]
+    }
+  ]
+}

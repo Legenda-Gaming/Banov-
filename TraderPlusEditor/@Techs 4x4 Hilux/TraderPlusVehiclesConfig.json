@@ -1,0 +1,405 @@
+
+
+//\\//\\//\\//\\//\\//\\//--ADD TO YOUR EXISTING FILE--\\//\\//\\//\\//\\//\\//\\//\\
+
+
+        {
+            "VehicleName": "Techs_Hilux_Black",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood",
+				"Techs_Hilux_Trunk",
+				"Techs_Hilux_Driver_Door",
+				"Techs_Hilux_CoDriver_Door",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Blue",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Blue",
+				"Techs_Hilux_Trunk_Blue",
+				"Techs_Hilux_Driver_Door_Blue",
+				"Techs_Hilux_CoDriver_Door_Blue",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Red",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Red",
+				"Techs_Hilux_Trunk_Red",
+				"Techs_Hilux_Driver_Door_Red",
+				"Techs_Hilux_CoDriver_Door_Red",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Silver",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Silver",
+				"Techs_Hilux_Trunk_Silver",
+				"Techs_Hilux_Driver_Door_Silver",
+				"Techs_Hilux_CoDriver_Door_Silver",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Yellow",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Yellow",
+				"Techs_Hilux_Trunk_Yellow",
+				"Techs_Hilux_Driver_Door_Yellow",
+				"Techs_Hilux_CoDriver_Door_Yellow",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_OD",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_OD",
+				"Techs_Hilux_Trunk_OD",
+				"Techs_Hilux_Driver_Door_OD",
+				"Techs_Hilux_CoDriver_Door_OD",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Pink",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Pink",
+				"Techs_Hilux_Trunk_Pink",
+				"Techs_Hilux_Driver_Door_Pink",
+				"Techs_Hilux_CoDriver_Door_Pink",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Purple",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Purple",
+				"Techs_Hilux_Trunk_Purple",
+				"Techs_Hilux_Driver_Door_Purple",
+				"Techs_Hilux_CoDriver_Door_Purple",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Gold",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Gold",
+				"Techs_Hilux_Trunk_Gold",
+				"Techs_Hilux_Driver_Door_Gold",
+				"Techs_Hilux_CoDriver_Door_Gold",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Pizza",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Pizza",
+				"Techs_Hilux_Trunk_Pizza",
+				"Techs_Hilux_Driver_Door_Pizza",
+				"Techs_Hilux_CoDriver_Door_Pizza",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_TTSKO",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_TTSKO",
+				"Techs_Hilux_Trunk_TTSKO",
+				"Techs_Hilux_Driver_Door_TTSKO",
+				"Techs_Hilux_CoDriver_Door_TTSKO",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_DFlek",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_DFlek",
+				"Techs_Hilux_Trunk_DFlek",
+				"Techs_Hilux_Driver_Door_DFlek",
+				"Techs_Hilux_CoDriver_Door_DFlek",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Faded",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Faded",
+				"Techs_Hilux_Trunk_Faded",
+				"Techs_Hilux_Driver_Door_Faded",
+				"Techs_Hilux_CoDriver_Door_Faded",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Geo",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Geo",
+				"Techs_Hilux_Trunk_Geo",
+				"Techs_Hilux_Driver_Door_Geo",
+				"Techs_Hilux_CoDriver_Door_Geo",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_OCP",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_OCP",
+				"Techs_Hilux_Trunk_OCP",
+				"Techs_Hilux_Driver_Door_OCP",
+				"Techs_Hilux_CoDriver_Door_OCP",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_RU",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_RU",
+				"Techs_Hilux_Trunk_RU",
+				"Techs_Hilux_Driver_Door_RU",
+				"Techs_Hilux_CoDriver_Door_RU",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Tiger",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Tiger",
+				"Techs_Hilux_Trunk_Tiger",
+				"Techs_Hilux_Driver_Door_Tiger",
+				"Techs_Hilux_CoDriver_Door_Tiger",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Moss",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Moss",
+				"Techs_Hilux_Trunk_Moss",
+				"Techs_Hilux_Driver_Door_Moss",
+				"Techs_Hilux_CoDriver_Door_Moss",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Emergency",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Emergency",
+				"Techs_Hilux_Trunk_Emergency",
+				"Techs_Hilux_Driver_Door_Emergency",
+				"Techs_Hilux_CoDriver_Door_Emergency",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Techs_Hilux_Fractal",
+            "Height": 0,
+            "VehicleParts": [
+				"Techs_Hilux_Hood_Fractal",
+				"Techs_Hilux_Trunk_Fractal",
+				"Techs_Hilux_Driver_Door_Fractal",
+				"Techs_Hilux_CoDriver_Door_Fractal",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"Techs_Hilux_Wheel",
+				"CarBattery",
+				"CarRadiator",
+				"SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        }
