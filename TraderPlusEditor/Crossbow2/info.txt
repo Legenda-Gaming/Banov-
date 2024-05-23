@@ -1,0 +1,4 @@
+Recipes:
+1x ChickenFeather + 1x WoodenStick = 1x ArrowBolt
+3x ChickenFeather + 3x WoodenStick = 3x ArrowBolt
+5x ChickenFeather + 5x WoodenStick = 5x ArrowBolt

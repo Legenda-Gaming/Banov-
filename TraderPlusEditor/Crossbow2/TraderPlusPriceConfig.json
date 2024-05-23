@@ -1,0 +1,25 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "Crossbow ",
+      "Products": [
+        "Crossbow2_green,1,-1,0,2300,300",
+        "Crossbow2_Quiver2,1,-1,0,500,50",
+        "Crossbow2_Quiver,1,-1,0,500,50",
+        "Crossbow2_RedpointOptic,1,-1,0,1500,200",
+        "Crossbow2_ArrowBolt2_broken,1,-1,0,1500,200",
+        "Crossbow2_ArrowBolt_broken,1,-1,0,1500,200",
+        "Ammo_Crossbow2_ArrowBolt2,1,-1,0,1500,200",
+        "Ammo_Crossbow2_ArrowBolt,1,-1,0,1500,200",
+        "Crossbow2_blue,1,-1,0,2300,300",
+        "Crossbow2_red,1,-1,0,2300,300",
+        "Crossbow2_leaves,1,-1,0,2300,300",
+        "Crossbow2_black,1,-1,0,2300,300"
+      ]
+    }
+  ]
+}
