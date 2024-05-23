@@ -1,0 +1,28 @@
+    {
+      "CategoryName": "Auto repair shop",
+      "Products": [
+		"CJ_ButaneCanister,1,-1,0,80,20",
+		"CJ_FirstAidKit_Car,1,-1,0,250,50",
+		"CJ_Flashlight_Yellow,1,-1,0,400,50",	  
+	 	"CJ_WD40_Large,1,-1,0,99,5",
+		"CJ_WD40_Small,1,-1,0,99,5",	
+		"CJ_Tireglue,1,-1,0,130,0",	
+		"CJ_Isospray,1,-1,0,130,0",			
+    "HydraulicJack,1,-1,0,130,15",
+		"TrafficCone,1,-1,0,130,15",
+    "HeadlightH7_Box,1,-1,0,30,15",
+    "SparkPlug,1,-1,0,60,40",
+    "EngineOil,1,-1,1000,70,40",
+    "CarBattery,1,-1,50,450,30",
+    "TruckBattery,1,-1,50,600,30",
+    "CarRadiator,1,-1,0,500,100",
+    "TireRepairKit,1,-1,100,220,100",
+		"HeadlightH7,1,-1,0,30,5",
+    "CanisterGasoline,1,-1,0,320,0",
+    "EpoxyPutty,1,-1,6,200,20",
+    "LugWrench,1,-1,50,180,20",
+		"Blowtorch,1,-1,50,230,20",
+    "GlowPlug,1,-1,0,200,20",
+        "PipeWrench,1,-1,0,300,50"
+      ]
+    },
