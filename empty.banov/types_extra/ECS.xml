@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+	<!-- CLOTHING BAGS-->
+	<type name="ECS_Bag_Clothing_Gym">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Town"/>
+		<usage name="Medical"/>
+	</type>
+	<type name="ECS_Bag_Clothing_Workout">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Town"/>
+		<usage name="Medical"/>
+	</type>
+	<type name="ECS_Bag_Clothing_Sprinter">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Town"/>
+		<usage name="Medical"/>
+	</type>
+	<!-- IFAK -->
+	<type name="ECS_IFAK_NBC">
+		<nominal>4</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Military"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="ECS_IFAK_Military">
+		<nominal>8</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Medical"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="ECS_IFAK_Auto">
+		<nominal>3</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Medical"/>
+	</type>	
+	<!-- INDIVIDUAL CASES -->
+	<type name="ECS_Case_Kappa">
+		<nominal>3</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="ECS_Case_Gamma">
+		<nominal>4</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="ECS_Case_Epsilon">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="ECS_Case_Beta">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="ECS_Case_Alpha">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+		<value name="Tier1"/>
+	</type>	
+	<!-- LOOT CASES -->
+	<type name="ECS_Case_Large">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Military"/>
+		<usage name="ContaminatedArea"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="ECS_Case_Big">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Military"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="ECS_Case_Medium">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<value name="Tier4"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="ECS_Case_Small">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<value name="Tier3"/>
+		<value name="Tier2"/>
+	</type>	
+	<!-- SPECIAL CASES -->
+	<type name="ECS_Case_Forester">
+		<nominal>10</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>6</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Hunting"/>
+		<usage name="Coast"/>
+	</type>
+	<type name="ECS_Case_Building">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="ECS_Case_Car">
+		<nominal>18</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>6</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+	</type>
+	<type name="ECS_Case_Toolkit">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<usage name="Industrial"/>
+	</type>	
+</types>
