@@ -1,0 +1,166 @@
+RaG Baseitems instructions and how-to:
+
+The following text is already formatted for Discord, if you want to make a dedicated channel for this.
+
+
+
+
+
+__**Normal Crafting**__
+
+**Small Metal Sheets(needed for Workbench)**
+
+```
+Hacksaw + Metal Plate = 60 Small Metal Sheets / Be aware that you will need Sharpening stones as it will ruin the Hacksaw really fast!
+```
+
+**Small Plastic Sheets(needed for Workbench)**
+
+```
+Pliers + Water Bottle = 10 Small Plastic Sheets
+```
+
+
+
+
+__**Workbench Crafting**__
+
+*Everything gets crafted with a Hammer! You will always see the desired result as a preview before you craft it!*
+
+**Crates**
+
+*There are 3 different "Categories" of crates. Small, Medium and Large which need different amounts of the following:*
+
+```
+Requirements to craft:
+
+- Wooden Planks ( Small:4 // Medium: 8 // Large: 16 )
+- Small Metal Sheets ( Small:20 // Medium: 40 // Large: 80 )
+- Nails ( Small:20 // Medium: 40 // Large: 80 )
+```
+
+**Metal Ammo Boxes**
+
+*There are 3 different Colours to craft. Red - Green - Black*
+
+```
+Requirements to craft:
+
+- Small Metal Sheets - 60
+```
+
+**Plants**
+
+*There are 6 different Plants to craft.*
+
+```
+Requirements to craft:
+
+- Crop/Plant Material (needs to be full quantity!)
+- Plantnarok Seedspack
+```
+
+**Fishing Tackle Box**
+
+```
+Requirements to craft:
+
+- Small Plastic Sheets - 50
+```
+
+**Beachball & Volleyball**
+
+```
+Requirements to craft:
+
+- Small Plastic Sheets - 50
+```
+
+**Waterbarrel**
+
+```
+Requirements to craft:
+
+- Wooden Planks - 16
+- Small Metal Sheets - 80
+- Nails - 80
+```
+
+**Flamingo**
+
+```
+Requirements to craft:
+
+- Small Plastic Sheets - 50
+```
+
+**Wall Painting**
+
+```
+Requirements to craft:
+
+- Nails - 20
+- Wooden Planks - 4
+```
+
+**To paint, use the Red Paintcan. To clean, use the White Paintcan.**
+
+**Grindstone**
+
+```
+Requirements to craft:
+
+- 32 Stones (The big ones)
+```
+
+**Trashcan**
+
+```
+Requirements to craft:
+
+- Nails - 20
+- Wooden Planks - 4
+```
+
+**Watering Can**
+
+```
+Requirements to craft:
+
+- Small Metal Sheets - 60
+```
+
+**Ammo Cleaner**
+
+```
+Requirements to craft:
+
+- Small Metal Sheets - 40
+- Small Plastic Sheets - 40
+```
+
+**Firewood Holder**
+
+```
+Requirements to craft:
+
+- Small Metal Sheets - 100
+```
+
+**Barrel Furnace**
+
+```
+Requirements to craft:
+
+- Small Metal Sheets - 100
+- Nails - 40
+- Planks - 20
+```
+
+**Carpets**
+
+```
+Requirements to craft:
+
+- Tarp - 4
+```

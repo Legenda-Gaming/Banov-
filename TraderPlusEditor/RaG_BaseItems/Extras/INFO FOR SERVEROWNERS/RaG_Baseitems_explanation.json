@@ -1,0 +1,76 @@
+{
+    "RepairStationRepairedHealth": 1,		// Integer ---> range 0-4 || resulted Health-Level of repaired item ---> 0 = Pristine; 1 = Worn; 2 = Damaged; 3 = Badly Damaged; 4 = Ruined
+    "WeaponCleanerRepairedHealth": 0,		// Integer ---> range 0-4 || resulted Health-Level of repaired item ---> 0 = Pristine; 1 = Worn; 2 = Damaged; 3 = Badly Damaged; 4 = Ruined
+    "SewingMachineRepairedHealth": 1,		// Integer ---> range 0-4 || resulted Health-Level of repaired item ---> 0 = Pristine; 1 = Worn; 2 = Damaged; 3 = Badly Damaged; 4 = Ruined
+    "AmmoCleanerRepairedHealth": 0,			// Integer ---> range 0-4 || resulted Health-Level of repaired item ---> 0 = Pristine; 1 = Worn; 2 = Damaged; 3 = Badly Damaged; 4 = Ruined
+    "TableSawMaxGainedWoodenPlanks": 10,	// Integer ---> must be bigger or equal than 4. This will be the amount of Woodenplanks a player receives after using the Tablesaw.
+    "AlwaysShowProxies": 0,					// bool ---> 0 = false; 1 = true. Ignore hide/show proxies when open/close any Container/Locker etc.
+    "EnableWeaponCleanerSound": 1,			// bool ---> 0 = false; 1 = true. Weapon Cleaner goes brrrr (or not)
+    "EnableTrashcanSound": 1,				// bool ---> 0 = false; 1 = true. Trashcan goes brrrr (or not)
+    "EnableCarliftNotifications": 1,		// bool ---> 0 = false; 1 = true. Should the Player receive a ingame Notification about all damaged Vehicle attachments/components etc?
+	"EnableCraftDecoPumpkin": 1,			// bool ---> 0 = false; 1 = true. Using a PumpkinSeedsPack to craft a Deco Pumpkin.
+    "WorkbenchCrafting": {
+        "EnableCraftFlamingo": 1,			// bool ---> 0 = false; 1 = true.
+        "EnableCraftFishingBox": 1,
+        "EnableCraftBeachBall": 1,
+        "EnableCraftVolleyBall": 1,
+        "EnableCraftAmmoCleaner": 1,
+        "EnableCraftMetalAmmoBox": 1,
+        "EnableCraftMetalAmmoBoxBlack": 1,
+        "EnableCraftMetalAmmoBoxGreen": 1,
+        "EnableCraftFirewoodHolder": 1,
+        "EnableCraftBarrelFurnace": 1,
+        "EnableCraftWateringCan": 1,
+        "EnableCraftTrashCan": 1,
+        "EnableCraftWallPicture": 1,
+        "EnableCraftGrenadeCrate": 1,
+        "EnableCraftPistolAmmoCrate": 1,
+        "EnableCraftSmallGunCrate": 1,
+        "EnableCraftSmokeGrenadeCrate": 1,
+        "EnableCraftLargeRifleCrate": 1,
+        "EnableCraftLargeShotgunCrate": 1,
+        "EnableCraftRifleAmmoCrate": 1,
+        "EnableCraftShotgunAmmoCrate": 1,
+        "EnableCraftWellsFargoCrate": 1,
+        "EnableCraftLargeSlideCrate": 1,
+        "EnableCraftMilitaryCrate": 1,
+        "EnableCraftWaterBarrel": 1,
+        "EnableCraftPlants": 1,
+        "EnableCraftGrindStone": 1,
+        "EnableCraftCarpet": 1
+    },
+    "Christmas": {
+        "EnableMineChristmasTree": 0,					// bool ---> 0 = false; 1 = true.
+        "EnableXmasTreeGifts": 1,						// bool ---> 0 = false; 1 = true.
+        "XmasTreeMinGiftsAmount": 4,					// Integer ---> Minimum amount of Giftboxes to spawn on Christmas Day
+        "XmasTreeMaxGiftsAmount": 7,					// Integer ---> Maximum amount of Giftboxes to spawn on Christmas Day
+        "XmasStockingsMinGiftsAmount": 4,				// Integer ---> Minimum amount of items to spawn when player opens a Xmas Stockings
+        "XmasStockingsMaxGiftsAmount": 7,				// Integer ---> Maximum amount of items to spawn when player opens a Xmas Stockings
+        "ChristmasDay": 24,								// Integer ---> Actual Day of Christmas (Be aware that this will check for REAL SERVER TIME, not ingame time!)
+        "ChristmasMonth": 12,							// Integer ---> Actual Month of Christmas (Be aware that this will check for REAL SERVER TIME, not ingame time!)
+        "XmasTreeGifts": [								// array ---> Classnames of items to spawn INSIDE Giftboxes on Christmas Day. Each Giftbox will pick 1 random item.
+            "AK74",
+            "AKM",
+            "Aug",
+            "B95",
+            "M16A2",
+            "Mosin9130"
+        ],
+        "XmasStockingsGifts": [							// array ---> Classnames of items to spawn after player opens a Xmas Stockings
+            "Honey",
+            "BakedBeansCan",
+            "ZagorkyChocolate",
+            "ZagorkyPeanuts",
+            "TacticalBaconCan",
+            "Marmalade"
+        ],
+        "XmasCalendarsGifts": [							// array ---> Classnames of items to spawn after player opens a Xmas Calendar Door (Spawns only one each day)
+            "Honey",
+            "BakedBeansCan",
+            "ZagorkyChocolate",
+            "ZagorkyPeanuts",
+            "TacticalBaconCan",
+            "Marmalade"
+        ]
+    }
+}

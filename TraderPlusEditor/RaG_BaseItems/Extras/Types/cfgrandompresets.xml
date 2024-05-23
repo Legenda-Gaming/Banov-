@@ -1,0 +1,28 @@
+<!-- Add this into your cfgrandompresets.xml -->
+
+
+
+		<attachments chance="0.70" name="needle1">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
+		<attachments chance="0.70" name="needle2">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
+		<attachments chance="0.70" name="needle3">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
+		<attachments chance="0.70" name="needle4">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
+		<attachments chance="0.70" name="needle5">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
+		<attachments chance="0.70" name="needle6">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
+		<attachments chance="0.70" name="needle7">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
+		<attachments chance="0.70" name="needle8">
+			<item name="rag_baseitems_sewing_needle" chance="0.50" />
+		</attachments>
