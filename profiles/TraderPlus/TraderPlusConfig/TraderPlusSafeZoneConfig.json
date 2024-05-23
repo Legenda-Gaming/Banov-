@@ -1,0 +1,46 @@
+{
+    "Version": "2.5",
+    "IsHideOutActive": 1,
+    "EnableAfkDisconnect": 0,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "Sie haben die sichere Zone betreten!",
+    "MsgExitZone": "Sie haben die sichere Zone verlassen!",
+    "MsgOnLeavingZone": "Sie verlassen die Sicherheitszone:",
+    "MustRemoveArmband": "Sie müssen Ihre Armbinde abnehmen, damit Ihr Vorrat sichtbar wird!",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Trader1",
+            "X": 1121.0,
+            "Y": 3948.0,
+            "Radius": 30.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Trader2",
+            "X": 8938.0,
+            "Y": 12363.0,
+            "Radius": 15.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Pineland Trader",
+            "X": 7710.0,
+            "Y": 11020.0,
+            "Radius": 100.0,
+            "Countdown": 5
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "WhitelistEntities": [
+        "Animal_CervusElaphus"
+    ],
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198256510777"
+    ],
+    "BlackListedItemInStash": [
+        "Apple"
+    ]
+}

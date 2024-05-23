@@ -1,0 +1,82 @@
+{
+    "Version": "2.5",
+    "UseGarageOnlyToTrade": 0,
+    "VehicleMustHaveLock": 0,
+    "SaveVehicleLock": 0,
+    "SaveVehicleCargo": 0,
+    "SaveVehicleHealth": 0,
+    "SaveVehicleFuel": 0,
+    "SavedVehicleInGarageForTradeInHour": 1,
+    "MaxVehicleStored": 5,
+    "ParkInCost": 0,
+    "ParkOutCost": 0,
+    "PayWithBankAccount": 0,
+    "WhitelistedObjects": [],
+    "NPCs": [
+		        {
+            "ClassName": "SurvivorM_Peter",
+            "Position": [
+                 1127.181274, 
+				 218.514664, 
+				 3955.638428
+            ],
+            "Orientation": [
+                27.824419, 
+				0.000000, 
+				-0.000000
+            ],
+            "ParkingPosition": [
+                1131.613525,
+				218.459656, 
+				3958.160889
+            ],
+            "ParkingOrientation": [
+                -73.654297,
+				-0.000000, 
+				0.000000
+            ],
+            "Clothes": [
+                "Wrench",
+                "Jeans_Blue",
+                "ManSuit_Black",
+                "Sneakers_Black",
+                "SportGlasses_Blue",
+                "BaseballCap_Black"
+            ]
+        },
+        {
+            "ClassName": "SurvivorM_Elias",
+            "Position": [
+                 6603.343262, 204.775543, 1737.032227
+            ],
+            "Orientation": [
+                  162.384308, 0.000000, -0.000000
+            ],
+            "ParkingPosition": [
+                6605.009766, 205.707993, 1727.579956
+            ],
+            "ParkingOrientation": [
+                125.820724, 0.000000, -0.000000
+            ],
+            "Clothes": [
+                "Wrench",
+                "Jeans_Blue",
+                "ManSuit_Black",
+                "Sneakers_Black",
+                "SportGlasses_Blue",
+                "BaseballCap_Black"
+            ]
+        }	
+	],
+    "ParkingNotAvailable": "The park area is not available!",
+    "NotEnoughMoney": "You don't have enough money",
+    "NotRightToPark": "You don't have the right to park in this vehicle!",
+    "CarHasMember": "The car still have member inside!",
+    "ParkInFail": "The car was not able to be park in correctly",
+    "ParkInSuccess": "The car was successfully parked",
+    "ParkOutFail": "The car was not able to spawn!",
+    "ParkOutSuccess": "The car was able to spawn!",
+    "MaxVehicleStoredReached": "Max number of vehicle reached!",
+    "TradeVehicleWarning": "The vehicle has been stored for %1 hour, passed this point it will be lost so trade it or get it fast",
+    "TradeVehicleHasBeenDeleted": "The vehicle stored for trade reached his inactivity and has been deleted!"
+}

@@ -1,0 +1,11 @@
+{
+    "Version": "2.5",
+    "BankingLogs": 0,
+    "IsCreditCarNeededForTransaction": 0,
+    "TransactionFees": 0.05000000074505806,
+    "DefaultStartCurrency": 0,
+    "DefaultMaxCurrency": 1000000,
+    "CurrenciesAccepted": [],
+    "TheAmountHasBeenTransferedToTheAccount": "Der Betrag wurde erfolgreich auf das Zielkonto überwiesen!",
+    "TheAmountErrorTransferAccount": "Das Zielkonto existiert nicht!"
+}

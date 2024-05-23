@@ -1,0 +1,1508 @@
+{
+    "Version": "2.5",
+    "ConvertTraderConfigToTraderPlus": 1,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 1,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 1,
+    "HideGarageBtn": 0,
+    "HideLicenceBtn": 0,
+    "EnableShowAllPrices": 0,
+    "EnableShowAllCheckBox": 1,
+    "IsReceiptTraderOnly": 1,
+    "IsReceiptSaveLock": 1,
+    "IsReceiptSaveAttachment": 1,
+    "IsReceiptSaveCargo": 1,
+    "LockPickChance": 0.30000001192092898,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+     	"Weapons License",
+        "Car Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1,
+        "CoefficientWorn": 0.75,
+        "CoefficientDamaged": 0.5,
+        "CoefficientBadlyDamaged": 0.25
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Euro500",
+            "Value": 500
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro200",
+            "Value": 200
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro10",
+            "Value": 10
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro5",
+            "Value": 5
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro2",
+            "Value": 2
+        },
+        {
+            "ClassName": "TraderPlus_Money_Euro1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "SurvivorM_Mirek",
+            "GivenName": "Marie",
+            "Role": "Food Trader",
+            "Position": [
+			    1129.114746, 218.837021, 3932.079346
+            ],
+            "Orientation": [
+                -142.869110, 0.000000, -0.000000
+            ],
+            "Clothes": [
+				"KitchenKnife",
+               "SurgicalGloves_White",
+               "Sweater_Green",
+               "MedicalScrubsHat_White",
+               "Jeans_Black",
+               "JoggingShoes_Black"
+			]
+        },
+        {
+            "Id": 0,
+            "Name": "SurvivorM_Mirek",
+            "GivenName": "Marie",
+            "Role": "Food Trader",
+            "Position": [
+			      8938.948242, 330.329620, 12365.593750
+            ],
+            "Orientation": [
+               96.932808, 0.000000, -0.000000
+            ],
+            "Clothes": [
+				"KitchenKnife",
+               "SurgicalGloves_White",
+               "Sweater_Green",
+               "MedicalScrubsHat_White",
+               "Jeans_Black",
+               "JoggingShoes_Black"
+			]
+        },		
+		{
+            "Id": 0,
+            "Name": "BVM_VendingMachine_food",
+            "GivenName": "Machine",
+            "Role": "Food Trader",
+            "Position": [
+                 2224.445801, 268.915527, 11583.340820
+            ],
+            "Orientation": [
+                -113.722496, -0.000000, -0.000000
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Indar",
+            "GivenName": "Aras",
+            "Role": "Militär Trader",
+            "Position": [
+		     	13231.001953, 335.818268, 1283.385986
+            ],
+            "Orientation": [
+               -159.056534, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Indar",
+            "GivenName": "Caleb",
+            "Role": "Militär Trader",
+            "Position": [
+		     	12595.880859, 322.505341, 10644.686523
+            ],
+            "Orientation": [
+               98.159058, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Indar",
+            "GivenName": "Darius",
+            "Role": "Militär Trader",
+            "Position": [
+		     	4267.625000, 258.430573, 14383.320313
+            ],
+            "Orientation": [
+                 79.022972, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorM_Indar",
+            "GivenName": "Fabian",
+            "Role": "Militär Trader",
+            "Position": [
+		     	2820.580566, 249.336960, 8639.245117
+            ],
+            "Orientation": [
+                 41.121059, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },		
+        {
+            "Id": 2,
+            "Name": "SurvivorM_Quinn",
+            "GivenName": "Quinn",
+            "Role": "Tool Trader",
+            "Position": [	
+               1130.967285, 219.022842, 3920.683838
+            ],
+            "Orientation": [
+               -17.867916, 0.000000, 0.000000
+            ],
+            "Clothes": [
+				"WorkingGloves_Brown",
+               "BeanieHat_Brown",
+               "JumpsuitJacket_Gray",
+               "JumpsuitPants_Grey",
+               "Sneakers_Black"
+			]
+        },
+        {
+            "Id": 2,
+            "Name": "SurvivorM_Niki",
+            "GivenName": "Niki",
+            "Role": "Tool Trader",
+            "Position": [	
+               7741.752441, 435.044495, 11035.403320
+            ],
+            "Orientation": [
+               -5.737852, 0.000000, 0.000000
+            ],
+            "Clothes": [
+				"WorkingGloves_Brown",
+               "BeanieHat_Brown",
+               "JumpsuitJacket_Gray",
+               "JumpsuitPants_Grey",
+               "Sneakers_Black"
+			]
+        },		
+        {
+            "Id": 3,
+            "Name": "BVM_VendingMachine_vanilla_clothing",
+            "GivenName": "Machine",
+            "Role": "clothing Trader",
+            "Position": [	
+                7730.779785, 434.772003, 11033.099609
+            ],
+            "Orientation": [
+               -105.029709, 0.000000, -0.000000
+            ],
+            "Clothes": [
+				"WorkingGloves_Brown",
+               "BeanieHat_Brown",
+               "JumpsuitJacket_Gray",
+               "JumpsuitPants_Grey",
+               "Sneakers_Black"
+			]
+        },
+        {
+            "Id": 3,
+            "Name": "BVM_VendingMachine_vanilla_clothing",
+            "GivenName": "Machine",
+            "Role": "clothing Trader",
+            "Position": [	
+                1115.280029, 218.664993, 3951.100098
+            ],
+            "Orientation": [
+               -114.749809, 0.000000, -0.000000
+            ],
+            "Clothes": [
+				"WorkingGloves_Brown",
+               "BeanieHat_Brown",
+               "JumpsuitJacket_Gray",
+               "JumpsuitPants_Grey",
+               "Sneakers_Black"
+			]
+        },			
+        {
+            "Id": 5,
+            "Name": "SurvivorM_Mirek",
+            "GivenName": "Mirek",
+            "Role": "Medical Trader",
+            "Position": [
+			        4959.408691,
+		            213.760681, 
+		            6562.211914
+            ],
+            "Orientation": [
+               -125.356316, 
+		       0.000000, 
+		      -0.000000
+            ],
+            "Clothes": [
+			  "DisinfectantSpray",
+              "ThinFramesGlasses",
+              "MedicalScrubsHat_Blue",
+              "LabCoat",
+              "MedicalScrubsShirt_White",
+              "MedicalScrubsPants_Blue",
+              "Sneakers_White"
+			]
+        },
+		{
+            "Id": 5,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Machine",
+            "Role": "Medical Trader",
+            "Position": [
+			        6101.010742,
+			        215.455460, 
+		        	1777.427368
+            ],
+            "Orientation": [
+                42.919426,
+			    0.000000, 
+			    0.000000
+            ],
+            "Clothes": []
+        },	
+		{
+            "Id": 5,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Machine",
+            "Role": "Medical Trader",
+            "Position": [
+			   2221.430908,
+			   268.915466,
+			   11576.431641
+            ],
+            "Orientation": [
+                -96.988281,
+			    -0.000000, 
+			    -0.000000
+            ],
+            "Clothes": []
+        },
+		{
+            "Id": 5,
+            "Name": "BVM_VendingMachine_medical",
+            "GivenName": "Machine",
+            "Role": "Medical Trader",
+            "Position": [
+			   12095.726563,
+			   617.291382,
+			   14869.142578
+            ],
+            "Orientation": [
+                -98.193390,
+				0.000000,
+				-0.000000
+            ],
+            "Clothes": []
+        },	
+		{
+            "Id": 5,
+            "Name": "SurvivorM_Mirek",
+            "GivenName": "Mirek",
+            "Role": "Medical Trader",
+            "Position": [
+			   11546.536133,
+			   265.686798,
+			   4407.659180
+            ],
+            "Orientation": [
+                -146.433899, 
+				 0.000000, 
+				-0.000000
+            ],
+            "Clothes": [
+			  "DisinfectantSpray",
+              "ThinFramesGlasses",
+              "MedicalScrubsHat_Blue",
+              "LabCoat",
+              "MedicalScrubsShirt_White",
+              "MedicalScrubsPants_Blue",
+              "Sneakers_White"
+			]
+        },								
+		{
+            "Id": 5,
+            "Name": "SurvivorM_Mirek",
+            "GivenName": "Mirek",
+            "Role": "Medical Trader",
+            "Position": [
+			   11476.429688, 
+			   453.496918, 
+			   11832.390625
+            ],
+            "Orientation": [
+                167.540314,
+				0.000000, 
+				-0.000000
+            ],
+            "Clothes": [
+			  "DisinfectantSpray",
+              "ThinFramesGlasses",
+              "MedicalScrubsHat_Blue",
+              "LabCoat",
+              "MedicalScrubsShirt_White",
+              "MedicalScrubsPants_Blue",
+              "Sneakers_White"
+			]
+        },			
+        {
+            "Id": 6,
+            "Name": "SurvivorM_Peter",
+            "GivenName": "Lennox",
+            "Role": "Keycards Trader",
+            "Position": [
+                 7703.900391, 434.363586, 11030.256836
+            ],
+            "Orientation": [
+			     159.860718, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			   "FOG_ButtonUp_SkinnyPalms",
+               "FOG_Tactical_Fingerless_Gloves_Red",
+               "FOG_ButtonUp_Waves",
+               "FOG_BDU_Pants_Black",
+               "MMG_boots_black"
+			]
+        },
+        {
+            "Id": 7,
+            "Name": "SurvivorM_Lewis",
+            "GivenName": "Drogen",
+            "Role": "Drogendealer",
+            "Position": [
+			    1288.839355,
+				230.022614,
+				4075.092041
+            ],
+            "Orientation": [
+			    -51.961586,
+				-0.000000, 
+				0.000000
+            ],
+            "Clothes": [
+			   "FOG_Pants_Crye_G3_Black",
+               "FOG_ButtonUp_SkinnyPalms",
+               "FOG_Bag_Trizip_DCU",
+               "FOG_Tactical_Fingerless_Gloves_Red",
+			   "FOG_Booie_Crey",
+			   "MMG_boots_black",
+               "FOG_Ronin_Hat_Black"
+			]
+        },
+		{
+            "Id": 8,
+            "Name": "SurvivorM_Lewis",
+            "GivenName": "Drogen",
+            "Role": "Drogendealer",
+            "Position": [
+			    14516.822266, 
+				539.102844, 
+				9674.143555
+            ],
+            "Orientation": [
+			   -43.011654, 
+			   -0.000000, 
+			   0.000000
+            ],
+            "Clothes": [
+			   "FOG_Pants_Crye_G3_Black",
+               "FOG_ButtonUp_Floral_MD",
+               "FOG_Bag_Trizip_DCU",
+               "FOG_Tactical_Fingerless_Cloves_Tan",
+			   "FOG_Booie_Crey",
+			   "MMG_boots_black",
+               "FOG_Ronin_Hat_Black"
+			]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Weapons Sttachment Parts",
+            "Position": [
+			    13233.633789, 335.818176, 1282.878052
+            ],
+            "Orientation": [
+                -160.085739, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Weapons Sttachment Parts",
+            "Position": [
+			    12597.963867, 322.505341, 10645.658203
+            ],
+            "Orientation": [
+                171.930084, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Gregor",
+            "Role": "Weapons Sttachment Parts",
+            "Position": [
+			    2827.215088, 249.337021, 8634.361328
+            ],
+            "Orientation": [
+                13.247116, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },		
+        {
+            "Id": 10,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Kevin",
+            "Role": "Black Market",
+            "Position": [
+                 11789.919922, 616.612244, 15114.673828
+            ],
+            "Orientation": [
+                -129.748718, 0.000000, -0.000000
+            ],
+            "Clothes": [
+                "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+                "GorkaHelmet",
+                "PlateCarrierVest",
+                "GorkaEJacket_Autumn",
+                "GorkaPants_Autumn",
+                "CombatBoots_Black",
+                "Balaclava3Holes_Black",
+                "AliceBag_Black"
+            ]
+        },
+        {
+            "Id": 11,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Seth",
+            "Role": "Tool Trader",
+            "Position": [	
+                1128.195068, 219.081192, 3919.889404
+            ],
+            "Orientation": [
+                 -20.235899, 0.000000, 0.000000
+            ],
+            "Clothes": [
+				"WorkingGloves_Brown",
+               "BeanieHat_Brown",
+               "JumpsuitJacket_Gray",
+               "JumpsuitPants_Grey",
+               "Sneakers_Black"
+			]
+        },
+	        {
+            "Id": 11,
+            "Name": "SurvivorM_Taiki",
+            "GivenName": "Taiki",
+            "Role": "Tool Trader",
+            "Position": [	
+               7728.938965, 435.578949, 11016.065430
+            ],
+            "Orientation": [
+                 -10.707264, 0.000000, 0.000000
+            ],
+            "Clothes": [
+				"WorkingGloves_Brown",
+               "BeanieHat_Brown",
+               "JumpsuitJacket_Gray",
+               "JumpsuitPants_Grey",
+               "Sneakers_Black"
+			]
+        },	
+		{
+            "Id": 12,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Boris",
+            "Role": "Clothing Trader",
+            "Position": [	
+                   1122.835815, 218.616028, 3949.331055
+            ],
+            "Orientation": [
+               173.812256, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			   "Medium_Sleeves_Shirt_Red",
+               "Canvas_Backpack_Blue",
+               "Kneepads_Jeans_Black",
+               "Wool_GreatCoat_Navy",
+               "Legging_Shorts_Black"
+			]
+        },
+		{
+            "Id": 12,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Boris",
+            "Role": "Clothing Trader",
+            "Position": [	
+                7729.631348, 434.809143, 11030.632813
+            ],
+            "Orientation": [
+                -23.633408, 0.000000, 0.000000
+            ],
+            "Clothes": [
+			   "Medium_Sleeves_Shirt_Red",
+               "Canvas_Backpack_Blue",
+               "Kneepads_Jeans_Black",
+               "Wool_GreatCoat_Navy",
+               "Legging_Shorts_Black"
+			]
+        },		
+        {
+            "Id": 13,
+            "Name": "SurvivorF_Keiko",
+            "GivenName": "Bob",
+            "Role": "Tool Trader",
+            "Position": [
+                  12879.168945, 314.014191, 601.813110
+            ],
+            "Orientation": [
+                 113.276680, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			   "WorkingGloves_Brown",
+               "ConstructionHelmet_Red",
+               "JumpsuitJacket_Red",
+               "JumpsuitPants_Red",
+               "Sneakers_Black"
+			]
+        },
+	    {
+            "Id": 14,
+            "Name": "SurvivorF_Keiko",
+            "GivenName": "Keiko",
+            "Role": "Fritz car dealer",
+            "Position": [	
+			      6598.889160, 205.869156, 1712.371338
+            ],
+            "Orientation": [
+                -73.794334, 0.000000, 0.000000
+            ],
+            "Clothes": [
+			    "CargoPants_Black",
+                "ManSuit_Black",
+                "DressShoes_Beige",
+                "SportGlasses_Black",
+                "CowboyHat_green"
+			]
+        },
+	    {
+            "Id": 15,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Auto repair shop",
+            "Position": [	
+			       6619.253906, 205.999344, 1727.094482
+            ],
+            "Orientation": [
+                -140.416107, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			   "WorkingGloves_Brown",
+               "ConstructionHelmet_Red",
+               "JumpsuitJacket_Red",
+               "JumpsuitPants_Red",
+               "Sneakers_Black"
+			]
+        },
+	    {
+            "Id": 16,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Auto repair shop",
+            "Position": [	
+			       6393.134766, 221.821060, 2080.522461
+            ],
+            "Orientation": [
+                 31.364920, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			   "PoliceCap",
+               "PoliceVest",
+               "PoliceJacket",
+               "PolicePants",
+               "MilitaryBoots_Black"
+			]
+        },
+	    {
+            "Id": 16,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Auto repair shop",
+            "Position": [	
+			       4220.303223, 252.913315, 13651.236328
+            ],
+            "Orientation": [
+                    -90.895271, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			   "PoliceCap",
+               "PoliceVest",
+               "PoliceJacket",
+               "PolicePants",
+               "MilitaryBoots_Black"
+			]
+        },
+	    {
+            "Id": 17,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "shop",
+            "Position": [	
+			       7723.733398, 434.766937, 10997.918945
+            ],
+            "Orientation": [
+                      0.000000, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "CargoPants_Black",
+                "ManSuit_Black",
+                "DressShoes_Beige",
+                "SportGlasses_Black",
+                "CowboyHat_green"
+			]
+        },
+	    {
+            "Id": 18,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Waffenzubehör",
+            "Position": [	
+			      7682.578613, 434.792419, 11043.331055
+            ],
+            "Orientation": [
+                   -154.660141, 0.000000, -0.000000
+            ],
+            "Clothes": [
+                "PlateCarrierVest",
+                "GorkaEJacket_Autumn",
+                "GorkaPants_Autumn",
+                "CombatBoots_Black",
+                "CowboyHat_green"
+			]
+        },
+	    {
+            "Id": 18,
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
+            "Role": "Waffenzubehör",
+            "Position": [	
+			      1119.802368, 219.132477, 3925.523193
+            ],
+            "Orientation": [
+                 38.503223, 0.000000, -0.000000
+            ],
+            "Clothes": [
+               "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "CowboyHat_green"
+			]
+        },		
+        {
+            "Id": 19,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Weapons Sttachment Parts Trader",
+            "Position": [
+		     	7684.626465, 434.773010, 11005.646484
+            ],
+            "Orientation": [
+               80.115784, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+        {
+            "Id": 19,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Weapons Sttachment Parts Trader",
+            "Position": [
+		     	1120.578125, 219.151154, 3923.989258
+            ],
+            "Orientation": [
+               33.496075, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },		
+        {
+            "Id": 20,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Weapons Trader",
+            "Position": [
+		     	7684.639648, 434.773071, 11009.388672
+            ],
+            "Orientation": [
+               96.800499, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+	    {
+            "Id": 20,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Weapons Trader",
+            "Position": [
+		     	13300.045898, 347.238434, 11593.708984
+            ],
+            "Orientation": [
+               -140.903641, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+	    {
+            "Id": 20,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Weapons Trader",
+            "Position": [
+		        4254.201660, 258.430969, 14356.264648
+            ],
+            "Orientation": [
+                 11.283150, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        },
+	    {
+            "Id": 20,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Weapons Trader",
+            "Position": [
+		        1121.382568, 219.170319, 3922.408203
+            ],
+            "Orientation": [
+                 28.500917, 0.000000, -0.000000
+            ],
+            "Clothes": [
+			    "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+				"Balaclava3Holes_Black",		
+                "mmg_boonie_multicamblack",
+                "MMG_JPC_Vest_Black",
+                "MMG_operatorshirt_black",
+                "mmg_tactical_pants_black",
+                "MMG_boots_black",
+                "AliceBag_Black"
+            ]
+        }			
+    ],
+    "TraderObjects": [
+		{
+            "ObjectName": "vbldr_vss",
+            "Position": [
+                7683.910156, 435.687012, 11007.200195
+            ],
+            "Orientation": [
+                87.998047, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_mil_camonet_roof_nato",
+            "Position": [
+                7691.629883, 435.718994, 10989.299805
+            ],
+            "Orientation": [
+                -177.208237, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_misc_table_camp",
+            "Position": [
+                7685.479980, 435.127991, 11005.599609
+            ],
+            "Orientation": [
+                -90.633041, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_misc_table_camp",
+            "Position": [
+                7685.490234, 435.147003, 11009.700195
+            ],
+            "Orientation": [
+                90.633041, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_misc_table_camp_small",
+            "Position": [
+                7686.890137, 435.084991, 11009.700195
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_misc_table_camp_small",
+            "Position": [
+                7686.859863, 435.127014,11005.099609
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_misc_woodencrate",
+            "Position": [
+                7685.959961, 434.967987, 11005.599609
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_misc_woodencrate",
+            "Position": [
+                7685.930176, 435.009003, 11009.700195
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_rocket_rpg7",
+            "Position": [
+                7686.750000, 435.542999, 11009.799805
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_rocket_rpg7",
+            "Position": [
+                7687.060059, 435.529999, 11009.799805
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_weaponlight_peq2",
+            "Position": [
+                7685.779785, 435.450989, 11008.900391
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_magazine_ammobox_pkm",
+            "Position": [
+                7685.229980, 435.583008, 11009.400391
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_magazine_m249_ammobox",
+            "Position": [
+                7686.140137, 435.477997, 11009.200195
+            ],
+            "Orientation": [
+                49.139988, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_buttstock_fal_folding",
+            "Position": [
+                7685.549805, 435.583008, 11005.299805
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_buttstock_pkm",
+            "Position": [
+                7685.189941, 435.511993, 11006.299805
+            ],
+            "Orientation": [
+                48.599983, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_frag_rgd5",
+            "Position": [
+                7686.589844, 435.536987, 11005.200195
+            ],
+            "Orientation": [
+               0.000000, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_frag_rgd5",
+            "Position": [
+                7686.629883, 435.549988, 11005.000000
+            ],
+            "Orientation": [
+               0.000000, 0.000000, -0.000000
+            ]
+        },		
+		{
+            "ObjectName": "vbldr_smokegrenade",
+            "Position": [
+                7687.069824, 435.584991, 11005.099609
+            ],
+            "Orientation": [
+               0.000000, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_smokegrenade",
+            "Position": [
+                7686.870117, 435.592987, 11005.099609
+            ],
+            "Orientation": [
+               0.000000, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_aks74u",
+            "Position": [
+                7683.919922, 436.032990, 11007.200195
+            ],
+            "Orientation": [
+               -93.149879, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_akm",
+            "Position": [
+                7683.910156, 436.024994, 11008.099609
+            ],
+            "Orientation": [
+               90.179893, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_aug",
+            "Position": [
+                7684.049805, 435.710999, 11008.599609
+            ],
+            "Orientation": [
+               89.909828, 0.000000, -0.000000
+            ]
+        },	
+		{
+            "ObjectName": "vbldr_b95",
+            "Position": [
+                7683.970215, 435.354004, 11006.900391
+            ],
+            "Orientation": [
+               -93.689926, 0.000000, -0.000000
+            ]
+        },		
+		{
+            "ObjectName": "vbldr_b95",
+            "Position": [
+                7683.850098, 435.328003, 11008.299805
+            ],
+            "Orientation": [
+               94.499825, 0.000000, -0.000000
+            ]
+        },		
+		{
+            "ObjectName": "vbldr_denim_jacket_f",
+            "Position": [
+                7727.919922, 435.032990, 11029.299805
+            ],
+            "Orientation": [
+                165.239609, 0.000000, -0.000000
+            ]
+        },
+	    {
+            "ObjectName": "bldr_prop_HuntingJacket_Spring",
+            "Position": [
+                7728.600098, 435.662994, 11029.500000
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "bldr_prop_TrackSuitPants_Blue",
+            "Position": [
+                7729.560059, 435.661987, 11029.599609
+            ],
+            "Orientation": [
+                -35.909988, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "bldr_prop_WorkingBoots_Brown",
+            "Position": [
+                7729.759766, 435.300995, 11029.900391
+            ],
+            "Orientation": [
+                113.399872, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "bldr_prop_JungleBoots_Olive",
+            "Position": [
+                7729.029785, 435.311005, 11029.599609
+            ],
+            "Orientation": [
+                113.399872, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "bldr_prop_CombatBoots_Black",
+            "Position": [
+                7728.310059, 435.296997,11029.400391
+            ],
+            "Orientation": [
+                113.399872, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "bldr_prop_CombatBoots_Grey",
+            "Position": [
+                7727.580078, 435.303986, 11029.200195
+            ],
+            "Orientation": [
+                113.399872, 0.000000, -0.000000
+            ]
+        },
+		{
+            "ObjectName": "vbldr_hunting_jacket_m",
+            "Position": [
+                7730.350098, 435.110992, 11030.000000
+            ],
+            "Orientation": [
+                168.749985 , 0.000000, -0.000000
+            ]
+        },		
+        {
+            "ObjectName": "bldr_prop_AmmoBox",
+            "Position": [
+                7683.580078, 435.058014, 11044.500000
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+        {
+            "ObjectName": "bldr_prop_AmmoBox",
+            "Position": [
+                7683.020020, 435.062988, 11044.900391
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },		
+		{
+            "ObjectName": "bldr_prop_AmmoBox_556x45_20Rnd",
+            "Position": [
+                7683.240234, 435.355988, 11044.799805
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+        {
+            "ObjectName": "bldr_prop_AmmoBox_556x45Tracer_20Rnd",
+            "Position": [
+                7683.410156, 436.031006, 11044.700195
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+        {
+            "ObjectName": "bldr_prop_AmmoBox_308Win_20Rnd",
+            "Position": [
+                7683.029785, 435.717010, 11044.900391
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },		
+        {
+            "ObjectName": "bldr_prop_AmmoBox_308Win_20Rnd",
+            "Position": [
+                7683.589844, 435.713013, 11044.500000
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+        {
+            "ObjectName": "bldr_prop_AmmoBox_762x39_20Rnd",
+            "Position": [
+                7682.970215, 435.347992, 11044.900391
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+        {
+            "ObjectName": "bldr_prop_AmmoBox_9x19_25rnd",
+            "Position": [
+                7683.729980, 435.345001, 11044.400391
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_00buck_10rnd",
+            "Position": [
+                7682.740234, 436.023010, 11045.200195
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_12gaSlug_10Rnd",
+            "Position": [
+                7683.160156, 436.032990, 11044.799805
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+	    {
+            "ObjectName": "StaticObj_ammoboxes_single",
+            "Position": [
+                7684.000000, 435.229004, 11038.099609
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+	    {
+            "ObjectName": "StaticObj_ammoboxes_stacked",
+            "Position": [
+                7682.379883, 434.819000, 11039.200195
+            ],
+            "Orientation": [
+                -57.779922, 0.000000, -0.000000
+            ]
+        },	
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_9x39AP_20Rnd",
+            "Position": [
+                7681.740234, 435.648010, 11042.799805
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_9x39AP_20Rnd",
+            "Position": [
+                7681.830078, 435.636993, 11043.000000
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_9x39AP_20Rnd",
+            "Position": [
+                7681.589844, 435.640015, 11042.700195
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_9x39AP_20Rnd",
+            "Position": [
+                7682.950195, 435.626007, 11042.200195
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_9x39AP_20Rnd",
+            "Position": [
+                7682.540039, 435.627014, 11042.400391
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_9x39AP_20Rnd",
+            "Position": [
+                7682.479980, 435.615997, 11042.200195
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },	
+	    {
+            "ObjectName": "bldr_prop_AmmoBox_9x39AP_20Rnd",
+            "Position": [
+               7682.910156, 435.639008, 11042
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },			
+        {
+            "ObjectName": "TrafficCone_Prop",
+            "Position": [
+                6601.520020, 204.770004, 1727.040039
+            ],
+            "Orientation": [
+                0.000000, 0.000000, -0.000000
+            ]
+        },
+        {
+            "ObjectName": "TrafficCone_Prop",
+            "Position": [
+                6604.500000, 204.776001, 1731.189941
+            ],
+            "Orientation": [
+                  0.000000, 0.000000, -0.000000
+            ]
+        },
+        {
+            "ObjectName": "TrafficCone_Prop",
+            "Position": [
+                6610.209961, 204.848007, 1726.109985
+            ],
+            "Orientation": [
+                  0.000000, 0.000000, -0.000000
+            ]
+        },
+        {
+            "ObjectName": "TrafficCone_Prop",
+            "Position": [
+                6608.310059, 204.865997, 1722.189941
+            ],
+            "Orientation": [
+                 0.000000, 0.000000, -0.000000
+            ]
+        }		
+    ]
+}

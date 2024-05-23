@@ -1,0 +1,311 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {
+            "Id": 0,
+            "Categories": [
+			    "Soda",
+                "Vegetables",
+                "Packaged Food",
+                "Meat",
+                "Animal Parts",
+                "Drinks"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 1,
+            "Categories": [
+			   "Melee",
+			   "Bayonets",			   
+			   "Pistol",
+               "Rifles",
+			   "Mortys Weapons"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 2,
+            "Categories": [
+			    "Watch",
+				"ECS Bag",
+		    	"Battery",
+				"Watch",
+				"Chemlight",
+				"RHG-Bau1",
+				"RHG-Bau2",
+				"RHG Bau3",
+				"RHG Bau4",
+				"RHG Bau5",
+			    "RHG Bau6",
+				"RHG Bau7",
+                "RHG-Bau Werkzeug",				
+				"Tent",
+                "Tools",
+				"Barrel",
+				"Collectable",
+				"ard Display",
+                "Heavy Tools",
+                "Electronics",
+                "Fire & Lights",
+                "Cooking & Hunting Supplies",
+                "Hardware Supplies",
+                "Flag",				
+                "Seeds & Lime"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 3,
+            "Categories": [
+			    "Flag",
+                "Glasses",
+                "Armbands",
+                "Gloves",
+                "Hats & Caps",
+                "Helmets",
+                "Masks",
+                "Shirts",
+                "Hoodies & Sweater",
+                "Vests",
+                "Jackets & Coats",
+                "Skirts & Dresses",
+                "Pants",
+                "Shoes & Boots",
+                "Ghillie",
+                "Holster & Pouches",
+                "Belt",
+                "Bags"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 4,
+            "Categories": [
+			    "Vehicle Keys",
+				"Tags for keys",
+                "Vehicle Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 5,
+            "Categories": [
+                "Medical Supplies",
+                "Medications"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 6,
+            "Categories": [
+                "DNA Keycards",
+				"DimpleKey",
+				"BlisterPackChip",
+                "DNA Keycards Kit"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 7,
+            "Categories": [
+				"Seeds Pack",
+				"Cigarette",
+                "Cannabis"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 8,
+            "Categories": [
+			    "Brick Skunk",
+				"Bag Skunk"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 9,
+            "Categories": [
+				"Remote",
+				"Grenades",
+				"Smoke Gas",			
+			    "Ammo",
+			    "AmmoBox"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 10,
+            "Categories": [
+              "Black Market"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 11,
+            "Categories": [
+              "Machines",
+			  "Machine Consumables and Components",
+			  "Base Build ",
+			  "Medical Items",
+			  "Army Items",
+			  "Repair Plus",
+			  "Simple Paint",
+			  "BBP"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 12,
+            "Categories": [
+                "Windstride",
+				"Windstride1",
+				"Windstride2",
+				"Windstride3",
+				"Windstride4",
+				"Windstride Military",
+				"Windstride Fingerless",
+				"Windstride Shemagh",
+				"Windstride Backpack",
+				"Windstride Jeans",
+				"Scarf",
+				"Windstride Wool",
+				"Windstride Pants",
+				"Windstride Vest",
+				"Windstride Lower"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 13,
+            "Categories": [
+              "Machines",
+			  "Machine Consumables and Components",
+			  "Base Build ",
+			  "Medical Items",
+			   "Army Items",
+			   "Repair Plus",
+			   "Simple Paint"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 14,
+            "Categories": [
+			   "Vehicles1",
+			   "Vehicles",
+			   "Mercedes Unimog"
+            ],
+            "LicencesRequired": [
+				 "Car Licence"
+			],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 15,
+            "Categories": [
+               "Auto repair shop",
+			   "Vehicle Parts",
+			   "Mercedes Unimog Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+	    {
+            "Id": 16,
+            "Categories": [
+				 "LICENSE"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 17,
+            "Categories": [
+			 "RaG Beach Pool",
+			 "RaG Coffee",
+			 "RaG 1",
+			 "RaG 2",
+			 "RaG sleepingbag",
+			 "RaG wooden ammo",
+			 "RaG grammophone",
+			 "RaG wallpicture",
+			 "RaG plant",
+			 "RaG coffee",
+			 "RaG giftbox",
+			 "RaG BaseItems kit1",
+			 "RaG BaseItems kit"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 18,
+            "Categories": [
+			   "Ammo",
+			   "AmmoBox"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 19,
+            "Categories": [
+			   "Melee",
+			   "Bayonets",
+			   "Pistol",
+			   "SNAFU Weapons 1",
+			   "SNAFU Weapons 2",
+			   "Mortys Weapons",
+			   "Mortys Weapon1",
+			   "Rifles",
+				"Remote",
+				"Grenades",
+				"Smoke Gas"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+		{
+            "Id": 20,
+            "Categories": [
+			   "Magazines1",
+			   "SNAFU Magazines",
+		       "Flashlights 6",
+			   "SNAFU Grips",
+			   "SNAFU Attachments",
+			   "SNAFU Bipods",
+			   "Optics 3",
+			   "Optics",
+			   "Buttstocks 4",
+			   "Compensators Bayonets 5",
+			   "Buttstocks",
+			   "Suppressors 2",
+			   "SNAFU Suppressors",
+			   "Suppressors",
+			   "Attachments",
+			   "SNAFU Stocks",
+			   "Handguards 1",
+			   "SNAFU HandGuards",
+			   "Grips",
+			   "SNAFU Scopes"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }		
+    ]
+}
