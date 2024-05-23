@@ -1,0 +1,11 @@
+    {
+      "CategoryName": "Battery",
+      "Products": [
+		"BLR_9V,1,-1,500,300,30",
+        "CJ_Battery9V_1,1,-1,500,180,30",	  
+        "CJ_Battery9V_2,1,-1,500,180,30",
+		"CJ_Battery9V_3,1,-1,500,180,30",
+		"CJ_Battery9V_4,1,-1,500,180,30",
+		"Battery9V,1,-1,500,50,10"
+      ]
+    },	
