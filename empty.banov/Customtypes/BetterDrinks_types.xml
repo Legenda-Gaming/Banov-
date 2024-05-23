@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="ALC_Malibu">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_Jack_Daniels">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_Smirnoff">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_Glengoyne">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_Kronenbourg">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_Bacardi">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_Finlandia">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_Red_Label">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+       	<value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/> 
+    </type>
+    <type name="ALC_WhiteClaw_Natural">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_WhiteClaw_BackCherry">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+    <type name="ALC_WhiteClaw_RubyGrapeFruit">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+	    <tag name="shelves"/>
+    </type>
+</types> 
