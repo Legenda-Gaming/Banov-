@@ -1,4 +1,4 @@
-99DEZIBEL Download-Bereich. Überarbeitete Konfigurationen für deinen eigenen Server.
+Download-Bereich. Überarbeitete Konfigurationen für deinen eigenen Server.
 Diese Datei kannst du auf deinem Server hochladen und für deinen eigenen DayZ-Server benutzen.
 Bevor du diese Datei mit deiner original-Datei austauscht, fertige eine Kopie deiner Original-Datei an. (Ein Backup)
 
