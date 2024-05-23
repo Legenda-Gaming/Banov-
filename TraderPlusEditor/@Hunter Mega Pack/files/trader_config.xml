@@ -1,0 +1,58 @@
+<Trader> Hunter Bundle
+			
+	<Category> Machines
+	
+		HM_Arcade_Kit,					*,		10000,			5000
+		HM_Printer_Kit,					*,		10000,			5000
+		HM_WashMachine_Kit,				*,		10000,			5000
+		HM_Recycler_Kit,				*,		10000,			5000
+		HM_Trash_Kit,					*,		10000,			5000
+		HM_PC_Kit,						*,		10000,			5000
+		
+	<Category> Machine Consumables and Components 
+	
+		HM_Resin,                       *,		5000,			2500	
+		HM_Detergent,                   *,		2500,			1250		
+		HM_GPU,                         *,		10000,			5000
+		HM_PSU,                  		*,		5000,			2500	
+		
+	<Category> Base Build 
+	
+		HM_Container_Kit,                     *,		100000,			50000	
+		HM_Barrel_Kit,              	      *,		5000,			2500	
+		HM_AmmoCrate_Kit,                     *,		5000,			2500	
+		HM_MilitaryCrate_Kit,                 *,		5000,			2500	
+		HM_ToolBox_Kit,                       *,		5000,			2500	
+		HM_Trolley_Kit,                       *,		5000,			2500		
+		HM_AirDrop_Kit,                       *,		5000,			2500
+		HM_Locker_Kit,                        *,		5000,			2500
+		HM_Shelf_Kit,                         *,		5000,			2500
+		HM_Table_Kit,                         *,		5000,			2500
+		HM_Tag1_Barrel,                       *,		5000,			2500
+		HM_Tag2_Barrel,                       *,		5000,			2500
+		HM_Tag3_Barrel,                       *,		5000,			2500
+		
+	<Category> Medical Items
+	
+		HM_Medical_Bag,                         *,		1000,			500
+		HM_IFAK,                         *,		1000,			500
+		HM_IFAK_Black,                   *,		1500,			750
+		HM_Emebandage,                   *,		500,			250
+		HM_Propital_Green,               *,		1000,			500
+		HM_Propital_Red,                 *,		500,			250
+		HM_Golden_Star,                  *,		500,			250
+		HM_AI2,                       	 *,		500,			250
+		
+	<Category> Army Items
+	
+		HM_Knife,                       *,		500,			250
+		HM_Helmet,                   	*,		2500,			1250
+		
+	<Category> Repair Plus
+	
+		HM_Rasp,                       *,		1000,			500
+		
+	<Category> Simple Paint
+	
+		HM_Spraycan_Multi,             *,		1000,			500
+	

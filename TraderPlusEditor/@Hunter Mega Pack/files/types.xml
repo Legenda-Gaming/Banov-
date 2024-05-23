@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+	// SPIN GAMBLE MACHINE //	
+	<type name="HM_Arcade">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Arcade_Static">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Arcade_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	
+	//LIGHT BARREL//
+	<type name="HM_Barrel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Barrel_Static">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Barrel_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	
+	//3D PRINTER//
+	<type name="HM_Resin">
+		<nominal>40</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>20</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Printer">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Printer_Static">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Printer_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	
+	//LAUNDRY MACHINE//
+	<type name="HM_Detergent">
+		<nominal>40</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>20</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	<type name="HM_WashMachine">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_WashMachine_Static">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_WashMachine_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	
+	//RECYCLER//
+	<type name="HM_Recycler">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Recycler_Static">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Recycler_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	
+	//TRASH//
+	<type name="HM_Trash">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Trash_Static">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Trash_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	
+	//PC BITCOIN//
+	<type name="HM_Bitcoin">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+	</type>
+	<type name="HM_PC">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_PSU">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_GPU">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_PC_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	
+	//CONTAINER BASE KIT//
+	<type name="HM_Container">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Container_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	
+	//STORAGE ITEMS//
+	<type name="HM_AmmoCrate">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_AmmoCrate_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_MilitaryCrate">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_MilitaryCrate_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_ToolBox">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_ToolBox_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Trolley">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Trolley_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_AirDrop">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_AirDrop_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Locker">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Locker_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Shelf">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Shelf_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>
+	<type name="HM_Table">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>	
+	<type name="HM_Table_Kit">
+		<nominal>20</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="containers" />
+	</type>
+	
+	//MEDICAL ITEMS//*
+	<type name="HM_Medical_Bag">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="HM_Emebandage">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="HM_IFAK">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="HM_IFAK_Black">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="HM_AI2">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="HM_Propital_Green">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="HM_Propital_Red">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	<type name="HM_Golden_Star">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+    </type>
+	
+	//ARMY ITEMS//
+	<type name="HM_Knife">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Mich2001Helmet">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	
+	//REPAIR PLUS//
+	<type name="HM_Rasp">
+		<nominal>50</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>25</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	
+	//SIMPLE PAINT//
+	<type name="HM_Spraycan_Multi">
+		<nominal>50</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>25</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_1">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_6">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_7">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_8">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_9">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_WoodenCrate_10">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>	
+	<type name="HM_Tag1_Crate">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag2_Crate">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag3_Crate">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag1_Barrel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag2_Barrel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag3_Barrel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag1_Case">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag2_Case">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+	<type name="HM_Tag3_Case">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>240</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+	</type>
+</types>

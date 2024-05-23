@@ -1,0 +1,101 @@
+// SPIN GAMBLE MACHINE //
+HM_Arcade
+HM_Arcade_Kit
+HM_Arcade_Static
+
+//LIGHT BARREL//
+HM_Barrel
+HM_Barrel_Kit
+HM_Barrel_Static
+
+//3D PRINTER//
+HM_Resin
+HM_Printer
+HM_Printer_Kit
+HM_Printer_Static
+
+//LAUNDRY MACHINE//
+HM_Detergent
+HM_WashMachine
+HM_WashMachine_Kit
+HM_WashMachine_Static
+
+//RECYCLER//
+HM_Recycler
+HM_Recycler_Kit
+HM_Recycler_Static
+
+//TRASH//
+HM_Trash
+HM_Trash_Kit
+HM_Trash_Static
+
+//PC BITCOIN//
+HM_Bitcoin
+HM_PC
+HM_GPU
+HM_PSU
+HM_PC_Kit
+
+//BASE KIT//
+HM_Container
+HM_Container_Kit
+
+//STORAGE ITEMS//
+HM_AmmoCrate
+HM_AmmoCrate_Kit
+HM_MilitaryCrate
+HM_MilitaryCrate_Kit
+HM_ToolBox
+HM_ToolBox_Kit
+HM_Trolley
+HM_Trolley_Kit
+HM_AirDrop
+HM_AirDrop_Kit
+HM_Locker
+HM_Locker_Kit
+HM_Shelf
+HM_Shelf_Kit
+HM_Table
+HM_Table_Kit
+
+//SIMPLE PAINT//
+HM_Spraycan_Multi
+HM_Tag1_Crate
+HM_Tag2_Crate
+HM_Tag3_Crate
+HM_Tag1_Case
+HM_Tag2_Case
+HM_Tag3_Case
+HM_Tag1_Barrel
+HM_Tag2_Barrel
+HM_Tag3_Barrel
+
+//UPGRADABLE STORAGE//
+HM_WoodenCrate_1
+HM_WoodenCrate_2
+HM_WoodenCrate_3
+HM_WoodenCrate_4
+HM_WoodenCrate_5
+HM_WoodenCrate_6
+HM_WoodenCrate_7
+HM_WoodenCrate_8
+HM_WoodenCrate_9
+HM_WoodenCrate_10
+
+//REPAIR PLUS//
+HM_Rasp	
+
+//MEDICAL ITEMS//
+HM_Medical_Bag
+HM_Emebandage
+HM_IFAK
+HM_IFAK_Black
+HM_AI2
+HM_Propital_Green
+HM_Propital_Red
+HM_Golden_Star
+
+//ARMY ITEMS//
+HM_Knife
+HM_Helmet
