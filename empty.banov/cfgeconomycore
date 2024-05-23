@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>	
+		<!-- Trader Plus -->
+	<ce folder="TraderPlus_ce">
+		<file name="TraderPlus_types.xml" type="types" />
+	</ce>
+	<!-- Morty Weapons -->
+	<ce folder="Morty_ce">
+		<file name="Morty_types.xml" type="types" />
+		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>	
+	        <!-- Types -->
+	<ce folder="types_extra">
+			<file name="Mercedes_Unimog_types.xml" type="types"/>
+		    <file name="SNAFU_types.xml" type="types" />
+            <file name="Banov.xml" type="types" />
+		    <file name="Hunter Mega_types.xml" type="types" />					
+	        <file name="Legenda.xml" type="types" />
+			<file name="ECS.xml" type="types"/>	
+			<file name="DNAKeycards.xml" type="types"/>	
+			<file name="mmg_collectables.xml" type="types"/>
+			<file name="Windstrides.xml" type="types"/>
+			<file name="RNM_types.xml" type="types"/>	
+		    <file name="Survivalists_FacePaints_types.xml" type="types"/>							
+    </ce>
+	<ce folder="Customtypes">		
+	    <file name="rag_baseitems.xml" type="types"/>	
+	    <file name="rag_atv_types.xml" type="types"/>
+		<file name="rag_baja_types.xml" type="types"/>
+		<file name="rag_derby_car_types.xml" type="types"/>	
+	    <file name="rag_gaz69_types.xml" type="types"/>
+		<file name="rag_hummer_types.xml" type="types"/>
+		<file name="rag_jeep_willys_types.xml" type="types"/>
+		<file name="rag_landrover_types.xml" type="types"/>
+		<file name="rag_mtvr_types.xml" type="types"/>
+		<file name="rag_schoolbus_types.xml" type="types"/>
+		<file name="rag_zil_130_types" type="types"/>	
+		<file name="DNAKeyCards_types" type="types"/>	
+		<file name="MuchCarKey_types" type="types"/>	
+		<file name="BBP_types.xml" type="types"/>
+		<file name="BetterDrinks_types.xml" type="types"/>	
+		<file name="Campfires_types.xml" type="types"/>	
+	    <file name="cannabisplus_types.xml" type="types"/>	
+		<file name="vg7_scorpion_types.xml" type="types"/>	
+		<file name="pens_and_notes.xml" type="types"/>		
+		<file name="morefood_types.xml" type="types"/>		
+		<file name="morefood_cfgspawnabletypes.xml" type="spawnabletypes"/>		
+		<file name="Helicopter_types.xml" type="types"/>		
+		<file name="Crossbow2_types.xml" type="types"/>				
+		<file name="DocsAnimals_types.xml" type="types"/>			
+		<file name="cfgspawnabletypes.xml" type="spawnabletypes"/>
+		<file name="cfgrandompresets.xml" type="cfgrandompresets"/>			
+		<file name="RUSForma_Motorcycles_types.xml" type="types"/>
+		<file name="Psychotypes_types.xml" type="types"/>	
+		<file name="LB_ATM.xml" type="types"/>		
+	</ce>		
+</economycore>
