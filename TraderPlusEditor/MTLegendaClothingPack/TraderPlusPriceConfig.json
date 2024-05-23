@@ -1,0 +1,183 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "AdminClothing",
+      "Products": [
+        "MT_Admin_Bag,1,-1,0,20,1",
+        "Neuer Produktname,1,-1,0,20,1",
+        "MT_Admin_TShirt,1,-1,0,20,1",
+        "MT_Admin_Shortpants,1,-1,0,20,1",
+        "MT_Admin_Pants,1,-1,0,20,1",
+        "MT_Admin_Joggingboots,1,-1,0,20,1",
+        "MT_Admin_Jacket,1,-1,0,20,1",
+        "MT_Admin_Helmet,1,-1,0,20,1",
+        "MT_Admin_Gloves,1,-1,0,20,1",
+        "MT_Admin_Boots,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "BAdminClothing",
+      "Products": [
+        "MT_BAdmin_Bag,1,-1,0,20,1",
+        "MT_BAdmin_vest,1,-1,0,20,1",
+        "MT_BAdmin_TShirt,1,-1,0,20,1",
+        "MT_BAdmin_Shortpants,1,-1,0,20,1",
+        "MT_BAdmin_Pants,1,-1,0,20,1",
+        "MT_BAdmin_Joggingboots,1,-1,0,20,1",
+        "MT_BAdmin_Jacket,1,-1,0,20,1",
+        "MT_BAdmin_Helmet,1,-1,0,20,1",
+        "MT_BAdmin_Gloves,1,-1,0,20,1",
+        "MT_BAdmin_Boots,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "BaseballCap",
+      "Products": [
+        "MT_BaseballCap_Black,1,-1,0,20,1",
+        "MT_BaseballCap_Yellow,1,-1,0,20,1",
+        "MT_BaseballCap_White,1,-1,0,20,1",
+        "MT_BaseballCap_Red,1,-1,0,20,1",
+        "MT_BaseballCap_Pink,1,-1,0,20,1",
+        "MT_BaseballCap_Green,1,-1,0,20,1",
+        "MT_BaseballCap_Blue,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "BSupportClothing",
+      "Products": [
+        "MT_BSupport_Bag,1,-1,0,20,1",
+        "MT_BSupport_vest,1,-1,0,20,1",
+        "MT_BSupport_TShirt,1,-1,0,20,1",
+        "MT_BSupport_Shortpants,1,-1,0,20,1",
+        "MT_BSupport_Pants,1,-1,0,20,1",
+        "MT_BSupport_Joggingboots,1,-1,0,20,1",
+        "MT_BSupport_Jacket,1,-1,0,20,1",
+        "MT_BSupport_Helmet,1,-1,0,20,1",
+        "MT_BSupport_Gloves,1,-1,0,20,1",
+        "MT_BSupport_Boots,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "CargoPants",
+      "Products": [
+        "MT_CargoPants_Black,1,-1,0,20,1",
+        "MT_CargoPants_Yellow,1,-1,0,20,1",
+        "MT_CargoPants_White,1,-1,0,20,1",
+        "MT_CargoPants_Red,1,-1,0,20,1",
+        "MT_CargoPants_Pink,1,-1,0,20,1",
+        "MT_CargoPants_Green,1,-1,0,20,1",
+        "MT_CargoPants_Blue,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "JungleBoots",
+      "Products": [
+        "MT_Boots_Black,1,-1,0,20,1",
+        "MT_Boots_Yellow,1,-1,0,20,1",
+        "MT_Boots_White,1,-1,0,20,1",
+        "MT_Boots_Red,1,-1,0,20,1",
+        "MT_Boots_Pink,1,-1,0,20,1",
+        "MT_Boots_Green,1,-1,0,20,1",
+        "MT_Boots_Blue,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "M65Jacket",
+      "Products": [
+        "MT_Jacket_Black,1,-1,0,20,1",
+        "MT_Jacket_Yellow,1,-1,0,20,1",
+        "MT_Jacket_White,1,-1,0,20,1",
+        "MT_Jacket_Red,1,-1,0,20,1",
+        "MT_Jacket_Pink,1,-1,0,20,1",
+        "MT_Jacket_Green,1,-1,0,20,1",
+        "MT_Jacket_Blue,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "Mich2001Helmet",
+      "Products": [
+        "MT_Helmet_Black,1,-1,0,20,1",
+        "MT_Helmet_Yellow,1,-1,0,20,1",
+        "MT_Helmet_White,1,-1,0,20,1",
+        "MT_Helmet_Red,1,-1,0,20,1",
+        "MT_Helmet_Pink,1,-1,0,20,1",
+        "MT_Helmet_Green,1,-1,0,20,1",
+        "MT_Helmet_Blue,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "MountainBag",
+      "Products": [
+        "MountainBag,1,-1,0,20,1",
+        "MT_MBag_Yellow,1,-1,0,20,1",
+        "MT_MBag_White,1,-1,0,20,1",
+        "MT_MBag_Red,1,-1,0,20,1",
+        "MT_MBag_Pink,1,-1,0,20,1",
+        "MT_MBag_Green,1,-1,0,20,1",
+        "MT_MBag_Blue,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "PlateCarrierVest",
+      "Products": [
+        "MT_vest_Black,1,-1,0,20,1",
+        "MT_vest_Yellow,1,-1,0,20,1",
+        "MT_vest_White,1,-1,0,20,1",
+        "MT_vest_Red,1,-1,0,20,1",
+        "MT_vest_Pink,1,-1,0,20,1",
+        "MT_vest_Green,1,-1,0,20,1",
+        "MT_vest_Blue,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "SupportClothing",
+      "Products": [
+        "MT_Support_Bag,1,-1,0,20,1",
+        "MT_Support_vest,1,-1,0,20,1",
+        "MT_Support_TShirt,1,-1,0,20,1",
+        "MT_Support_Shortpants,1,-1,0,20,1",
+        "MT_Support_Pants,1,-1,0,20,1",
+        "MT_Support_Joggingboots,1,-1,0,20,1",
+        "MT_Support_Jacket,1,-1,0,20,1",
+        "MT_Support_Helmet,1,-1,0,20,1",
+        "MT_Support_Gloves,1,-1,0,20,1",
+        "MT_Support_Boots,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "WorkingGloves",
+      "Products": [
+        "MT_Gloves_Yellow,1,-1,0,20,1",
+        "MT_Gloves_Black,1,-1,0,20,1",
+        "MT_Gloves_Blue,1,-1,0,20,1",
+        "MT_Gloves_Green,1,-1,0,20,1",
+        "MT_Gloves_Pink,1,-1,0,20,1",
+        "MT_Gloves_Red,1,-1,0,20,1",
+        "MT_Gloves_White,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "Trader",
+      "Products": [
+        "Trader_Beret,1,-1,0,20,1",
+        "Trader_Pants,1,-1,0,20,1",
+        "Trader_Jacket,1,-1,0,20,1",
+        "Trader_Gloves,1,-1,0,20,1",
+        "Trader_Cap,1,-1,0,20,1",
+        "Trader_Boots,1,-1,0,20,1"
+      ]
+    },
+    {
+      "CategoryName": "Flaggen",
+      "Products": [
+        "MT_Flagge_Admin,1,-1,0,20,1",
+        "MT_Flagge_Support,1,-1,0,20,1",
+        "MT_Flagge_Legenda,1,-1,0,20,1"
+      ]
+    }
+  ]
+}
