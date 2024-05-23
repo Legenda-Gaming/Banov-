@@ -1,0 +1,244 @@
+{
+    "Locations": [
+        {
+            "Name": "Krasnostav Airstrip",
+            "Location": [
+                11930,
+                12490
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Northwest Airfield",
+            "Location": [
+                4500,
+                10350
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Novaya Petrovka",
+            "Location": [
+                3448,
+                13039
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Severograd",
+            "Location": [
+                8030,
+                12646
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                2
+            ]
+        },
+        {
+            "Name": "Stary/Novy",
+            "Location": [
+                6600,
+                7800
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                2
+            ]
+        },
+        {
+            "Name": "VMC",
+            "Location": [
+                4555,
+                8160
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                2
+            ]
+        }
+    ],
+    "Packages": [
+        {
+            "Package_name": "Military",
+            "object_type": "CarePackage_typhon",
+            "parachute_type": "ArmyParachute_typhon",
+            "MinWeapons": 1,
+            "MaxWeapons": 4,
+            "MinMiscItems": 5,
+            "MaxMiscItems": 10,
+            "AllowedPackageIDs": [
+                1
+            ],
+            "Items": [
+                {
+                    "Item": "SNAFU_M14_Mag",
+                    "MinQty": 1,
+                    "MaxQty": 75,
+                    "Attachments": []
+                },
+                {
+                    "Item": "SNAFU_M14_Mag",
+                    "MinQty": 1,
+                    "MaxQty": 10,
+                    "Attachments": []
+                }
+            ],
+            "Weapons": [
+                {
+                    "Item": "SNAFU_M14",
+                    "Attachments": [
+                        "SNAFU_M14_Mag",
+                        "SNAFU_M14Optic"
+                    ]
+                },
+                {
+                    "Item": "GCGN_M700",
+                    "Attachments": [
+                        "GCGN_M700_Mag"
+                    ]
+                },
+                {
+                    "Item": "TTC_UZI",
+                    "Attachments": [
+                        "TTC_UZI_Mag_30rnd"
+                    ]
+                }
+            ]
+        },
+        {
+            "Package_name": "Medical",
+            "object_type": "CarePackage_red",
+            "parachute_type": "ArmyParachute_black_digital",
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
+            "MinMiscItems": 5,
+            "MaxMiscItems": 10,
+            "AllowedPackageIDs": [
+                2
+            ],
+            "Items": [
+                {
+                    "Item": "Nail",
+                    "MinQty": 17,
+                    "MaxQty": 69,
+                    "Attachments": []
+                },
+                {
+                    "Item": "TetracyclineAntibiotics",
+                    "MinQty": 4,
+                    "MaxQty": 10,
+                    "Attachments": []
+                },
+                {
+                    "Item": "VitaminBottle",
+                    "MinQty": 10,
+                    "MaxQty": 25,
+                    "Attachments": []
+                }
+            ],
+            "Weapons": []
+        },
+        {
+            "Package_name": "Tools",
+            "object_type": "CarePackage_red",
+            "parachute_type": "ArmyParachute_black_digital",
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
+            "MinMiscItems": 5,
+            "MaxMiscItems": 10,
+            "AllowedPackageIDs": [
+                2
+            ],
+            "Items": [
+                {
+                    "Item": "Nail",
+                    "MinQty": 17,
+                    "MaxQty": 69,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Hacksaw",
+                    "MinQty": 4,
+                    "MaxQty": 10,
+                    "Attachments": []
+                },
+                {
+                    "Item": "CodeLock",
+                    "MinQty": 10,
+                    "MaxQty": 25,
+                    "Attachments": []
+                }
+            ],
+            "Weapons": []
+        }		
+    ],
+    "InfectedTypes": [
+        "ZmbM_CitizenASkinny_Blue",
+        "ZmbM_CitizenASkinny_Brown",
+        "ZmbM_CitizenASkinny_Grey",
+        "ZmbM_MotobikerFat_Beige",
+        "ZmbM_MotobikerFat_Black",
+        "ZmbM_MotobikerFat_Blue",
+        "ZmbM_JoggerSkinny_Red",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbM_ClerkFat_Brown",
+        "ZmbM_ClerkFat_Khaki",
+        "ZmbF_JournalistNormal_White",
+        "ZmbF_Clerk_Normal_White",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenBSkinny",
+        "ZmbF_HikerSkinny_Grey",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_HikerSkinny_Green",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_BlueCollarFat_Red",
+        "ZmbF_MechanicNormal_Beige",
+        "ZmbF_PatientOld",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_NurseFat",
+        "ZmbF_PoliceWomanNormal",
+        "ZmbF_HikerSkinny_Blue",
+        "ZmbF_ParamedicNormal_Green",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_MechanicNormal_Grey",
+        "ZmbF_BlueCollarFat_Green",
+        "ZmbF_DoctorSkinny"
+    ],
+    "MinutesBetweenPackages": 31,
+    "DropHeight": 200,
+    "DropTime": 15,
+    "PackageCallDelay": 15,
+    "MinutesAway": 2,
+    "MinimumPlayers": -1,
+    "PackagesBeingRan": 2,
+    "ZombiesToSpawn": 15,
+    "LocationHistoryCheckRange": 3,
+    "LootSpawnType": 0,
+    "LockPackages": 1,
+    "Title": "Care Package",
+    "DroppedMessage": "The care package has been deployed at ",
+    "StartMessage": "A care package is on its way to ",
+    "MinutesAwayPrefix": "The care package is ",
+    "MinutesAwaySuffix": " minutes away from "
+}
