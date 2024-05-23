@@ -1,0 +1,36 @@
+	{
+      "CategoryName": "Vehicles1",
+      "Products": [
+	  
+	  	  "rag_zil_130,1,-1,0,286000,130000",
+		  "rag_gaz69,1,-1,0,185000,75000",
+		  "rag_landrover_110_olive,1,-1,0,265000,110000",
+		  "rag_landrover_110,1,-1,0,265000,110000"
+      ]
+    },	
+	{
+      "CategoryName": "Mercedes Unimog",
+      "Products": [
+		  "mdnk_mercedesunimog,1,-1,0,550000,20000",
+		  "mdnk_mercedesunimog_red,1,-1,0,550000,20000",
+		  "mdnk_mercedesunimog_blue,1,-1,0,550000,20000"
+      ]
+    },
+    {
+      "CategoryName": "Mercedes Unimog Parts",
+      "Products": [
+	  	  "mdnk_mercuni_wheel,1,-1,0,3000,500",
+	      "mdnk_mercuni_doors_trunk_red,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_trunk_blue,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_hood,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_hood_red,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_hood_blue,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_trunk,1,-1,0,4500,500",
+	      "mdnk_mercuni_doors_codriver,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_codriver_red,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_codriver_blue,1,-1,0,4500,500",
+		  "mdnk_mercuni_doors_driver,1,-1,0,16000,2500",
+		  "mdnk_mercuni_doors_driver_red,1,-1,0,16000,2500",
+		  "mdnk_mercuni_doors_driver_blue,1,-1,0,16000,2500"
+      ]
+    },	

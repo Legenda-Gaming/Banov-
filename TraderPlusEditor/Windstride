@@ -1,0 +1,171 @@
+   {
+      "CategoryName": "Windstride",
+      "Products": [
+	    "Blue_Leggings,1,-1,0,500,100",
+        "Fleece_Grey_Leggings,1,-1,0,500,100",
+        "Purple_Leggings,1,-1,0,500,100",
+        "Red_Leggings,1,-1,0,500,100",
+        "Adidas_Leggings,1,-1,0,500,100",
+        "Latex_White_Leggings,1,-1,0,500,100",
+        "Latex_Leggings,1,-1,0,500,100",
+        "Poncho_Red_Checkered,1,-1,0,500,100",
+        "Poncho_BlackAndWhite2,1,-1,0,500,100",
+        "Poncho_BlackAndWhite,1,-1,0,500,100",
+        "Poncho_Black,1,-1,0,500,100",
+        "Poncho_Red,1,-1,0,500,100",
+        "Poncho_Green,1,-1,0,500,100",
+        "Poncho_Brown,1,-1,0,500,100",
+        "Poncho_White,1,-1,0,500,100",
+        "Poncho_Yellow_Checkered,1,-1,0,500,100",
+        "Poncho_Blue_Checkered,1,-1,0,500,100"
+      ]
+    },
+    {
+      "CategoryName": "Windstride1",
+      "Products": [
+	  	"Kirza_Boots,1,-1,0,389,100",
+	    "Flipflops_Colorbase,1,-1,0,389,100",
+        "High_Knee_Sneakers,1,-1,0,600,100",
+        "High_Knee_Sneakers_Black,1,-1,0,600,100"
+      ]
+    },	
+    {
+      "CategoryName": "Windstride2",
+      "Products": [
+        "Medium_Sleeves_Shirt,1,-1,0,389,100",
+        "Medium_Sleeves_Shirt_Blue,1,-1,0,389,100",
+        "Medium_Sleeves_Shirt_Red,1,-1,0,389,100",	  
+	    "Shabby_Hoodie_Calligraphy,1,-1,0,389,100",
+        "Shabby_Hoodie_Red,1,-1,0,389,100",
+        "Shabby_Hoodie_Green,1,-1,0,389,100",
+        "Shabby_Hoodie_Brown,1,-1,0,389,100",
+        "Shabby_Hoodie_Blue,1,-1,0,389,100",
+        "Shabby_Hoodie_Black,1,-1,0,389,100",
+        "Layered_Shirt_Base,1,-1,0,467,100",
+        "Layered_Shirt_Lily,1,-1,0,467,100",
+        "Layered_Shirt_Courage,1,-1,0,467,100",
+        "Layered_Shirt_White,1,-1,0,467,100",
+        "Layered_Shirt_Cheburashka,1,-1,0,467,100"
+      ]
+    },	
+    {
+      "CategoryName": "Windstride3",
+      "Products": [
+	    "Ragged_Eyepatch,1,-1,0,10,0",
+	    "Plague_Mask,1,-1,0,9000,500",
+		"PMK_5A_Gas_Mask,1,-1,0,2000,200",
+        "HumanSkull,1,-1,0,0,100",
+        "Tactical_Leg_Holster_Black,1,-1,0,0,100",
+        "Slouch_Hat_Brown,1,-1,0,200,10",
+        "SkullMask,1,-1,0,0,100"
+      ]
+    },	
+    {
+      "CategoryName": "Windstride4",
+      "Products": [
+        "Golden_Winged_Pin,1,-1,0,0,300",
+        "Sheriff_Badge,1,-1,0,0,500",
+        "Button_Pin_Daisy,1,-1,0,0,50",
+        "Button_Pin_Radioactive,1,-1,0,0,50"
+      ]
+    },	
+    {
+      "CategoryName": "Windstride Military",
+      "Products": [
+        "Military_Sweater,1,-1,0,1800,200",
+        "Military_Sweater_Black,1,-1,0,1800,200",
+        "Military_Sweater_White,1,-1,0,1800,200",
+        "Military_Sweater_Green,1,-1,0,1800,200",
+        "Military_Sweater_Blue,1,-1,0,1800,200",
+        "Military_Sweater_Red,1,-1,0,1800,200"
+      ]
+    },
+    {
+      "CategoryName": "Windstride Fingerless",
+      "Products": [
+        "Fingerless_Gloves_Wool_Black,1,-1,0,600,100",
+        "Fingerless_Gloves_Wool_Grey,1,-1,0,600,100",
+        "Fingerless_Gloves_Wool,1,-1,0,600,100",
+        "Fingerless_Gloves_Brown,1,-1,0,600,100"
+      ]
+    },
+    {
+      "CategoryName": "Windstride Shemagh",
+      "Products": [
+        "Shemagh_Brown,1,-1,0,470,100",
+        "Shemagh_Scarf_Black,1,-1,0,470,100",
+        "Shemagh_Scarf_White,1,-1,0,470,100",
+        "Shemagh_Scarf_Red,1,-1,0,470,100",
+        "Shemagh_Scarf_Green,1,-1,0,470,100",
+        "Shemagh_Scarf_Brown,1,-1,0,470,100",
+        "Shemagh_Facemask_Black,1,-1,0,470,100",
+        "Shemagh_Facemask_White,1,-1,0,470,100",
+        "Shemagh_Facemask_Red,1,-1,0,470,100",
+        "Shemagh_Facemask_Green,1,-1,0,470,100",
+        "Shemagh_Facemask_Brown,1,-1,0,470,100",
+        "Shemagh_Bandit_Black,1,-1,0,470,100",
+        "Shemagh_Bandit_White,1,-1,0,470,100",
+        "Shemagh_Bandit_Red,1,-1,0,470,100",
+        "Shemagh_Bandit_Green,1,-1,0,470,100",
+        "Shemagh_Bandit_Brown,1,-1,0,470,100",
+        "Shemagh_Black,1,-1,0,470,100",
+        "Shemagh_White,1,-1,0,470,100",
+        "Shemagh_Red,1,-1,0,470,100",
+        "Shemagh_Green,1,-1,0,470,100"
+      ]
+    },
+    {
+      "CategoryName": "Windstride Backpack",
+      "Products": [
+        "Canvas_Backpack_Base,1,-1,0,850,100",
+        "Canvas_Backpack_Purple,1,-1,0,850,100",
+        "Canvas_Backpack_Blue,1,-1,0,850,100",
+        "Canvas_Backpack_Red,1,-1,0,850,100",
+        "Canvas_Backpack_White,1,-1,0,850,100",
+        "Canvas_Backpack_Black,1,-1,0,850,100"
+      ]
+    },
+    {
+      "CategoryName": "Scarf",
+      "Products": [
+        "Scarf_Brown,1,-1,0,389,100",
+        "Scarf_Blue,1,-1,0,389,100",
+        "Scarf_ColorPalette1,1,-1,0,389,100"
+      ]
+    },
+    {
+      "CategoryName": "Windstride Wool",
+      "Products": [
+        "Wool_GreatCoat_Navy,1,-1,0,389,100",
+        "Wool_GreatCoat_Grey,1,-1,0,389,100",
+        "Wool_GreatCoat_Olive,1,-1,0,389,100"
+      ]
+    },
+    {
+      "CategoryName": "Windstride Pants",
+      "Products": [
+	     "Kneepads_Jeans_Base,1,-1,0,530,100",
+        "Kneepads_Jeans_Black,1,-1,0,530,100",
+	    "Legging_Shorts_Black,1,-1,0,389,100",
+        "Galife_Pants_Olive,1,-1,0,389,100",
+        "Galife_Pants_Navy,1,-1,0,389,100"
+      ]
+    },
+    {
+      "CategoryName": "Windstride Vest",
+      "Products": [
+        "Defender_Vest_Classic,1,-1,0,389,100",
+        "Defender_Vest_Black,1,-1,0,389,100"
+      ]
+    },
+    {
+      "CategoryName": "Windstride Lower",
+      "Products": [
+        "BJJ_GI_Lower_White,1,-1,0,389,100",
+        "BJJ_GI_Upper_Black,1,-1,0,389,100",
+        "BJJ_GI_Upper_Blue,1,-1,0,389,100",
+        "BJJ_GI_Upper_White,1,-1,0,389,100",
+        "BJJ_GI_Lower_Black,1,-1,0,389,100",
+        "BJJ_GI_Lower_Blue,1,-1,0,389,100"
+      ]
+    },	

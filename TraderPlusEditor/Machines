@@ -1,0 +1,70 @@
+    {
+      "CategoryName": "Machines",
+      "Products": [
+        "HM_Arcade_Kit,1,-1,0,10000,900",
+        "HM_PC_Kit,1,-1,0,10000,900",
+        "HM_Recycler_Kit,1,-1,0,10000,900",
+        "HM_Trash_Kit,1,-1,0,10000,900",
+        "HM_Printer_Kit,1,-1,0,10000,900",
+        "HM_WashMachine_Kit,1,-1,0,10000,900"
+      ]
+    },
+    {
+      "CategoryName": "Machine Consumables and Components",
+      "Products": [
+        "HM_Resin,1,-1,0,5000,900",
+        "HM_PSU,1,-1,0,5000,900",
+        "HM_GPU,1,-1,0,10000,900",
+        "HM_Detergent,1,-1,0,2500,900"
+      ]
+    },
+    {
+      "CategoryName": "Base Build ",
+      "Products": [
+        "HM_Container_Kit,1,-1,0,100000,30000",
+        "HM_Tag3_Barrel,1,-1,0,5000,900",
+        "HM_Tag2_Barrel,1,-1,0,5000,900",
+        "HM_Tag1_Barrel,1,-1,0,5000,900",
+        "HM_Table_Kit,1,-1,0,5000,900",
+        "HM_Shelf_Kit,1,-1,0,5000,900",
+        "HM_Locker_Kit,1,-1,0,5000,900",
+        "HM_AirDrop_Kit,1,-1,0,5000,900",
+        "HM_Trolley_Kit,1,-1,0,5000,900",
+        "HM_ToolBox_Kit,1,-1,0,5000,900",
+        "HM_MilitaryCrate_Kit,1,-1,0,5000,900",
+        "HM_AmmoCrate_Kit,1,-1,0,5000,900",
+        "HM_Barrel_Kit,1,-1,0,5000,900"
+      ]
+    },
+    {
+      "CategoryName": "Medical Items",
+      "Products": [
+        "HM_Medical_Bag,1,-1,0,1000,300",
+        "HM_AI2,1,-1,0,500,130",
+        "HM_Golden_Star,1,-1,0,500,130",
+        "HM_Propital_Red,1,-1,0,500,130",
+        "HM_Propital_Green,1,-1,0,1000,300",
+        "HM_Emebandage,1,-1,0,500,130",
+        "HM_IFAK_Black,1,-1,0,1500,400",
+        "HM_IFAK,1,-1,0,1000,300"
+      ]
+    },
+    {
+      "CategoryName": "Army Items",
+      "Products": [
+        "HM_Knife,1,-1,0,500,130",
+        "HM_Helmet,1,-1,0,2500,900"
+      ]
+    },
+    {
+      "CategoryName": "Repair Plus",
+      "Products": [
+        "HM_Rasp,1,-1,0,1000,300"
+      ]
+    },
+    {
+      "CategoryName": "Simple Paint",
+      "Products": [
+        "HM_Spraycan_Multi,1,-1,0,1000,300"
+      ]
+    },

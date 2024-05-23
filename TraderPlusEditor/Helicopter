@@ -1,0 +1,65 @@
+       {
+            "CategoryName": "Helicopters",
+            "Products": [
+                "RFFSHeli_LittleBird,1,-1,1,900000,450000,0.5",
+                "RFFSHeli_LittleBird_Camo,1,-1,1,900000,450000,0.5",
+                "RFFSHeli_LittleBird_Desert,1,-1,1,900000,450000,0.5",
+                "RFFSHeli_Bo105m,1,-1,1,1200000,600000,0.5",
+                "RFFSHeli_Bo105m_blackcamo,1,-1,1,1200000,600000,0.5",
+                "RFFSHeli_KA26,1,-1,1,1500000,750000,0.5",
+				        "RFFSHeli_Bell429,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Bell429_Police,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Bell429_Medic,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Bell429_ZS,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Bell429_Uganda,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Mi2,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Mi2_Military,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Mi2_Hornet,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Apache,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Apache_Winter,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_R22,1,-1,1,700000,250000,0.5",
+		        		"RFFSHeli_R22_Red,1,-1,1,700000,250000,0.5",
+		        		"RFFSHeli_R22_Black,1,-1,1,700000,250000,0.5",
+		        		"RFFSHeli_Blackhawk,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Blackhawk_Cargo,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Blackhawk_Woodland,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Blackhawk_blackblackhawk,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_Blackhawk_Budhawk,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_CH53e,1,-1,1,6750000,875000,0.5",
+		        		"RFFSHeli_CH47,1,-1,1,6750000,875000,0.5",
+		        		"RFFSHeli_EC135,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_EC135_BlackCamo,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_UH1H,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_UH1H_Combat,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_AS350,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_S76,1,-1,1,1750000,875000,0.5",
+		        		"RFFSHeli_S76_WoodlandCamo,1,-1,1,1750000,875000,0.5"
+            ]
+        },
+        {
+            "CategoryName": "Helicopter Parts",
+            "Products": [
+                "RFFSHeli_hydraulic_hoses,1,-1,1,1200,600,0.5",
+                "RFFSHeli_wiring_harness,1,-1,1,1200,600,0.5",
+                "RFFSHeli_igniter_plug,1,-1,1,1200,600,0.5",
+                "RFFSHeli_aviation_battery,1,-1,1,1200,600,0.5",
+                "RFFSHeli_hydraulic_fluid,1,-1,1,1200,600,0.5",
+                "RFFSHeli_aviation_toolbox,1,-1,1,3000,1500,0.5",
+                "RFFSHeli_flight_case,1,-1,1,3000,1500,0.5",
+                "RFFSHeli_flight_case_red,1,-1,1,3000,1500,0.5",
+                "RFFSHeli_flight_case_blue,1,-1,1,3000,1500,0.5",
+                "RFFSHeli_batterycharger,1,-1,1,3000,1500,0.5"
+            ]
+        },
+        {
+            "CategoryName": "Helicopter Gear",
+            "Products": [
+                "RFFSHeli_PilotHelmet,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotHelmet_Desert,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotHelmet_Black,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotGloves,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotShirt,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotPants,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotVest,1,-1,1,1200,600,0.5"
+            ]
+        }	

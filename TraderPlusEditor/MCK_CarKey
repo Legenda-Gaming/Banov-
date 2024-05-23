@@ -1,0 +1,36 @@
+   {
+      "CategoryName": "Vehicle Keys",
+      "Products": [
+		  "MCK_CarKey_Base,1,-1,1,130,0",
+          "MCK_CarKey_Blue,1,-1,1,130,0",
+          "MCK_CarKey_Green,1,-1,1,130,0",
+          "MCK_CarKey_White,1,-1,1,130,0",
+          "MCK_CarKey_Yellow,1,-1,1,130,0",
+          "MCK_CarKey_Red,1,-1,1,130,0"
+      ]
+    },
+    {
+      "CategoryName": "Tags for keys",
+      "Products": [
+          "MCK_CarKeyTag_Base,-1,1,160,1",
+          "MCK_CarKeyTag_OlgaBlack,-1,1,160,1",
+          "MCK_CarKeyTag_OlgaWhite,-1,1,160,1",
+          "MCK_CarKeyTag_OlgaWine,-1,1,160,1",
+          "MCK_CarKeyTag_AdaBlue,-1,1,160,1",
+          "MCK_CarKeyTag_AdaWhite,-1,1,160,1",
+          "MCK_CarKeyTag_AdaGreen,-1,1,160,1",
+          "MCK_CarKeyTag_GunterBlue,-1,1,160,1",
+          "MCK_CarKeyTag_GunterBlack,-1,1,160,1",
+          "MCK_CarKeyTag_GunterRed,-1,1,160,1",
+          "MCK_CarKeyTag_SarkaGrey,-1,1,160,1",
+          "MCK_CarKeyTag_SarkaRed,-1,1,160,1",
+          "MCK_CarKeyTag_SarkaYellow,-1,1,160,1",
+          "MCK_CarKeyTag_Black,-1,1,160,1",
+          "MCK_CarKeyTag_Blue,-1,1,160,1",
+          "MCK_CarKeyTag_Green,-1,1,160,1",
+          "MCK_CarKeyTag_Grey,-1,1,160,1",
+          "MCK_CarKeyTag_Red,-1,1,160,1",
+          "MCK_CarKeyTag_White,-1,1,160,1",
+          "MCK_CarKeyTag_Yellow,-1,1,160,1"
+      ]
+    },

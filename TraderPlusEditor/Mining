@@ -1,0 +1,44 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+	{
+      "CategoryName": "Mining Bars Ingots ",
+      "Products": [
+        "FreezeBar_copper,1,32,0,0,250,0.5",
+        "FreezeBar_Eridium,1,32,0,0,250,0.5",
+        "FreezeBar_Crimant,1,32,0,0,250,0.5",
+        "FreezeBar_Cobalt,1,32,0,0,250,0.5",
+        "FreezeBar_Enchanted,1,32,0,0,250,0.5",
+        "FreezeBar_Adamantite,1,32,0,0,250,0.5",
+        "FreezeBar_uranium,1,32,0,0,250,0.5",
+        "FreezeBar_tin,1,32,0,0,250,0.5",
+        "FreezeBar_silver,1,32,0,0,250,0.5",
+        "FreezeBar_iron,1,32,0,0,250,0.5",
+        "FreezeBar_gold,1,32,0,0,250,0.5"
+      ]
+    },
+    {
+      "CategoryName": "Mining Equipment",
+      "Products": [
+        "FreezeAnvil_kit,1,-1,0,1500,100",
+        "FreezeGrindingStone_kit,1,-1,0,1500,100",
+        "FreezeFurnace_Kit,1,-1,0,1500,100"
+      ]
+    },
+    {
+      "CategoryName": "Mining Gems",
+      "Products": [
+        "FreezeGem_Amethyst_Cut,1,-1,0,1000,100",
+        "FreezeGem_Amber_Cut,1,-1,0,1000,100",
+        "FreezeGem_Aquamarine_Cut,1,-1,0,1000,100",
+        "FreezeGem_Iolite_Cut,1,-1,0,1000,100",
+        "FreezeGem_Ruby_Cut,1,-1,0,1000,100",
+        "FreezeGem_Turquoise_Cut,1,-1,0,1000,100",
+        "FreezeGem_Jade_Cut,1,-1,0,1000,100"
+      ]
+    }
+  ]
+}

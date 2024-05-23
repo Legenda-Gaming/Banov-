@@ -1,0 +1,18 @@
+    {
+      "CategoryName": "ECS Bag",
+      "Products": [	  
+           "ECS_Case_Kappa,1,-1,0,5000,400",
+           "ECS_Case_Gamma,1,-1,0,5000,400",
+         "ECS_Case_Epsilon,1,-1,0,5000,400",
+            "ECS_Case_Beta,1,-1,0,5000,400",
+           "ECS_Case_Alpha,1,-1,0,5000,400",
+             "ECS_Case_Big,1,-1,0,5000,400",
+          "ECS_Case_Medium,1,-1,0,5000,400",
+           "ECS_Case_Small,1,-1,0,5000,400",
+        "ECS_Case_Forester,1,-1,0,5000,400",
+        "ECS_Case_Building,1,-1,0,5000,400",
+             "ECS_Case_Car,1,-1,0,5000,400",
+         "ECS_Case_Toolkit,1,-1,0,5000,400"
+      ]
+    },
+

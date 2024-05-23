@@ -1,0 +1,20 @@
+    {
+      "CategoryName": "Vehicles",
+      "Products": [
+        "OffroadHatchback,1,-1,1,14000,8000",
+        "OffroadHatchback_Blue,1,-1,1,14000,8000",
+        "OffroadHatchback_White,1,-1,1,14000,8000",
+        "Hatchback_02,1,-1,1,16000,9600",
+        "Hatchback_02_Blue,1,-1,1,16000,9600",
+        "Hatchback_02_Black,1,-1,1,16000,9600",
+        "Sedan_02,1,-1,1,18000,10200",
+        "Sedan_02_Red,1,-1,1,18000,10200",
+        "Sedan_02_Grey,1,-1,1,18000,10200",
+        "CivilianSedan,1,-1,1,20000,11000",
+        "CivilianSedan_Wine,1,-1,1,20000,11000",
+        "CivilianSedan_Black,1,-1,1,20000,11000",
+        "Truck_01_Covered,1,-1,1,50000,30000",
+        "Truck_01_Covered_Blue,1,-1,1,50000,30000",
+        "Truck_01_Covered_Orange,1,-1,1,50000,30000"
+      ]
+    },

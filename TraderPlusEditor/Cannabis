@@ -1,0 +1,70 @@
+    {
+      "CategoryName": "Cannabis",
+      "Products": [
+	  
+	  "CP_Relief_Balm,1,-1,0,250,50",
+		"CP_RollingPapers,1,-1,300,55,1",
+		"CP_Workbench_Kit,1,-1,0,35500,13000",
+		"CP_DryPost_Kit,1,-1,0,3500,200",
+		"CP_PlasticWrapper,1,-1,0,950,200",
+		"CP_PlasticRoll,1,-1,0,2000,400",
+		"CP_EmptyBag,1,-1,0,25,2",
+		"CP_Bagger,1,-1,0,1300,200"
+      ]
+    },	
+	  {
+      "CategoryName": "Seeds Pack",
+      "Products": [
+	        "CP_CannabisSeedsPackBlackFrost,1,-1,300,78,5",
+			"CP_CannabisSeedsPackNomad,1,-1,300,78,5",
+			"CP_CannabisSeedsPackS1,1,-1,300,78,5",	
+			"CP_CannabisSeedsPackFuture,1,-1,300,78,5",
+			"CP_CannabisSeedsPackStardawg,1,-1,300,78,5",
+			"CP_CannabisSeedsPackKush,1,-1,300,78,5",
+			"CP_CannabisSeedsPackSkunk,1,-1,300,78,5",
+		   "CP_CannabisSeedsPackBlue,1,-1,300,78,5",
+           "CP_CannabisSkunk,1,-1,100,0,5"
+      ]
+    },	
+  	{
+      "CategoryName": "Bag Skunk",
+      "Products": [
+	    "CP_CannabisBagSkunk,1,-1,0,0,8000",
+	  	"CP_CannabisBagBlue,1,-1,0,0,13000",
+		"CP_CannabisBagKush,1,-1,0,0,13000",
+		"CP_CannabisBagStardawg,1,-1,0,0,11000",
+		"CP_CannabisBagFuture,1,-1,0,0,11000",
+		"CP_CannabisBagS1,1,-1,0,0,11000",
+		"CP_CannabisBagNomad,1,-1,0,0,11000",
+		"CP_CannabisBagBlackFrost,1,-1,0,0,11000"
+      ]
+    },
+  	{
+      "CategoryName": "Brick Skunk",
+      "Products": [
+ 		"CP_CannabisBrickBlue,1,-1,0,0,22000",
+		"CP_CannabisBrickKush,1,-1,0,0,22000",
+		"CP_CannabisBrickStardawg,1,-1,0,0,20000",
+		"CP_CannabisBrickFuture,1,-1,0,0,19000",
+		"CP_CannabisBrickS1,1,-1,0,0,18000",
+		"CP_CannabisBrickNomad,1,-1,0,0,21000",
+		"CP_CannabisBrickBlackFrost,1,-1,0,0,21000",
+        "CP_CannabisBrickSkunk,1,-1,0,0,18000"
+      ]
+    },
+	  {
+      "CategoryName": "Cigarette",
+      "Products": [
+        "CigarettePack_Chernamorka,1,-1,0,650,200",
+        "CP_CigarettePack_CannabisSkunk,1,-1,0,714,200",
+        "CigarettePack_Partyzanka,1,-1,0,687,200",
+        "CigarettePack_Merkur,1,-1,0,378,200",
+		"CP_CigarettePack_CannabisBlue,1,-1,0,650,200",
+		"CP_CigarettePack_CannabisKush,1,-1,0,650,200",
+		"CP_CigarettePack_CannabisStardawg,1,-1,0,650,200",
+		"CP_CigarettePack_CannabisFuture,1,-1,0,650,200",
+		"CP_CigarettePack_CannabisS1,1,-1,0,650,200",
+		"CP_CigarettePack_CannabisNomad,1,-1,0,650,200",
+		"CP_CigarettePack_CannabisBlackFrost,1,-1,0,650,200"		
+      ]
+    }

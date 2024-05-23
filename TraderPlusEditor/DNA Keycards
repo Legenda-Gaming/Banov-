@@ -1,0 +1,49 @@
+	{
+      "CategoryName": "DNA Keycards",
+      "Products": [
+        "DNA_KeyCard_Green_Inactive,1,-1,0,0,200",
+        "DNA_KeyCard_Red_Inactive,1,-1,0,0,200",
+        "DNA_KeyCard_Purple_Inactive,1,-1,0,0,200",
+        "DNA_KeyCard_Blue_Inactive,1,-1,0,0,200",
+        "DNA_KeyCard_Green_Inactive,1,-1,0,0,200",
+        "DNA_KeyCard_Yellow_Inactive,1,-1,0,0,200"
+      ]
+    },
+	{
+      "CategoryName": "DimpleKey",
+      "Products": [
+        "DNA_DimpleKey_Yellow,1,-1,0,0,200",
+        "DNA_DimpleKey_Green,1,-1,0,0,200",
+        "DNA_DimpleKey_Blue,1,-1,0,0,200",
+        "DNA_DimpleKey_Purple,1,-1,0,0,200",
+        "DNA_DimpleKey_Red,1,-1,0,0,200",
+        "DNA_DimpleKey_Orange,1,-1,0,0,200"
+      ]
+    },	
+	{
+      "CategoryName": "BlisterPackChip",
+      "Products": [
+        "DNA_KeyCard_BlisterPackChipEmpty,1,-1,0,70,10",
+        "DNA_KeyCard_BlisterPackChip_Yellow,1,-1,0,70,10",
+        "DNA_KeyCard_BlisterPackChip_Green,1,-1,0,70,10",
+        "DNA_KeyCard_BlisterPackChip_Blue,1,-1,0,70,10",
+        "DNA_KeyCard_BlisterPackChip_Purple,1,-1,0,70,10",
+        "DNA_KeyCard_BlisterPackChip_Red,1,-1,0,70,10",
+        "DNA_KeyCard_BlisterPackChip_Orange,1,-1,0,70,10"
+      ]
+    },	
+    {
+      "CategoryName": "DNA Keycards Kit",
+      "Products": [
+        "DNA_Solder_Kit,1,-1,0,3500,100",
+        "DNA_Workbench_Kit,1,-1,0,3000,100",
+        "DNA_Bolts,1,-1,0,450,100",
+        "DNA_Flux,1,-1,300,150,20",
+        "DNA_Solder,1,-1,300,150,20",
+        "DNA_CardReader,1,-1,0,480,100",
+        "DNA_Laptop,1,-1,0,1500,100",
+        "DNA_Battery_40v,1,-1,0,350,100",
+	    "DNA_KeyCard_Yellow_Inactive,1,-1,100,70,10",
+        "DNA_HelpingHands_Kit,1,-1,0,2000,100"
+      ]
+    },
