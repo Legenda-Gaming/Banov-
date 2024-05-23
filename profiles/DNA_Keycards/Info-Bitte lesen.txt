@@ -1,0 +1,10 @@
+99DEZIBEL Download-Bereich. Überarbeitete Konfigurationen für deinen eigenen Server.
+Diese Datei kannst du auf deinem Server hochladen und für deinen eigenen DayZ-Server benutzen.
+Bevor du diese Datei mit deiner original-Datei austauscht, fertige eine Kopie deiner Original-Datei an. (Ein Backup)
+
+Diese Datei bitte in folgendes Verzeichnis deines Spielserver hochladen:
+
+/DEIN_SERVER/SC/DNA_Keycards
+
+
+Für Schäden und Probleme am Server übernehmen wir keinerlei Haftung! Die Nutzung dieser Datei ist auf eigenes Risiko!

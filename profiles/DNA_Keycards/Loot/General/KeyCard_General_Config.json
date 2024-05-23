@@ -1,0 +1,204 @@
+{
+    "m_DNAConfig_Loot": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagNomad"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBrickS1"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagFuture"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "tools",
+            "dna_Type": "Pickaxe"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "material",
+            "dna_Type": "WoodenPlank"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "misc",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "proprietary",
+            "dna_Type": ""
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "medical",
+            "dna_Type": "BloodBagIV"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBrickS1"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBrickS1"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "tools",
+            "dna_Type": "Screwdriver"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "material",
+            "dna_Type": "NailBox"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagFuture"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagBlackFrost"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagSkunk"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Fronta"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "tools",
+            "dna_Type": "Shovel"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "material",
+            "dna_Type": "FenceKit"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagKush"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagKush"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "BandageDressing"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagStardawg"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "WaterBottle"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "tools",
+            "dna_Type": "WoodAxe"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "material",
+            "dna_Type": "TerritoryFlagKit"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagStardawg"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagFuture"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagStardawg"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "Morphine"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagFuture"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Pipsi"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "tools",
+            "dna_Type": "FirefighterAxe_Green"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "material",
+            "dna_Type": "ShelterKit"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagS1"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "CP_CannabisBagNomad"
+        }
+    ]
+}
