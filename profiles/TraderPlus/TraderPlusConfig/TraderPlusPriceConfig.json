@@ -141,38 +141,8 @@
       ]
     },		
     {
-      "CategoryName": "Drinks",
-      "Products": [
-	
-		"Cola,1,-1,300,78,1",
-        "Cola_Cherry,1,-1,300,78,1",
-        "Cola_Light,1,-1,300,77,1",
-        "MonsterEnergy1,1,-1,300,120,1",
-        "MonsterEnergy2,1,-1,300,120,1",
-        "MonsterEnergy3,1,-1,300,120,1",
-        "MonsterEnergy4,1,-1,300,120,1",
-        "MonsterEnergy5,1,-1,300,120,1",
-        "MonsterEnergy6,1,-1,300,120,1",
-        "MonsterEnergy7,1,-1,300,120,1",
-        "MonsterEnergy8,1,-1,300,120,1",
-        "MTN_Dew,1,-1,300,62,1",
-        "MTN_Dew2,1,-1,300,62,1",
-        "Pepsi,1,-1,300,72,1",
-        "Pepsi2,1,-1,300,72,1",
-        "Pepsi_Light,1,-1,300,72,1",
-        "Fanta,1,-1,300,62,1",
-        "Sprite,1,-1,300,62,1",
-        "WaterBottle,1,-1,1000,150,2",
-		"Bottle_Milk,1,-1,1000,150,2",
-        "Bottle_Cola,1,-1,1000,150,2",
-        "Bottle_Pepsi,1,-1,1000,150,2",
-        "Canteen,1,-1,1000,400,40"		
-      ]
-    },
-    {
       "CategoryName": "Soda",
       "Products": [
-	    "Vodka,1,-1,500,77,5",
         "DONFOOD_SodaCan_MelloYello,1,-1,200,70,50",
         "DONFOOD_SodaCan_ArsenalnoeKlassicheskoe,1,-1,200,71,50",
         "DONFOOD_SodaCan_BaltikaDarkLager,1,-1,200,73,50",
@@ -197,7 +167,10 @@
         "DONFOOD_SodaCan_SpriteSugarFree,1,-1,200,78,50",
         "DONFOOD_SodaCan_YesTeaLemon,1,-1,200,68,50",
         "DONFOOD_SodaCan_YesTeaWildberry,1,-1,200,69,50",
-        "DONFOOD_SodaCan_ZhigulyovskoyeLager,1,-1,200,67,50"
+        "DONFOOD_SodaCan_ZhigulyovskoyeLager,1,-1,200,67,50",
+        "WaterBottle,1,-1,1000,150,2",
+        "Vodka,1,-1,500,77,5",
+        "Canteen,1,-1,1000,400,40"	
       ]
     },	
     {
