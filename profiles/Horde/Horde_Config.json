@@ -1,0 +1,422 @@
+{
+    "HordeSpawnInterval": 3600.0,
+    "CityCount": 30,
+    "TownCount": 40,
+    "VillageCount": 30,
+    "MilitaryCount": 60,
+    "HordeCivilianList": [
+        "ZmbM_priestPopSkinny",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_PrisonerSkinny",
+        "ZmbM_PolicemanSpecForce",
+        "ZmbM_PolicemanFat",
+        "ZmbM_PatientSkinny",
+        "ZmbM_ParamedicNormal_Red",
+        "ZmbM_ParamedicNormal_Green",
+        "ZmbM_ParamedicNormal_Blue",
+        "ZmbM_ParamedicNormal_Black",
+        "ZmbM_OffshoreWorker_Yellow",
+        "ZmbM_OffshoreWorker_Red",
+        "ZmbM_OffshoreWorker_Orange",
+        "ZmbM_OffshoreWorker_Green",
+        "ZmbM_MotobikerFat_Black",
+        "ZmbM_MotobikerFat_Beige",
+        "ZmbM_MechanicSkinny_Red",
+        "ZmbM_MechanicSkinny_Grey",
+        "ZmbM_MechanicSkinny_Green",
+        "ZmbM_MechanicSkinny_Blue",
+        "ZmbM_JournalistSkinny",
+        "ZmbM_Jacket_stripes",
+        "ZmbM_Jacket_magenta",
+        "ZmbM_Jacket_khaki",
+        "ZmbM_Jacket_grey",
+        "ZmbM_Jacket_greenchecks",
+        "ZmbM_Jacket_brown",
+        "ZmbM_Jacket_bluechecks",
+        "ZmbM_Jacket_blue",
+        "ZmbM_Jacket_black",
+        "ZmbM_Jacket_beige",
+        "ZmbM_HunterOld_Winter",
+        "ZmbM_HunterOld_Summer",
+        "ZmbM_HunterOld_Spring",
+        "ZmbM_HunterOld_Autumn",
+        "ZmbM_HikerSkinny_Yellow",
+        "ZmbM_HikerSkinny_Green",
+        "ZmbM_HikerSkinny_Blue",
+        "ZmbM_HermitSkinny_Red",
+        "ZmbM_HermitSkinny_Green",
+        "ZmbM_HermitSkinny_Black",
+        "ZmbM_HermitSkinny_Beige",
+        "ZmbM_HeavyIndustryWorker",
+        "ZmbM_HandymanNormal_White",
+        "ZmbM_HandymanNormal_Grey",
+        "ZmbM_HandymanNormal_Green",
+        "ZmbM_HandymanNormal_Blue",
+        "ZmbM_HandymanNormal_Beige",
+        "ZmbM_FishermanOld_Red",
+        "ZmbM_FishermanOld_Grey",
+        "ZmbM_FishermanOld_Green",
+        "ZmbM_FishermanOld_Blue",
+        "ZmbM_FirefighterNormal",
+        "ZmbM_FarmerFat_Green",
+        "ZmbM_FarmerFat_Brown",
+        "ZmbM_FarmerFat_Blue",
+        "ZmbM_FarmerFat_Beige",
+        "ZmbM_DoctorFat",
+        "ZmbM_ConstrWorkerNormal_Grey",
+        "ZmbM_ConstrWorkerNormal_Green",
+        "ZmbM_ConstrWorkerNormal_Black",
+        "ZmbM_ConstrWorkerNormal_Beige",
+        "ZmbM_CommercialPilotOld_Olive",
+        "ZmbM_CommercialPilotOld_Grey",
+        "ZmbM_CommercialPilotOld_Brown",
+        "ZmbM_CommercialPilotOld_Blue",
+        "ZmbM_ClerkFat_White",
+        "ZmbM_ClerkFat_Khaki",
+        "ZmbM_ClerkFat_Grey",
+        "ZmbM_ClerkFat_Brown",
+        "ZmbM_CitizenBFat_Red",
+        "ZmbM_CitizenBFat_Green",
+        "ZmbM_CitizenBFat_Blue",
+        "ZmbM_CitizenASkinny_Red",
+        "ZmbM_CitizenASkinny_Grey",
+        "ZmbM_CitizenASkinny_Brown",
+        "ZmbM_CitizenASkinny_Blue",
+        "ZmbF_VillagerOld_White",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_VillagerOld_Blue",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbF_SurvivorNormal_Red",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_SurvivorNormal_Blue",
+        "ZmbF_SkaterYoung_Violet",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_SkaterYoung_Brown",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_ShortSkirt_white",
+        "ZmbF_ShortSkirt_stripes",
+        "ZmbF_ShortSkirt_red",
+        "ZmbF_ShortSkirt_grey",
+        "ZmbF_ShortSkirt_green",
+        "ZmbF_ShortSkirt_checks",
+        "ZmbF_ShortSkirt_brown",
+        "ZmbF_ShortSkirt_black",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_PoliceWomanNormal",
+        "ZmbF_PatientOld",
+        "ZmbF_ParamedicNormal_Red",
+        "ZmbF_ParamedicNormal_Green",
+        "ZmbF_ParamedicNormal_Blue",
+        "ZmbF_NurseFat",
+        "ZmbF_MilkMaidOld_Grey",
+        "ZmbF_MilkMaidOld_Green",
+        "ZmbF_MilkMaidOld_Black",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_MechanicNormal_Orange",
+        "ZmbF_MechanicNormal_Grey",
+        "ZmbF_MechanicNormal_Green",
+        "ZmbF_MechanicNormal_Beige",
+        "ZmbF_JournalistNormal_White",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_JournalistNormal_Green",
+        "ZmbF_JournalistNormal_Blue",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_JoggerSkinny_Blue",
+        "ZmbF_HikerSkinny_Red",
+        "ZmbF_HikerSkinny_Grey",
+        "ZmbF_HikerSkinny_Green",
+        "ZmbF_HikerSkinny_Blue",
+        "ZmbF_DoctorSkinny",
+        "ZmbF_Clerk_Normal_White",
+        "ZmbF_Clerk_Normal_Red",
+        "ZmbF_Clerk_Normal_Green",
+        "ZmbF_Clerk_Normal_Blue",
+        "ZmbF_CitizenBSkinny",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenANormal_Beige",
+        "ZmbF_BlueCollarFat_White",
+        "ZmbF_BlueCollarFat_Red",
+        "ZmbF_BlueCollarFat_Green",
+        "ZmbF_BlueCollarFat_Blue"
+    ],
+    "HordeMilitaryList": [
+        "ZmbM_SoldierNormal",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer"
+    ],
+ "HordeLocationFuncsArray": [
+    {
+      "x": 5953,
+      "y": 1580,
+      "Name": "Banov Water Pump",
+      "Type": "city"
+    },
+    {
+      "x": 5990,
+      "y": 2435,
+      "Name": "Banov Garage Complex",
+      "Type": "city"
+    },
+    {
+      "x": 3799,
+      "y": 1087,
+      "Name": "Dvorec - North",
+      "Type": "village"
+    },
+    {
+      "x": 3673,
+      "y": 581,
+      "Name": "Dvorec - Central",
+      "Type": "village"
+    },
+    {
+      "x": 2821,
+      "y": 595,
+      "Name": "Dvorec - West",
+      "Type": "village"
+    },
+    {
+      "x": 4782,
+      "y": 537,
+      "Name": "Biskupice West",
+      "Type": "town"
+    },
+    {
+      "x": 5128,
+      "y": 531,
+      "Name": "Biskupice East",
+      "Type": "town"
+    },
+    {
+      "x": 4570,
+      "y": 3415,
+      "Name": "Horne Ozorovce",
+      "Type": "town"
+    },
+    {
+      "x": 6200,
+      "y": 5625,
+      "Name": "Prusy",
+      "Type": "town"
+    },
+    {
+      "x": 4900,
+      "y": 4780,
+      "Name": "Alica Airport",
+      "Type": "military"
+    },
+    {
+      "x": 2860,
+      "y": 6200,
+      "Name": "Dezerice",
+      "Type": "town"
+    },
+    {
+      "x": 2285,
+      "y": 4920,
+      "Name": "Prison Veronika",
+      "Type": "military"
+    },
+    {
+      "x": 1105,
+      "y": 3962,
+      "Name": "Ruskovce",
+      "Type": "town"
+    },
+    {
+      "x": 481,
+      "y": 2870,
+      "Name": "Velke Drzkovce",
+      "Type": "village"
+    },
+    {
+      "x": 1920,
+      "y": 2360,
+      "Name": "Sliezska Osada",
+      "Type": "military"
+    },
+    {
+      "x": 12080,
+      "y": 14845,
+      "Name": "Central Tisovik",
+      "Type": "military"
+    },
+    {
+      "x": 12340,
+      "y": 15060,
+      "Name": "East Tisovik",
+      "Type": "military"
+    },
+    {
+      "x": 14600,
+      "y": 14500,
+      "Name": "Svinna",
+      "Type": "village"
+    },
+    {
+      "x": 8320,
+      "y": 9960,
+      "Name": "OGM - Hospital",
+      "Type": "military"
+    },
+    {
+      "x": 8105,
+      "y": 9945,
+      "Name": "Tents - OGM",
+      "Type": "military"
+    },
+    {
+      "x": 11815,
+      "y": 15075,
+      "Name": "West Tisovik",
+      "Type": "military"
+    },
+    {
+      "x": 6450,
+      "y": 13650,
+      "Name": "Slatina",
+      "Type": "town"
+    },
+    {
+      "x": 4230,
+      "y": 13630,
+      "Name": "Krasna Ves",
+      "Type": "town"
+    },
+    {
+      "x": 755,
+      "y": 13070,
+      "Name": "Motesice",
+      "Type": "town"
+    },
+    {
+      "x": 2065,
+      "y": 11660,
+      "Name": "Central Hrabice",
+      "Type": "military"
+    },
+    {
+      "x": 1745,
+      "y": 11405,
+      "Name": "South Hrabice",
+      "Type": "military"
+    },
+    {
+      "x": 8945,
+      "y": 12350,
+      "Name": "Trebichava",
+      "Type": "village"
+    },
+    {
+      "x": 13105,
+      "y": 12515,
+      "Name": "Zavada",
+      "Type": "village"
+    },
+    {
+      "x": 12645,
+      "y": 10910,
+      "Name": "Ksinna",
+      "Type": "town"
+    },
+    {
+      "x": 4300,
+      "y": 11370,
+      "Name": "Timoradza",
+      "Type": "town"
+    },
+    {
+      "x": 1275,
+      "y": 10635,
+      "Name": "Bobot",
+      "Type": "town"
+    },
+    {
+      "x": 1775,
+      "y": 7750,
+      "Name": "Hornany",
+      "Type": "town"
+    },
+    {
+      "x": 2860,
+      "y": 6200,
+      "Name": "Dezerice",
+      "Type": "town"
+    },
+    {
+      "x": 4695,
+      "y": 6940,
+      "Name": "Podluzany",
+      "Type": "city"
+    },
+    {
+      "x": 7610,
+      "y": 7185,
+      "Name": "Lutov",
+      "Type": "town"
+    },
+    {
+      "x": 9340,
+      "y": 6775,
+      "Name": "Dubnicka",
+      "Type": "town"
+    },
+    {
+      "x": 12075,
+      "y": 6540,
+      "Name": "Zitna Radisa",
+      "Type": "town"
+    },
+    {
+      "x": 11640,
+      "y": 4180,
+      "Name": "Uhrovec",
+      "Type": "town"
+    },
+    {
+      "x": 13850,
+      "y": 3745,
+      "Name": "Jankov",
+      "Type": "military"
+    },
+    {
+      "x": 1295,
+      "y": 695,
+      "Name": "Latkovce",
+      "Type": "town"
+    },
+    {
+      "x": 9925,
+      "y": 1660,
+      "Name": "Miezgovce",
+      "Type": "town"
+    },
+    {
+      "x": 8750,
+      "y": 3120,
+      "Name": "Horne Nastice",
+      "Type": "town"
+    },
+    {
+      "x": 6123,
+      "y": 1193,
+      "Name": "Banov Military Camp",
+      "Type": "military"
+    },
+    {
+      "x": 6181,
+      "y": 2032,
+      "Name": "Banov Amish Zed",
+      "Type": "military"
+    }
+  ]
+}
