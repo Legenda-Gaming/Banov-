@@ -1,0 +1,15 @@
+
+
+RK_ReloaderPress  ==================>>  The Ammo Reloader Press (With Ingredients ""Casings and Bullets"")
+
+RK_Reloader  ==================>>  The Ammo Reloader Press (Without Ingredients)
+
+RK_Bullets  ===================>> Pack of lead bullets (an ingredient)
+
+RK_Casings  ===================>> Pack of brass casings (an ingredient)
+
+RK_EmptyBox  ==================>> Empty Ammo Box (to craft ammunition with)
+
+RK_ReloaderPress_ADMIN  ==================>> The Ammo Reloader Press (With Ingredients ""Casings and Bullets"") """STATIC OBJECT THAT COULD BE PLACED BY ADMINS
+
+RK_Ammo_Admin_Tool  =====================>> A tool that could dismantle the ammo reloader (MADE FOR ADMINS)
