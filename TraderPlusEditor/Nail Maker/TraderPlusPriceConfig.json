@@ -1,0 +1,22 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "Nail Maker",
+      "Products": [
+        "RK_ctrlbox,1,150,0,500,100",
+        "RK_Nail_Admin_Tool,1,150,0,500,100",
+        "RK_nailpress_ADMIN,1,150,0,500,100",
+        "RK_nailpress_die,1,150,0,500,100",
+        "RK_nailpress_ctrlbox,1,150,0,500,100",
+        "RK_nailpress,1,150,0,500,100",
+        "RK_pressonly,1,150,0,500,100",
+        "RK_metal,1,150,0,500,100",
+        "RK_die,1,150,0,500,100"
+      ]
+    }
+  ]
+}
