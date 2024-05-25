@@ -1,0 +1,110 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "Legenda Flage",
+      "Products": [
+        "Legenda_Flage,1,-1,0,600,100"
+      ]
+    },  
+    {
+      "CategoryName": "Legenda Cap",
+      "Products": [
+        "Legenda_Cap_Black,1,-1,0,200,10",
+        "Legenda_Cap_Yellow,1,-1,0,200,10",
+        "Legenda_Cap_White,1,-1,0,200,10",
+        "Legenda_Cap_Red,1,-1,0,200,10",
+        "Legenda_Cap_Pink,1,-1,0,200,10",
+        "Legenda_Cap_Green,1,-1,0,200,10",
+        "Legenda_Cap_Blue,1,-1,0,200,10"
+      ]
+    }, 
+    {
+      "CategoryName": "Legenda Jacket",
+      "Products": [
+        "Legenda_Jacket_Black,1,-1,0,420,100",
+        "Legenda_Jacket_Yellow,1,-1,0,420,100",
+        "Legenda_Jacket_White,1,-1,0,420,100",
+        "Legenda_Jacket_Red,1,-1,0,420,100",
+        "Legenda_Jacket_Pink,1,-1,0,420,100",
+        "Legenda_Jacket_Green,1,-1,0,420,100",
+        "Legenda_Jacket_Blue,1,-1,0,420,100"
+      ]
+    },
+    {
+      "CategoryName": "Legenda Pants",
+      "Products": [
+        "Legenda_CargoPants_Black,1,-1,0,520,100",
+        "Legenda_CargoPants_Yellow,1,-1,0,520,100",
+        "Legenda_CargoPants_White,1,-1,0,550,100",
+        "Legenda_CargoPants_Red,1,-1,0,520,100",
+        "Legenda_CargoPants_Pink,1,-1,0,520,100",
+        "Legenda_CargoPants_Green,1,-1,0,520,100",
+        "Legenda_CargoPants_Blue,1,-1,0,520,100"
+      ]
+    },	
+    {
+      "CategoryName": "Legenda Boots",
+      "Products": [
+        "Legenda_Boots_Black,1,-1,0,233,51",
+        "Legenda_Boots_Yellow,1,-1,0,233,51",
+        "Legenda_Boots_White,1,-1,0,233,51",
+        "Legenda_Boots_Red,1,-1,0,233,51",
+        "Legenda_Boots_Pink,1,-1,0,233,51",
+        "Legenda_Boots_Green,1,-1,0,233,51",
+        "Legenda_Boots_Blue,1,-1,0,233,51"
+      ]
+    },
+    {
+      "CategoryName": "Legenda Vest",
+      "Products": [
+        "Legenda_vest_Black,1,-1,0,1820,280",
+        "Legenda_vest_Yellow,1,-1,0,1820,280",
+        "Legenda_vest_White,1,-1,0,1820,280",
+        "Legenda_vest_Red,1,-1,0,1820,280",
+        "Legenda_vest_Pink,1,-1,0,1820,280",
+        "Legenda_vest_Green,1,-1,0,1820,280",
+        "Legenda_vest_Blue,1,-1,0,1820,280"
+      ]
+    },
+    {
+      "CategoryName": "Legenda Gloves",
+      "Products": [
+        "Legenda_Gloves_Yellow,1,-1,0,120,10",
+        "Legenda_Gloves_Black,1,-1,0,120,10",
+        "Legenda_Gloves_Blue,1,-1,0,120,10",
+        "Legenda_Gloves_Green,1,-1,0,120,10",
+        "Legenda_Gloves_Pink,1,-1,0,120,10",
+        "Legenda_Gloves_Red,1,-1,0,120,10",
+        "Legenda_Gloves_White,1,-1,0,120,10"
+      ]
+    },
+    {
+      "CategoryName": "Legenda Helmet",
+      "Products": [
+        "Legenda_Helmet_Black,1,-1,0,1120,300",
+        "Legenda_Helmet_Yellow,1,-1,0,1120,300",
+        "Legenda_Helmet_White,1,-1,0,1120,300",
+        "Legenda_Helmet_Red,1,-1,0,1120,300",
+        "Legenda_Helmet_Pink,1,-1,0,1120,300",
+        "Legenda_Helmet_Green,1,-1,0,1120,300",
+        "Legenda_Helmet_Blue,1,-1,0,1120,300"
+      ]
+    },	
+    {
+      "CategoryName": "Legenda Bag",
+      "Products": [
+	    "Legenda_Bag_Black,1,-1,0,300,100",
+        "Legenda_Bag_Yellow,1,-1,0,300,100",
+        "Legenda_Bag_White,1,-1,0,300,100",
+        "Legenda_Bag_Red,1,-1,0,300,100",
+        "Legenda_Bag_Pink,1,-1,0,300,100",
+        "Legenda_Bag_Green,1,-1,0,300,100",
+        "Legenda_Bag_Blue,1,-1,0,300,100"
+      ]
+    }
+  ]
+}
