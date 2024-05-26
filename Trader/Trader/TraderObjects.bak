@@ -1,0 +1,796 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// Green Mountain:
+
+ <TraderMarker> 		     0//0 Safezone 
+<TraderMarkerPosition>	7453.278320, 234.932358, 4984.603027
+<TraderMarkerSafezone>	100
+
+// Medical -----------------------------------------------------------------------------
+
+<TraderMarker> 		     0//0 Medical Trader
+<TraderMarkerPosition>	7453.278320, 234.932358, 4984.603027
+<TraderMarkerSafezone>	50
+
+<TraderMarker> 		     0//0 Medical Trader
+<TraderMarkerPosition>	2222.113281, 268.915527, 11558.780273
+<TraderMarkerSafezone>	10
+
+<TraderMarker> 		     0//0 Medical Trader
+<TraderMarkerPosition>	12093.675781, 621.361328, 14874.66210
+<TraderMarkerSafezone>	10
+
+<TraderMarker> 		     0//0 Medical Trader
+<TraderMarkerPosition>  11476.374023, 453.475800, 11832.814453
+<TraderMarkerSafezone>	10
+
+<TraderMarker> 		     0//0 Medical Trader
+<TraderMarkerPosition>  4960.314453, 213.760681, 6575.607422
+<TraderMarkerSafezone>	10
+
+<TraderMarker> 		     0//0 Medical Trader
+<TraderMarkerPosition>  6101.068848, 215.455460, 1777.397339
+<TraderMarkerSafezone>	10
+
+<TraderMarker> 		     0//0 Medical Trader
+<TraderMarkerPosition>  11539.933594, 265.686798, 4410.366211
+<TraderMarkerSafezone>	10
+	
+
+//Food-----------------------------------------------------------------------------
+
+<TraderMarker> 		     1//1 MugMania Trader
+<TraderMarkerPosition>	7418.174805, 234.944534, 4984.621094
+<TraderMarkerSafezone>	80
+
+// Uhrovec
+<TraderMarker> 		     1//1 MugMania Trader
+<TraderMarkerPosition>	11998.899414, 242.041061, 4162.963867
+<TraderMarkerSafezone>	10
+
+// Zavada
+<TraderMarker> 		     1//1 MugMania Trader
+<TraderMarkerPosition>	13062.220703, 362.684845, 12606.378906
+<TraderMarkerSafezone>	10
+
+// Trebichaca
+<TraderMarker> 		     1//1 MugMania Trader
+<TraderMarkerPosition>	8938.961914, 330.329620, 12365.624023
+<TraderMarkerSafezone>	10
+
+// Motesice
+<TraderMarker> 		     1//1 MugMania Trader
+<TraderMarkerPosition>	 780.632202, 261.993195, 13059.074219
+<TraderMarkerSafezone>	10
+
+// Ruskovce
+<TraderMarker> 		     1//1 MugMania Trader
+<TraderMarkerPosition>	 1162.163940, 223.274139, 4154.693359
+<TraderMarkerSafezone>	10
+
+// Ruskovce
+<TraderMarker> 		     1//1 MugMania Trader
+<TraderMarkerPosition>	 1578.204712, 232.932755, 10296.729492
+<TraderMarkerSafezone>	5
+
+//Weapons Dealer-----------------------------------------------------------------------------
+
+<TraderMarker> 		     2//2 Weapons Dealer Trader
+<TraderMarkerPosition>	 4695.585449, 202.770737, 3266.942871
+<TraderMarkerSafezone>	5
+
+<TraderMarker> 		     2//2 Weapons Dealer Trader
+<TraderMarkerPosition>	 12596.038086, 322.505341, 10644.789063
+<TraderMarkerSafezone>	5
+
+<TraderMarker> 		     2//2 Weapons Dealer Trader
+<TraderMarkerPosition>	 841.220642, 254.951492, 8986.192383
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 		     2//2 Weapons Dealer Trader
+<TraderMarkerPosition>	  13232.221680, 335.818207, 1281.490479
+<TraderMarkerSafezone>	0
+ 
+
+ 
+//Weapons Dealer-----------------------------------------------------------------------------
+
+<TraderMarker> 		     3//3 Weapons Dealer Trader
+<TraderMarkerPosition>	 4695.060059, 202.941193, 3272.004639
+<TraderMarkerSafezone>	5
+
+<TraderMarker> 		     3//3 Weapons Dealer Trader
+<TraderMarkerPosition>	 12597.796875, 322.505341, 10645.283203
+<TraderMarkerSafezone>	5
+
+<TraderMarker> 		     3//3 Weapons Dealer Trader
+<TraderMarkerPosition>	 846.616943, 254.951447, 8985.672852
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 		     3//3 Weapons Dealer Trader
+<TraderMarkerPosition>	 13235.113281, 335.818207, 1280.797485
+<TraderMarkerSafezone>	0
+
+//RHG-Bau Trader-----------------------------------------------------------------------------
+   
+<TraderMarker> 		     4//4 RHG-Bau
+<TraderMarkerPosition>	 14521.215820, 435.242737, 12709.312500
+<TraderMarkerSafezone>	10
+
+<TraderMarker> 		     4//4 RHG-Bau
+<TraderMarkerPosition>	 4101.523438, 263.256775, 10191.287109
+<TraderMarkerSafezone>	3
+
+<TraderMarker> 		     4//4 RHG-Bau
+<TraderMarkerPosition>	 1090.405518, 244.877472, 247.502274
+<TraderMarkerSafezone>	 3
+
+<TraderMarker> 		     4//4 RHG-Bau
+<TraderMarkerPosition>	 12880.128906, 314.012939, 602.028870
+<TraderMarkerSafezone>	0
+
+
+
+<TraderMarker> 		     4//4 RHG-Bau
+<TraderMarkerPosition>	  8944.379883, 330.329620, 12364.494141
+<TraderMarkerSafezone>	0
+
+
+		  
+ 
+
+//RHG-Bau MugMania Trader-----------------------------------------------------------------------------
+ 
+<TraderMarker> 		     5//5 RHG-Bau
+<TraderMarkerPosition>	 13061.129883, 362.684875, 12601.440430 
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 		     5//5 RHG-Bau
+<TraderMarkerPosition>	 1157.475952, 223.274155, 4158.335449
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 		     5//5 RHG-Bau
+<TraderMarkerPosition>	 11994.049805, 242.041077, 4166.185059
+<TraderMarkerSafezone>	0
+
+//FabriKrafts Spezial Trader-----------------------------------------------------------------------------
+
+<TraderMarker> 		     6//6 FabriKrafts Spezial
+<TraderMarkerPosition>	 7711.950195, 236.683289, 7229.46240
+<TraderMarkerSafezone>	20
+
+//Blackouts Scorpion Trader-----------------------------------------------------------------------------
+
+<TraderMarker> 			7//7 Blackouts Scorpion
+<TraderMarkerPosition>	5847.113281, 205.923386, 931.065125
+<TraderMarkerSafezone>	10
+<VehicleSpawn>			5844.111816, 205.097931, 929.184143		
+<VehicleSpawnOri>		-0,		0,			0	
+
+<TraderMarker> 			7//7 Blackouts Scorpion
+<TraderMarkerPosition>	12398.708008, 330.960968, 9601.700195
+<TraderMarkerSafezone>	30
+<VehicleSpawn>			12391.993164, 330.960968, 9606.703125		
+<VehicleSpawnOri>		-112.477966, -0.000000, -0.000000	
+
+//Clothing  Trader-----------------------------------------------------------------------------
+
+<TraderMarker> 			8//8 Clothing 
+<TraderMarkerPosition>	1149.885254, 223.274170, 4163.176758
+<TraderMarkerSafezone>	10
+
+<TraderMarker> 			8//8 Clothing 
+<TraderMarkerPosition>	11999.764648, 242.041000, 4166.177246
+<TraderMarkerSafezone>	10
+
+
+<TraderMarker> 			8//8 Clothing 
+<TraderMarkerPosition>	8939.626953, 330.329559, 12362.219727
+<TraderMarkerSafezone>	10
+
+ 
+
+
+//Auto repair shop Trader-----------------------------------------------------------------------------
+
+<TraderMarker> 			9//9  Auto repair shop
+<TraderMarkerPosition>	4204.294434, 233.202499, 11465.735352
+<TraderMarkerSafezone>	50
+<VehicleSpawn>			4203.827637, 233.082443, 11450.889648		
+<VehicleSpawnOri>		178.675858, 0.000000, -0.000000		
+
+
+<TraderMarker> 			9//9  Auto repair shop
+<TraderMarkerPosition>	11605.407227, 293.973480, 6531.432129
+<TraderMarkerSafezone>	3
+<VehicleSpawn>			11595.849609, 293.642487, 6525.622559		
+<VehicleSpawnOri>		-58.250748, 0.000000, -0.000000	
+
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+	
+// Green Mountain:
+
+Safezone
+<Object> 			SurvivorF_Keiko						     
+<ObjectPosition>	7091.382324, 579.735779, 12054.668945	
+<ObjectOrientation>	-135.214630, 0,			0		       		
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+Position: <7091.382324, 579.735779, 12054.668945>
+Orientation:<-135.214630, 0.000000, -0.000000>
+
+//0-----------------Medical------------------------------------------------------------
+      
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	7453.278320, 234.932358, 4984.603027
+<ObjectOrientation>	-28.442751, 0.000000, 0.000000
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>	NioshFaceMask
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	ParamedicJacket_Blue
+<ObjectAttachment>	ParamedicPants_Blue
+<ObjectAttachment>	JoggingShoes_Black
+
+
+// Hrabice
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	2222.113281, 268.915527, 11558.780273
+<ObjectOrientation>	-114.293411, 0.000000, 0.000000
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>	NioshFaceMask
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	ParamedicJacket_Blue
+<ObjectAttachment>	ParamedicPants_Blue
+<ObjectAttachment>	JoggingShoes_Black
+
+// Tisovik
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	12093.675781, 621.361328, 14874.662109
+<ObjectOrientation>	-112.425316, 0.000000, 0.000000
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>	NioshFaceMask
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	ParamedicJacket_Blue
+<ObjectAttachment>	ParamedicPants_Blue
+<ObjectAttachment>	JoggingShoes_Black
+
+// AREA04
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	11476.374023, 453.475800, 11832.814453
+<ObjectOrientation>	158.747406, 0.000000, 0.000000
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>	NioshFaceMask
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	ParamedicJacket_Blue
+<ObjectAttachment>	ParamedicPants_Blue
+<ObjectAttachment>	JoggingShoes_Black
+
+// POdluzay
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	4960.314453, 213.760681, 6575.607422
+<ObjectOrientation>	-153.086380, 0.000000, 0.000000
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>	NioshFaceMask
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	ParamedicJacket_Blue
+<ObjectAttachment>	ParamedicPants_Blue
+<ObjectAttachment>	JoggingShoes_Black
+
+// Ban/Beb
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	6101.068848, 215.455460, 1777.397339
+<ObjectOrientation>	41.266048, 0.000000, 0.000000
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>	NioshFaceMask
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	ParamedicJacket_Blue
+<ObjectAttachment>	ParamedicPants_Blue
+<ObjectAttachment>	JoggingShoes_Black
+
+
+// Uhrovec
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	11539.933594, 265.686798, 4410.366211
+<ObjectOrientation>	75.721390, 0.000000, 0.000000
+<ObjectAttachment>	MedicalScrubsHat_Blue
+<ObjectAttachment>	NioshFaceMask
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	ParamedicJacket_Blue
+<ObjectAttachment>	ParamedicPants_Blue
+<ObjectAttachment>	JoggingShoes_Black
+
+//1-----------------MugMania Trader------------------------------------------------------------
+      
+<Object> 			SurvivorF_Irena						     // Classname
+<ObjectPosition>	7418.174805, 234.944534, 4984.621094	// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<ObjectOrientation>	-16.310881, 0,			0		       	// Yaw, 			Pitch, 			Roll
+<ObjectAttachment>	BoxCerealCrunchin	
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+// Uhrovec
+<Object> 			SurvivorF_Keiko						     
+<ObjectPosition>	11998.899414, 242.041061, 4162.963867	
+<ObjectOrientation>	-38.297840, 0,			0		       	
+<ObjectAttachment>	BoxCerealCrunchin	
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+// Zavada
+<Object> 			SurvivorM_Seth						     
+<ObjectPosition>	13062.220703, 362.684845, 12606.378906
+<ObjectOrientation>	10.437749, 0,			0		       	
+<ObjectAttachment>	BoxCerealCrunchin	
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+// Trebichaca
+<Object> 			SurvivorM_Taiki						     
+<ObjectPosition>	8938.961914, 330.329620, 12365.624023
+<ObjectOrientation>	85.892517, 0,			0		       	
+<ObjectAttachment>	BoxCerealCrunchin	
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+// Motesice
+<Object> 			SurvivorF_Irena						     
+<ObjectPosition>	780.632202, 261.993195, 13059.074219
+<ObjectOrientation>	-0.287129, 0,			0		       						      
+<ObjectAttachment>	BoxCerealCrunchin	
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+// Ruskovce
+<Object> 			SurvivorF_Frida						     
+<ObjectPosition>	1162.163940, 223.274139, 4154.693359
+<ObjectOrientation>	119.190514, 0,			0		       						      
+<ObjectAttachment>	BoxCerealCrunchin	
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+// Bobot
+<Object> 			SurvivorF_Frida						     
+<ObjectPosition>	1578.204712, 232.932755, 10296.729492
+<ObjectOrientation>	125.459724, 0,			0		       						      
+<ObjectAttachment>	BoxCerealCrunchin	
+<ObjectAttachment>	M4A1			      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+Position: <  1578.204712, 232.932755, 10296.729492
+Orientation:<125.459724, 0.000000, -0.000000>
+
+//2-----------------Weapons Dealer------------------------------------------------------------
+
+//Weapons 
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	 4695.585449, 202.770737, 3266.942871
+<ObjectOrientation>	-167.947952, 0,			0
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+
+
+//Weapons2 
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	12596.038086, 322.505341, 10644.789063
+<ObjectOrientation>	85.127861, 0,			0
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+
+//Weapons3 
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	841.220642, 254.951492, 8986.192383
+<ObjectOrientation>	85.765274, 0,			0
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+
+
+//Weapons4
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	13232.221680, 335.818207, 1281.490479
+<ObjectOrientation>	-93.409477, 0,			0
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+
+
+
+//3-----------------Weapons Dealer------------------------------------------------------------
+// Mag
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	4695.060059, 202.941193, 3272.004639
+<ObjectOrientation>	-173.910645, 0,			0
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	AssaultBag_Ttsko
+
+// Mag1
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	12597.796875, 322.505341, 10645.283203
+<ObjectOrientation>	-173.550064, 0,			0
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	AssaultBag_Ttsko
+
+ 
+// Mag2
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	846.616943, 254.951447, 8985.672852
+<ObjectOrientation>	-59.490925, 0,			0
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	AssaultBag_Ttsko 
+
+// Mag3
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	13235.113281, 335.818207, 1280.797485
+<ObjectOrientation>	-105.350761, 0,			0
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	AssaultBag_Ttsko 
+  
+	  Position: <13235.113281, 335.818207, 1280.797485>
+Orientation:<-105.350761, 0.000000, -0.000000>
+
+//4-----------------RHG-Bau------------------------------------------------------------
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	14521.215820, 435.242737, 12709.312500
+<ObjectOrientation>	116.359879, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue 
+
+ 
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	4101.523438, 263.256775, 10191.287109
+<ObjectOrientation>	93.525932, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue 
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	1090.405518, 244.877472, 247.502274
+<ObjectOrientation>	-155.969025, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue 
+ 
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	12880.128906, 314.012939, 602.028870
+<ObjectOrientation>	117.662804, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+Position: <12880.128906, 314.012939, 602.028870>
+Orientation:<117.662804, 0.000000, -0.000000>
+
+//5-----------------RHG-Bau------------------------------------------------------------
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	13061.129883, 362.684875, 12601.440430
+<ObjectOrientation>	12.959894, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue 
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	1157.475952, 223.274155, 4158.335449
+<ObjectOrientation>	125.049446, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	11994.049805, 242.041077, 4166.185059
+<ObjectOrientation>	85.074944, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	8944.379883, 330.329620, 12364.494141
+<ObjectOrientation>	-96.779167, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+
+			Position: <8944.379883, 330.329620, 12364.494141>
+Orientation:<-96.779167, 0.000000, -0.000000>
+
+//6----------------FabriKrafts Spezial------------------------------------------------------------
+
+<Object> 			SurvivorF_Frida						     
+<ObjectPosition>	7711.950195, 236.683289, 7229.462402
+<ObjectOrientation>	-108.303467, 0,			0		       						      				      	
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	MT_TraderJacket
+<ObjectAttachment>	MT_TraderBeret
+<ObjectAttachment>	MT_TraderGloves
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+//7----------------Blackouts Scorpion------------------------------------------------------------
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	5847.113281, 205.923386, 931.065125
+<ObjectOrientation>	-172.903976, 0,			0
+<ObjectAttachment>	vg7_scorpion_helmet
+<ObjectAttachment>	vg7_scorpion_jacket
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	12398.708008, 330.960968, 9601.700195
+<ObjectOrientation>	-105.597137, 0,			0
+<ObjectAttachment>	vg7_scorpion_helmet
+<ObjectAttachment>	vg7_scorpion_jacket
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots
+
+//8----------------Crocos Quadbike------------------------------------------------------------
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	1149.885254, 223.274170, 4163.176758
+<ObjectOrientation>	-174.333282, 0,			0
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	vg7_scorpion_jacket
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots  
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	11999.764648, 242.041000, 4166.177246
+<ObjectOrientation>	-116.120804, 0,			0
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	vg7_scorpion_jacket
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots 
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	8939.626953, 330.329559, 12362.219727
+<ObjectOrientation>	5.728337, 0,			0
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	vg7_scorpion_jacket
+<ObjectAttachment>	MT_TraderPants
+<ObjectAttachment>	MT_TraderBoots 
+
+
+
+Position: <
+ >
+Orientation:<5.728337, 0.000000, -0.000000>
+
+//9----------------Auto repair shop------------------------------------------------------------
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	4204.294434, 233.202499, 11465.735352
+<ObjectOrientation>	-175.487610, 0,			0
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	JumpsuitPants_Red
+<ObjectAttachment>	HikingJacket_Red
+<ObjectAttachment>	MT_TraderBoots 
+
+ <Object> 			SurvivorM_Peter
+<ObjectPosition>	11605.407227, 293.973480, 6531.432129
+<ObjectOrientation>	-124.380592, 0,			0
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	JumpsuitPants_Red
+<ObjectAttachment>	HikingJacket_Red
+<ObjectAttachment>	MT_TraderBoots 
+
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	11587.555664, 293.642456, 6544.244629
+<ObjectOrientation>	120.953354, 0,			0
+<ObjectAttachment>	MT_TraderCap
+<ObjectAttachment>	JumpsuitPants_Red
+<ObjectAttachment>	HikingJacket_Red
+<ObjectAttachment>	MT_TraderBoots 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Object> 			SurvivorF_Keiko
+<ObjectPosition>	3691.41,    402.074,    5998.47
+<ObjectOrientation>	158.253525, 0,			0
+<ObjectAttachment>	Wrench
+<ObjectAttachment>	SledgeHammer
+<ObjectAttachment>	WorkingGloves_Brown
+<ObjectAttachment>	ConstructionHelmet_White
+<ObjectAttachment>	Shirt_BlueCheck
+<ObjectAttachment>	CanvasPants_Blue
+<ObjectAttachment>	WorkingBoots_Grey
+
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	3708.71,    403.153,    5974.79
+<ObjectOrientation>	-51.969990, 0,			0
+<ObjectAttachment>	FirefighterAxe
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+
+
+
+<Object> 			SurvivorF_Frida
+<ObjectPosition>	3703.56,	402.345,	6009.53
+<ObjectOrientation>	174.787735, 0,			0
+<ObjectAttachment>	ThickFramesGlasses
+<ObjectAttachment>	WomanSuit_Black
+<ObjectAttachment>	SlacksPants_Black
+<ObjectAttachment>	DressShoes_Black
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	3724.33,	402.012,	5989.19
+<ObjectOrientation>	-43.954433, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!
