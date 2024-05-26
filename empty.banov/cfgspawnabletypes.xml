@@ -8346,6 +8346,122 @@
 			<item name="SNAFUVSSK_5rdMag" chance="1.00" />
 		</attachments>
 	</type>	
+	<type name="Motoblok_Base">
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Motoblok">
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Motoblok_NT">
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+	</type>
+		</type>
+	<type name="Motoblok_Green">
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Motoblok_NT_Green">
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MotoblokWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+	</type>	
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
