@@ -1,0 +1,87 @@
+        {
+            "CategoryName": "Sidearms",
+            "Products": [
+             "FNX45,1,-1,1,175,90"
+            ]
+        },
+        {
+            "CategoryName": "Magazines",
+            "Products": [
+            "Mag_FNX45_15Rnd,1,-1,0,40,20",
+			"Mag_PP19_64Rnd,1,-1,0,40,20"
+            ]
+        },	
+	    {
+            "CategoryName": "Shotguns",
+            "Products": [
+                "Mp133Shotgun,1,-1,1,500,250"
+            ]
+        },
+
+	    {
+            "CategoryName": "Shotguns",
+            "Products": [
+               "Mag_P1_8Rnd,1,-1,0,40,20",	
+			   "P1,1,-1,0,40,20",
+               "PP19,1,-1,0,40,20",	
+			   "PP19_Bttstck,1,-1,0,40,20",   
+			   "StaticObj_Wreck_BMP1_DE,1,-1,0,40,20",	
+			   "StaticObj_Wreck_BMP1_NoPlacement_DE,1,-1,0,40,20",
+                "MP5K,1,-1,1,1000,450",
+				"MP5k_StockBttstck,1,-1,0,100,50",
+				"MP5_Compensator,1,-1,0,200,100",
+				"MP5_PlasticHndgrd,1,-1,0,100,50",
+				"MP5_RailHndgrd,1,-1,0,150,75",
+                "Mag_MP5_15Rnd,1,-1,0,100,50",
+				"Mag_MP5_30Rnd,1,-1,0,100,50",
+                "Colt1911,1,-1,1,1000,450",
+				"Engraved1911,1,-1,0,100,50",
+				"Mag_1911_7Rnd,1,-1,0,200,100",
+				"Derringer_Grey,1,-1,0,100,50",
+				"Derringer_Pink,1,-1,0,150,75",
+                "FNX45,1,-1,0,100,50",
+				"Mag_FNX45_15Rnd,1,-1,0,100,50",				
+                "UMP45,1,-1,1,1000,450",
+				"MakarovIJ70,1,-1,0,100,50",
+				"Mag_IJ70_8Rnd,1,-1,0,200,100",
+				"Magnum,1,-1,0,100,50",
+				"SawedoffMagnum,1,-1,0,150,75",
+                "Repeater,1,-1,0,100,50",
+				"AK74,1,-1,0,100,50",
+                "AK74_Black,1,-1,1,1000,450",
+				"AK74_Green,1,-1,0,100,50",
+				"AK74_Hndgrd,1,-1,0,200,100",
+				"AK74_WoodBttstck,1,-1,0,100,50",
+				"Mag_AK74_30Rnd,1,-1,0,150,75",
+                "Mag_AK74_45Rnd,1,-1,0,100,50",
+				"AKS74U,1,-1,0,100,50",
+                "AKS74U_Black,1,-1,1,1000,450",
+				"AKS74U_Bttstck,1,-1,0,100,50",
+				"AKS74U_Green,1,-1,0,200,100",
+				"AK101,1,-1,0,100,50",
+				"AK101_Black,1,-1,0,150,75",
+                "AK101_Green,1,-1,0,100,50",
+				"Mag_AK101_30Rnd,1,-1,0,100,50",						
+				"M4A1,1,-1,1,1000,450",
+				"M4A1_Black,1,-1,0,100,50",
+				"M4A1_Green,1,-1,0,200,100",
+				"AKM,1,-1,0,100,50",
+				"Mag_AKM_30Rnd,1,-1,0,150,75",
+                "Mag_AKM_Palm30Rnd,1,-1,0,100,50",
+				"SKS,1,-1,0,100,50",	
+				"SKS_Bayonet,1,-1,1,1000,450",
+				"Mosin9130,1,-1,0,100,50",
+				"Mosin9130_Black,1,-1,0,200,100",
+				"Mosin9130_Camo,1,-1,0,100,50",
+				"Mosin9130_Green,1,-1,0,150,75",
+                "Mosin_Bayonet,1,-1,0,100,50",
+				"SKS,Mosin_Compensator,-1,0,100,50",
+				"Mag_SVD_10Rnd,1,-1,1,1000,450",
+				"SVD,1,-1,0,100,50",
+				"B95,1,-1,0,200,100",
+				"SawedoffB95,1,-1,0,100,50",
+				"Winchester70,1,-1,0,150,75",
+                "Mosin_Bayonet,1,-1,0,100,50",
+				"SKS,Mosin_Compensator,-1,0,100,50"
+            ]
+        },	

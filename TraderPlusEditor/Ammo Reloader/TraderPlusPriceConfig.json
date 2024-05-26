@@ -1,0 +1,20 @@
+{
+  "Version": "2.5",
+  "EnableAutoCalculation": 0,
+  "EnableAutoDestockAtRestart": 0,
+  "EnableDefaultTraderStock": 0,
+  "TraderCategories": [
+    {
+      "CategoryName": "Ammo Reloader",
+      "Products": [
+        "RK_Ammo_Admin_Tool,1,150,0,500,100",
+        "RK_ReloaderPress,1,150,0,500,100",
+        "RK_Reloader,1,150,0,500,100",
+        "RK_Bullets,1,150,0,500,100",
+        "RK_Casings,1,150,0,500,100",
+        "RK_EmptyBox,1,150,0,500,100",
+        "RK_ReloaderPress_ADMIN,1,150,0,500,100"
+      ]
+    }
+  ]
+}

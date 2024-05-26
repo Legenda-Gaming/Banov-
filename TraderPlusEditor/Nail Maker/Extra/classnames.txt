@@ -1,0 +1,17 @@
+RK_ctrlbox =============>> a control box that needs to be attached to the machine (Yellow Box)
+
+RK_die ================>> a die that needs to be attached to the machine (Rusted Metal)
+
+RK_metal =================>> combining this piece with the machine to make boxed nails
+
+RK_pressonly ===================>> the nail making machine (unassembled) ""Needs Control Box and Die to work""
+
+RK_nailpress ====================>> the nail making machine (fully assembled and ready to use with the metal to make boxed nails)
+ 
+RK_nailpress_ctrlbox =================>> the nail machine (Has only the control box attached)
+
+RK_nailpress_die =================>> the nail machine (Has only the die attached)
+
+RK_nailpress_ADMIN ===============>> the nail making machine (fully assembled and ready to use with the metal to make boxed nails) ""MADE FOR ADMINS> STATIC ITEM
+
+RK_Nail_Admin_Tool =============>> Tool made for admins to dismantle the Nail maker
