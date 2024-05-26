@@ -677,122 +677,50 @@
 		<pos x="10568.1" z="3845.92" a="0" y="235.598" group="PoliceUh"/>
 		<pos x="11034.6" z="7233.59" a="0" y="362.075" group="PolicePole"/>
 	</event>
-<!-- -----------------------------Base Motoblok----------------------------- -->
-	<type name="Motoblok_Base">
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-	</type>
-	<type name="Motoblok">
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-	</type>
-	<type name="Motoblok_NT">
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-	</type>
-	<type name="Motoblok_Green">
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-	</type>
-	<type name="Motoblok_NT_Green">
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MotoblokWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-	</type>	
+    <event name="VehicleMotoblok_Base">
+	    <pos x="14197.506836" z="15001.438477" a="159.509903" /> 
+	    <pos x="12586.917969" z="6707.098633" a="-60.298767" />
+	    <pos x="12251.838867" z="10591.579102" a="0.000000" />
+	    <pos x="9120.179688" z="4102.688965" a="75.088684" />
+	    <pos x="6288.408203" z="2370.067383" a="-10.241279" />
+	    <pos x="2779.496094" z="3106.584229" a="-125.971756" />
+	    <pos x="264.438354" z="3772.303711" a="-149.882248" />
+	    <pos x="602.117004" z="5477.761719" a="3.853373" />
+	    <pos x="1032.573730" z="7599.642090" a="78.161987" />
+	    <pos x="1965.168823" z="9141.451172" a="-139.449142" />
+	    <pos x="3003.979736" z="6730.395508" a="-158.241776" />
+	    <pos x="4678.566895" z="4701.260254" a="-71.858521" />
+	    <pos x="1734.718262" z="5067.470215" a="0.000000" />
+	    <pos x="4715.702148" z="6835.060547" a="-122.762741" />
+	    <pos x="3684.912598" z="8565.116211" a="-48.087078" />
+	    <pos x="6769.359863" z="5599.084473" a="-87.743202" />
+	    <pos x="5338.921387" z="8621.576172" a="-144.467178" />
+	    <pos x="6354.699707" z="7457.797363" a="91.080589 " />
+	    <pos x="6924.780762" z="7786.205078" a="-35.822998" />
+	    <pos x="9908.759766" z="5464.221191" a="93.511734" />
+	    <pos x="10013.941406" z="2641.183105" a="142.812729" />
+	    <pos x="11345.787109" z="5485.395996" a="158.352280" />
+	    <pos x="12598.652344" z="4373.564453" a="0.000000" />
+	    <pos x="10687.082031" z="7938.243652" a="-63.023941" />
+	    <pos x="10049.595703" z="10366.745117" a="-166.936523" />
+	    <pos x="8188.718750" z="11602.501953" a="167.884186" />
+	    <pos x="2257.173828" z="10867.528320" a="178.712753" />
+	    <pos x="2042.452271" z="12194.369141" a="-121.140503" />
+	    <pos x="2881.830566" z="9749.255859" a="-39.643162" />
+	    <pos x="3234.368896" z="13735.506836" a="-129.508926" />
+	    <pos x="5648.036133" z="13125.889648" a="114.181007" />
+	    <pos x="7638.208008" z="13253.968750" a="70.248970" />
+	    <pos x="5936.613281" z="10109.048828" a="-145.230652" />
+	    <pos x="10793.230469" z="12461.807617" a="-44.978035" />
+	    <pos x="10291.204102" z="14167.183594" a="146.814743" />
+	    <pos x="4875.046875" z="15001.703125" a="-79.298683" />
+	    <pos x="12110.514648" z="9010.333008" a="115.678932" />
+	    <pos x="3297.533203" z="4917.457031" a="86.169975" />
+	    <pos x="9725.774414" z="8884.853516" a="-145.859634" />
+	    <pos x="12580.278320" z="13821.581055" a="-112.106041" />
+	    <pos x="13094.897461" z="13124.049805" a="-157.270645" />
+	    <pos x="12744.405273" z="15073.472656" a="22.984386" />
+    </event>
 	
 
     <event name="VehicleTransitBus" />
