@@ -1,0 +1,12 @@
+  	{
+      "CategoryName": "Black Market collectibles",
+      "Products": [
+        "rag_baseitems_medium_safe_kit,1,-1,300,0,4100",
+        "rag_baseitems_small_safe_kit,1,-1,300,0,33000",
+        "rag_baseitems_big_safe_kit,1,-1,300,0,6000",
+        "rag_baseitems_small_iron_safe_kit,1,-1,300,0,3600",
+        "rag_baseitems_warrior_kit,1,-1,300,0,7000",
+        "rag_baseitems_odin_kit,1,-1,300,0,7000",
+        "rag_baseitems_totem_kit,1,-1,300,0,4000"
+      ]
+    },  
