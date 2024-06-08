@@ -1,0 +1,220 @@
+	<Category> RaG Vehicles
+		rag_atv_blue,					  VNK,	  120000,		40000
+		rag_atv_red,					  VNK,	  120000,		40000
+		rag_atv_green,					  VNK,	  120000,		40000
+		rag_atv_pink,					  VNK,	  120000,		40000
+		rag_atv_white,					  VNK,	  120000,		40000
+		rag_atv_black,					  VNK,	  120000,		40000
+		rag_baja,					  	  VNK,	  280000,		120000
+		rag_baja_green,					  VNK,	  280000,		120000
+		rag_baja_ryg,					  VNK,	  280000,		120000
+		rag_baja_camo,					  VNK,	  280000,		120000
+		rag_gaz69,               		  VNK,    150000,       50000
+		rag_jeep_willys,               	  VNK,    150000,       50000
+		rag_landrover_110,             	  VNK,    250000,       100000
+		rag_landrover_110_olive,          VNK,    250000,       100000
+		rag_landrover_110_grey,           VNK,    250000,       100000
+	    rag_landrover_110_red,            VNK,    250000,       100000
+		rag_landrover_110_un,             VNK,    250000,       100000
+		rag_landrover_110_black,          VNK,    250000,       100000
+		rag_landrover_110_pink,           VNK,    250000,       100000
+		rag_hummer_Armored,               VNK,    500000,       250000
+		rag_hummer_olive_Armored,         VNK,    500000,       250000
+		rag_hummer_tan_Armored,           VNK,    500000,       250000
+	    rag_hummer_camo_Armored,     	  VNK,    500000,       250000
+		rag_hummer_purple_Armored,        VNK,    500000,       250000
+		rag_hummer_red_Armored,        	  VNK,    500000,       250000
+		rag_hummer_winter_Armored,        VNK,    500000,       250000
+		rag_hummer_anarchy_Armored,       VNK,    500000,       250000
+		rag_mtvr,                         VNK,    500000,       250000
+		rag_mtvr_snow,                    VNK,    500000,       250000
+		rag_zil_130,                      VNK,    500000,       250000
+		rag_schoolbus,               	  VNK,    350000,  		150000
+		rag_schoolbus_czech,              VNK,    350000,  		150000
+		rag_derby_car,					  VNK,	  400000,		150000
+		rag_derby_car_green,			  VNK,	  400000,		150000
+		rag_derby_car_red,				  VNK,	  400000,		150000
+		rag_derby_car_yellow,			  VNK,	  400000,		150000
+		
+		
+		
+		
+		
+		
+	<Category> RaG MTVR Parts
+		rag_mtvr_door_1_1,         					*,      25000,   -1
+		rag_mtvr_door_snow_1_1,         			*,      25000,   -1
+		rag_mtvr_door_1_2,         					*,      25000,   -1
+		rag_mtvr_door_snow_1_2,         			*,      25000,   -1
+		rag_mtvr_hood,         						*,      25000,   -1
+		rag_mtvr_hood_snow,         				*,      25000,   -1
+		rag_mtvr_cargo1door,         				*,      25000,   -1
+		rag_mtvr_cargo1door_snow,         			*,      25000,   -1
+		rag_mtvr_wheel_snow,         				*,      25000,   -1
+		rag_mtvr_wheel,         					*,      25000,   -1
+		
+	<Category> RaG ZIL-130 Parts
+		rag_zil_130_driverdoor,         			*,      25000,   -1
+		rag_zil_130_codriverdoor,         			*,      25000,   -1
+		rag_zil_130_trunk,         					*,      25000,   -1
+		rag_zil_130_hood,         					*,      25000,   -1
+		rag_zil_130_wheel,         					*,      25000,   -1
+		rag_zil_130_wheel_double,         			*,      25000,   -1
+		
+	<Category> RaG Jeep Willys Parts
+		rag_willy_hood,         			*,      20000,   -1
+		rag_willy_wheel,         			*,      20000,   -1
+		
+	<Category> RaG ATV Parts
+		rag_atv_wheel,         						*,      17500,   -1
+		
+	<Category> RaG Hummer Parts
+		Wheel,										*,		-1,		 -1
+		rag_hummer_wheel,         					*,      25000,   -1
+		Driver Door,								*,		-1,		 -1
+		rag_hummer_door_1,         					*,      25000,   -1
+		rag_hummer_door_olive_1,         			*,      25000,   -1
+		rag_hummer_door_tan_1,         				*,      25000,   -1
+		rag_hummer_door_camo_1,         			*,      25000,   -1
+		rag_hummer_door_purple_1,         			*,      25000,   -1
+		rag_hummer_door_red_1,         				*,      25000,   -1
+		rag_hummer_door_winter_1,         			*,      25000,   -1
+		rag_hummer_door_anarchy_1,         			*,      25000,   -1
+		CoDriver Door,								*,		-1,		 -1
+		rag_hummer_door_2,         					*,      25000,   -1
+		rag_hummer_door_olive_2,         			*,      25000,   -1
+		rag_hummer_door_tan_2,         				*,      25000,   -1
+		rag_hummer_door_camo_2,         			*,      25000,   -1
+		rag_hummer_door_purple_2,         			*,      25000,   -1
+		rag_hummer_door_red_2,         				*,      25000,   -1
+		rag_hummer_door_winter_2,         			*,      25000,   -1
+		rag_hummer_door_anarchy_2,         			*,      25000,   -1
+		Passenger behind Driver Door,				*,		-1,		 -1
+		rag_hummer_door_3,         					*,      25000,   -1
+		rag_hummer_door_olive_3,         			*,      25000,   -1
+		rag_hummer_door_tan_3,         				*,      25000,   -1
+		rag_hummer_door_camo_3,         			*,      25000,   -1
+		rag_hummer_door_purple_3,         			*,      25000,   -1
+		rag_hummer_door_red_3,         				*,      25000,   -1
+		rag_hummer_door_winter_3,         			*,      25000,   -1
+		rag_hummer_door_anarchy_3,         			*,      25000,   -1
+		Passenger behind CoDriver Door,				*,		-1,		 -1
+		rag_hummer_door_4,         					*,      25000,   -1
+		rag_hummer_door_olive_4,         			*,      25000,   -1
+		rag_hummer_door_tan_4,         				*,      25000,   -1
+		rag_hummer_door_camo_4,         			*,      25000,   -1
+		rag_hummer_door_purple_4,         			*,      25000,   -1
+		rag_hummer_door_red_4,         				*,      25000,   -1
+		rag_hummer_door_winter_4,         			*,      25000,   -1
+		rag_hummer_door_anarchy_4,         			*,      25000,   -1
+		Hood,										*,		-1,		 -1
+		rag_hummer_hood,         					*,      25000,   -1
+		rag_hummer_hood_olive,         				*,      25000,   -1
+		rag_hummer_hood_tan,         				*,      25000,   -1
+		rag_hummer_hood_camo,         				*,      25000,   -1
+		rag_hummer_hood_purple,         			*,      25000,   -1
+		rag_hummer_hood_red,         				*,      25000,   -1
+		rag_hummer_hood_winter,         			*,      25000,   -1
+		rag_hummer_hood_anarchy,         			*,      25000,   -1
+		Trunk,										*,		-1,		 -1
+		rag_hummer_trunk,         					*,      25000,   -1
+		rag_hummer_trunk_olive,         			*,      25000,   -1
+		rag_hummer_trunk_tan,         				*,      25000,   -1
+		rag_hummer_trunk_camo,         				*,      25000,   -1
+		rag_hummer_trunk_purple,         			*,      25000,   -1
+		rag_hummer_trunk_red,         				*,      25000,   -1
+		rag_hummer_trunk_winter,         			*,      25000,   -1
+		rag_hummer_trunk_anarchy,         			*,      25000,   -1
+		
+	<Category> RaG GAZ69 Parts
+		rag_gaz69_driverdoor,         				*,      20000,   -1
+		rag_gaz69_codriverdoor,         			*,      20000,   -1
+		rag_gaz69_hood,         					*,      20000,   -1
+		rag_gaz69_trunk,         					*,      20000,   -1
+		rag_gaz69_wheel,         					*,      20000,   -1
+		
+	<Category> RaG Landrover Defender Parts
+		Wheels,												*,		-1,		 -1
+		rag_landrover_110_wheel,         					*,      25000,   -1
+		rag_landrover_110_wheel_olive,         				*,      25000,   -1
+		rag_landrover_110_wheel_grey,         				*,      25000,   -1
+		rag_landrover_110_wheel_red,         				*,      25000,   -1
+		rag_landrover_110_wheel_un,         				*,      25000,   -1
+		rag_landrover_110_wheel_black,         				*,      25000,   -1
+		rag_landrover_110_wheel_pink,         				*,      25000,   -1
+		Driver Door,										*,		-1,		 -1
+		rag_landrover_110_driverdoor,         				*,      25000,   -1
+		rag_landrover_110_driverdoor_olive,         		*,      25000,   -1
+		rag_landrover_110_driverdoor_grey,         			*,      25000,   -1
+		rag_landrover_110_driverdoor_red,         			*,      25000,   -1
+		rag_landrover_110_driverdoor_un,         			*,      25000,   -1
+		rag_landrover_110_driverdoor_black,         		*,      25000,   -1
+		rag_landrover_110_driverdoor_pink,         			*,      25000,   -1
+		CoDriver Door,										*,		-1,		 -1
+		rag_landrover_110_codriverdoor,         			*,      25000,   -1
+		rag_landrover_110_codriverdoor_olive,         		*,      25000,   -1
+		rag_landrover_110_codriverdoor_grey,         		*,      25000,   -1
+		rag_landrover_110_codriverdoor_red,         		*,      25000,   -1
+		rag_landrover_110_codriverdoor_un,         			*,      25000,   -1
+		rag_landrover_110_codriverdoor_black,         		*,      25000,   -1
+		rag_landrover_110_codriverdoor_pink,         		*,      25000,   -1
+		Hood,												*,		-1,		 -1
+		rag_landrover_110_hood,         					*,      25000,   -1
+		rag_landrover_110_hood_olive,         				*,      25000,   -1
+		rag_landrover_110_hood_grey,         				*,      25000,   -1
+		rag_landrover_110_hood_red,         				*,      25000,   -1
+		rag_landrover_110_hood_un,         					*,      25000,   -1
+		rag_landrover_110_hood_black,         				*,      25000,   -1
+		rag_landrover_110_hood_pink,         				*,      25000,   -1
+		Passenger Door behind Driver,						*,		-1,		 -1
+		rag_landrover_110_cargo1,         					*,      25000,   -1
+		rag_landrover_110_cargo1_olive,         			*,      25000,   -1
+		rag_landrover_110_cargo1_grey,         				*,      25000,   -1
+		rag_landrover_110_cargo1_red,         				*,      25000,   -1
+		rag_landrover_110_cargo1_un,         				*,      25000,   -1
+		rag_landrover_110_cargo1_black,         			*,      25000,   -1
+		rag_landrover_110_cargo1_pink,         				*,      25000,   -1
+		Passenger Door behind CoDriver,						*,		-1,		 -1
+		rag_landrover_110_cargo2,         					*,      25000,   -1
+		rag_landrover_110_cargo2_olive,         			*,      25000,   -1
+		rag_landrover_110_cargo2_grey,         				*,      25000,   -1
+		rag_landrover_110_cargo2_red,         				*,      25000,   -1
+		rag_landrover_110_cargo2_un,         				*,      25000,   -1
+		rag_landrover_110_cargo2_black,         			*,      25000,   -1
+		rag_landrover_110_cargo2_pink,         				*,      25000,   -1
+		Passenger Back Door,								*,		-1,		 -1
+		rag_landrover_110_cargo3,         					*,      25000,   -1
+		rag_landrover_110_cargo3_olive,         			*,      25000,   -1
+		rag_landrover_110_cargo3_grey,         				*,      25000,   -1
+		rag_landrover_110_cargo3_red,         				*,      25000,   -1
+		rag_landrover_110_cargo3_un,         				*,      25000,   -1
+		rag_landrover_110_cargo3_black,         			*,      25000,   -1
+		rag_landrover_110_cargo3_pink,         				*,      25000,   -1
+		
+	<Category> RaG Schoolbus Parts
+		rag_schoolbus_hood,         			*,      25000,   -1
+		rag_schoolbus_wheel,         			*,      25000,   -1
+		rag_schoolbus_wheel_double,         	*,      25000,   -1
+		
+	<Category> RaG Baja Parts
+		rag_baja_driverdoor,         				*,      20000,   -1
+		rag_baja_driverdoor_green,         			*,      20000,   -1
+		rag_baja_driverdoor_ryg,         			*,      20000,   -1
+		rag_baja_driverdoor_camo,         			*,      20000,   -1
+		rag_baja_codriverdoor,         				*,      20000,   -1
+		rag_baja_codriverdoor_green,         		*,      20000,   -1
+		rag_baja_codriverdoor_ryg,         			*,      20000,   -1
+		rag_baja_codriverdoor_camo,         		*,      20000,   -1
+		rag_baja_wheel,         					*,      20000,   -1
+		rag_baja_wheel_big,         				*,      20000,   -1
+		
+	<Category> RaG Derby Car Parts
+		rag_derby_car_driverdoor,         			*,      25000,   -1
+		rag_derby_car_driverdoor_green,         	*,      25000,   -1
+		rag_derby_car_driverdoor_red,         		*,      25000,   -1
+		rag_derby_car_driverdoor_yellow,         	*,      25000,   -1
+		rag_derby_car_codriverdoor,         		*,      25000,   -1
+		rag_derby_car_codriverdoor_green,         	*,      25000,   -1
+		rag_derby_car_codriverdoor_red,         	*,      25000,   -1
+		rag_derby_car_codriverdoor_yellow,         	*,      25000,   -1
+		rag_derby_car_wheel,         				*,      25000,   -1

@@ -1,0 +1,65 @@
+	{
+      "CategoryName": "atv",
+      "Products": [
+		   "rag_atv_blue,1,-1,0,120000,40000",		
+		   "rag_atv_red,1,-1,0,120000,40000",			
+		   "rag_atv_green,1,-1,0,120000,40000",			
+		   "rag_atv_pink,1,-1,0,120000,40000",				
+	       "rag_atv_white,1,-1,0,120000,40000",					 
+		   "rag_atv_black,1,-1,0,120000,40000"
+      ]
+    },
+	{
+      "CategoryName": "baja",
+      "Products": [
+		   "rag_baja,1,-1,0,280000,120000",		
+		   "rag_baja_green,1,-1,0,280000,120000",			
+		   "rag_baja_ryg,1,-1,0,280000,120000"		
+      ]
+    },
+	{
+      "CategoryName": "rag,
+      "Products": [
+		   "rag_mtvr,1,-1,0,500000,250000",		
+		   "rag_zil_130,1,-1,0,500000,250000",	  
+		   "rag_mtvr,1,-1,0,500000,250000",		
+		   "rag_schoolbus,1,-1,0,350000,100000",		
+		   "rag_schoolbus_czech,1,-1,0,370000,100000",		   
+		   "rag_jeep_willys,1,-1,0,170000,52000",		
+		   "rag_gaz69,1,-1,0,150000,50000"	   
+      ]
+    },
+	{
+      "CategoryName": "landrover",
+      "Products": [
+		   "rag_landrover_110,1,-1,0,250000,100000",		
+		   "rag_landrover_110_olive,1,-1,0,251000,100000",			
+		   "rag_landrover_110_grey,1,-1,0,252000,100000",			
+		   "rag_landrover_110_red,1,-1,0,253000,100000",				
+	       "rag_landrover_110_un,1,-1,0,254000,100000",
+	       "rag_landrover_110_black,1,-1,0,255000,100000",		   
+		   "rag_landrover_110_pink,1,-1,0,256000,100000"
+      ]
+    },
+	{
+      "CategoryName": "hummer",
+      "Products": [
+		   "rag_hummer_Armored,1,-1,0,500000,250000",		
+		   "rag_hummer_olive_Armored,1,-1,0,500000,250000",			
+		   "rag_hummer_tan_Armored,1,-1,0,500000,250000",			
+		   "rag_hummer_camo_Armored,1,-1,0,500000,250000",				
+	       "rag_hummer_purple_Armored,1,-1,0,500000,250000",
+	       "rag_hummer_red_Armored,1,-1,0,500000,250000",		   
+		   "rag_hummer_anarchy_Armored,1,-1,0,500000,250000"
+      ]
+    },	
+
+	{
+      "CategoryName": "hummer",
+      "Products": [
+		   "rag_derby_car,1,-1,0,400000,150000",		
+		   "rag_derby_car_green,1,-1,0,400000,150000",			
+		   "rag_derby_car_red,1,-1,0,400000,150000",			
+		   "rag_derby_car_yellow,1,-1,0,400000,150000"		
+      ]
+    },	
