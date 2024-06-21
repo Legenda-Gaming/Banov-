@@ -48,11 +48,11 @@
     "dna_RandomizeLootSet2": 1,
     "dna_LootSet2Count": 3,
     "dna_LootSetG2": [
-        "BoxCerealCrunchin",
-        "PeachesCan_Opened",
-        "TacticalBaconCan",
-        "BakedBeansCan",
-        "BakedBeansCan_Opened"
+        "CP_CannabisSeedsPackStardawg",
+        "CP_CannabisSeedsPackSkunk",
+        "Metro_Watch",
+        "ONLI_Graviti2",
+        "CJ_Battery9V_1"
     ],
     "dna_SpawnLootSet3": 1,
     "dna_RandomizeLootSet3": 1,
@@ -68,10 +68,10 @@
     "dna_RandomizeLootSet4": 0,
     "dna_LootSet4Count": 3,
     "dna_LootSetG4": [
-        "WoodenPlank",
-        "NailBox",
+        "Hammer",
+        "Hacksaw",
         "Shovel",
         "WoodAxe",
-        "Screwdriver"
+        "SledgeHammer"
     ]
 }

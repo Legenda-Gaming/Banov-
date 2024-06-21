@@ -7,29 +7,29 @@
     "dna_WeaponCount": 1,
     "weaponTypesPurple": [
         {
-            "dna_TheChosenOne": "TP_MK18",
-            "dna_Magazine": "TP_MK18_Mag",
+            "dna_TheChosenOne": "",
+            "dna_Magazine": "SNAFUAPS_20rdMag",
             "dna_SpareMagCount": 1,
             "dna_Ammunition": "",
             "dna_SpareAmmoCount": 1,
             "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "TP_MK18_butsstock",
+            "dna_ButtStock": "",
             "dna_HandGuard": "",
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "TP_SR47",
-            "dna_Magazine": "TP_SR47_Mag",
+            "dna_TheChosenOne": "",
+            "dna_Magazine": "",
             "dna_SpareMagCount": 1,
             "dna_Ammunition": "",
             "dna_SpareAmmoCount": 1,
             "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "TP_SR47_butsstock",
-            "dna_HandGuard": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "M18SmokeGrenade_Green",
             "dna_Wrap": ""
         }
     ],
@@ -48,11 +48,11 @@
     "dna_RandomizeLootSet2": 1,
     "dna_LootSet2Count": 3,
     "dna_LootSetP2": [
-        "BoxCerealCrunchin",
-        "PeachesCan_Opened",
-        "TacticalBaconCan",
-        "BakedBeansCan",
-        "BakedBeansCan_Opened"
+        "CP_CannabisSeedsPackStardawg",
+        "CP_CannabisSeedsPackSkunk",
+        "Metro_Watch",
+        "ONLI_Graviti2",
+        "CJ_Battery9V_1"
     ],
     "dna_SpawnLootSet3": 1,
     "dna_RandomizeLootSet3": 1,
@@ -68,10 +68,10 @@
     "dna_RandomizeLootSet4": 0,
     "dna_LootSet4Count": 3,
     "dna_LootSetP4": [
-        "WoodenPlank",
-        "NailBox",
+        "Hammer",
+        "Hacksaw",
         "Shovel",
         "WoodAxe",
-        "Screwdriver"
+        "SledgeHammer"
     ]
 }

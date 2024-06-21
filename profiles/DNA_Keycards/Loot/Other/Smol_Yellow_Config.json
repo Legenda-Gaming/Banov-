@@ -20,10 +20,10 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "TP_PKP",
+            "dna_TheChosenOne": "",
             "dna_Magazine": "",
             "dna_SpareMagCount": 0,
-            "dna_Ammunition": "TP_PKP_Magazine",
+            "dna_Ammunition": "TTC_AmmoBox_792x33_20Rnd",
             "dna_SpareAmmoCount": 1,
             "dna_OpticType": "",
             "dna_Suppressor": "",
@@ -48,11 +48,11 @@
     "dna_RandomizeLootSet2": 1,
     "dna_LootSet2Count": 3,
     "dna_LootSetY2": [
-        "BoxCerealCrunchin",
-        "PeachesCan_Opened",
-        "TacticalBaconCan",
-        "BakedBeansCan",
-        "BakedBeansCan_Opened"
+        "CP_CannabisSeedsPackStardawg",
+        "CP_CannabisSeedsPackSkunk",
+        "Metro_Watch",
+        "ONLI_Graviti2",
+        "CJ_Battery9V_1"
     ],
     "dna_SpawnLootSet3": 1,
     "dna_RandomizeLootSet3": 1,
@@ -68,10 +68,10 @@
     "dna_RandomizeLootSet4": 0,
     "dna_LootSet4Count": 3,
     "dna_LootSetY4": [
-        "WoodenPlank",
-        "NailBox",
+        "Hammer",
+        "Hacksaw",
         "Shovel",
         "WoodAxe",
-        "Screwdriver"
+        "SledgeHammer"
     ]
 }

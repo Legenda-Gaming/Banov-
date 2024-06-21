@@ -7,8 +7,8 @@
     "dna_WeaponCount": 1,
     "weaponTypesRed": [
         {
-            "dna_TheChosenOne": "TP_M200",
-            "dna_Magazine": "TP_M200_Mag_5Rnd",
+            "dna_TheChosenOne": "",
+            "dna_Magazine": "SNAFUAPS_20rdMag",
             "dna_SpareMagCount": 1,
             "dna_Ammunition": "",
             "dna_SpareAmmoCount": 1,
