@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-<event name="StaticYRTSK_UFO_Crash">
-        <nominal>25</nominal>
+    <event name="VehicleMotoblok_Base">
+        <nominal>6</nominal>
+        <min>5</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok_NT"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok_NT_Green"/>
+        </children>
+    </event>
+    <event name="StaticYRTSK_UFO_Crash">
+        <nominal>6</nominal>
         <min>2</min>
-        <max>10</max>
+        <max>5</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -19,7 +39,7 @@
          </children>
     </event>
 		<event name="StaticAmbulanceCar">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
@@ -37,9 +57,9 @@
          </children>
     </event>
 		<event name="InfectedAlien">
-        <nominal>25</nominal>
+        <nominal>30</nominal>
         <min>5</min>
-        <max>15</max>
+        <max>25</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -75,9 +95,9 @@
         </children>
     </event>
     <event name="AnimalBear">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <min>2</min>
-        <max>10</max>
+        <max>8</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -187,7 +207,7 @@
         </children>
     </event>
     <event name="AnimalSheep">
-        <nominal>5</nominal>
+        <nominal>8</nominal>
         <min>4</min>
         <max>5</max>
         <lifetime>180</lifetime>
@@ -222,9 +242,9 @@
         </children>
     </event>
     <event name="AnimalWolf">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <min>4</min>
-        <max>4</max>
+        <max>6</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -253,6 +273,94 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_PatrolNormal_Summer_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_PatrolNormal_Summer_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_YELLOW_PatrolNormal_Summer_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_GREEN_PatrolNormal_Summer_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_BLUE_PatrolNormal_Summer_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PURPLE_PatrolNormal_Summer_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_PatrolNormal_Summer_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_SoldierNormal_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_usSoldier_normal_Woodland_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_usSoldier_normal_Desert_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_CommercialPilotOld_Blue_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_CommercialPilotOld_Olive_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_CommercialPilotOld_Brown_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_CommercialPilotOld_Grey_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_PatrolNormal_PautRev_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_PatrolNormal_Autumn_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_PatrolNormal_Flat_M"/>
+			<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_PatrolNormal_Summer_M"/>
             <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_PatrolNormal_Autumn"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Flat"/>
             <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
@@ -301,46 +409,80 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_BlueCollarFat_White"/>
-            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbF_CitizenANormal_Beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbF_CitizenANormal_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_CitizenBSkinny"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_Clerk_Normal_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_Clerk_Normal_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_Clerk_Normal_White"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_JournalistNormal_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_JournalistNormal_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_JournalistNormal_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_ShortSkirt_beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_ShortSkirt_brown"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_ShortSkirt_checks"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_ShortSkirt_green"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_ShortSkirt_grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_ShortSkirt_white"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_ShortSkirt_yellow"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_SkaterYoung_Brown"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_SkaterYoung_Striped"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_SkaterYoung_Violet"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_SurvivorNormal_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_SurvivorNormal_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_SurvivorNormal_White"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CitizenASkinny_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CitizenASkinny_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CitizenASkinny_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CitizenBFat_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CitizenBFat_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CitizenBFat_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_ClerkFat_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_ClerkFat_Khaki"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_ClerkFat_White"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CommercialPilotOld_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CommercialPilotOld_Brown"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_CommercialPilotOld_Olive"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_JournalistSkinny"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_MotobikerFat_Beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_SkaterYoung_Brown"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_SkaterYoung_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_SkaterYoung_Grey"/>
+			<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_YELLOW_BlueCollarFat_Blue_F"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_YELLOW_BlueCollarFat_Green_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_YELLOW_BlueCollarFat_Red_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_YELLOW_BlueCollarFat_White_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_CitizenANormal_Beige_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_CitizenANormal_Brown_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_CitizenANormal_Blue_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_CitizenASkinny_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_CitizenASkinny_Brown_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_CitizenASkinny_Grey_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_CitizenASkinny_Red_M"/>			
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_GREEN_CitizenBSkinny_F"/>		
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_Clerk_Normal_Blue_F"/>
+	      	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_Clerk_Normal_White_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_Clerk_Normal_Green_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_GREEN_Clerk_Normal_Red_F"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_BLUE_JournalistNormal_Blue_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_BLUE_JournalistNormal_Green_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_BLUE_JournalistNormal_Red_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_BLUE_JournalistNormal_White_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_black_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_brown_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_green_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_grey_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_checks_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_red_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_stripes_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_white_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_RED_ShortSkirt_yellow_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_SkaterYoung_Blue_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_SkaterYoung_Brown_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_SkaterYoung_Brown_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_SkaterYoung_Green_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_SkaterYoung_Grey_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_SkaterYoung_Striped_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_SkaterYoung_Violet_F"/>
+			<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenASkinny_Blue_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenASkinny_Brown_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenASkinny_Grey_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenASkinny_Red_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenBFat_Blue_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenBFat_Red_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenBFat_Green_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_CitizenBSkinny_F"/>	
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_ClerkFat_Brown_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_ClerkFat_Grey_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_ClerkFat_Khaki_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_ClerkFat_White_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PURPLE_ClerkFat_White_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_PINK_CommercialPilotOld_Blue_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_PINK_CommercialPilotOld_Olive_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_PINK_CommercialPilotOld_Brown_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="1" type="CDS_PINK_CommercialPilotOld_Grey_M"/>			
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_beige_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_black_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_blue_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_bluechecks_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_brown_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_greenchecks_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_grey_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_khaki_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_magenta_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_Jacket_stripes_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_WHITE_JournalistSkinny_M"/>			
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_WHITE_MotobikerFat_Beige_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_WHITE_MotobikerFat_Black_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="2" type="CDS_WHITE_MotobikerFat_Blue_M"/>			
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_WHITE_SkaterYoung_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_WHITE_SkaterYoung_Brown_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_WHITE_SkaterYoung_Brown_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_WHITE_SkaterYoung_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_WHITE_SkaterYoung_Grey_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_WHITE_SkaterYoung_Striped_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="1" type="CDS_WHITE_SkaterYoung_Violet_F"/> 
         </children>
     </event>
     <event name="InfectedCityTier1">
@@ -385,7 +527,11 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_FirefighterNormal"/>
+		<child lootmax="5" lootmin="0" max="0" min="90" type="CDS_YELLOW_FirefighterNormal_M"/>
+		<child lootmax="5" lootmin="0" max="0" min="90" type="CDS_YELLOW_FishermanOld_Blue_M"/>
+		<child lootmax="5" lootmin="0" max="0" min="90" type="CDS_YELLOW_FishermanOld_Green_M"/>
+		<child lootmax="5" lootmin="0" max="0" min="90" type="CDS_YELLOW_FishermanOld_Grey_M"/>
+		<child lootmax="5" lootmin="0" max="0" min="90" type="CDS_YELLOW_FishermanOld_Red_M"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
         </children>
     </event>
@@ -403,38 +549,41 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_BlueCollarFat_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_BlueCollarFat_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_BlueCollarFat_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_BlueCollarFat_White"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_MechanicNormal_Beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_MechanicNormal_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_MechanicNormal_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbF_MechanicNormal_Orange"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_ConstrWorkerNormal_Beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_ConstrWorkerNormal_Black"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_ConstrWorkerNormal_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_ConstrWorkerNormal_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_White"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HeavyIndustryWorker"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_MechanicSkinny_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_MechanicSkinny_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_MechanicSkinny_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_MechanicSkinny_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Orange"/>
-            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_OffshoreWorker_Yellow"/>
+    	    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_MechanicNormal_Green_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_MechanicNormal_Grey_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_MechanicNormal_Orange_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_MechanicSkinny_Blue_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_MechanicSkinny_Grey_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_MechanicSkinny_Green_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_MechanicSkinny_Red_M"/>	
+     	    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_BlueCollarFat_Blue_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_BlueCollarFat_Green_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_BlueCollarFat_Red_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_BlueCollarFat_White_F"/>	
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_ConstrWorkerNormal_Beige_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_ConstrWorkerNormal_Black_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_ConstrWorkerNormal_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_ConstrWorkerNormal_Grey_M"/>			
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_HandymanNormal_Beige_M"/>
+	     	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_HandymanNormal_Grey_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_HandymanNormal_Blue_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_HandymanNormal_Grey_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_HandymanNormal_White_M"/>			
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_RED_HeavyIndustryWorker_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_MechanicSkinny_Blue_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_MechanicSkinny_Grey_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_MechanicSkinny_Green_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="4" type="CDS_ORANGE_MechanicSkinny_Red_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_ORANGE_OffshoreWorker_Green_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_ORANGE_OffshoreWorker_Orange_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_ORANGE_OffshoreWorker_Red_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_ORANGE_OffshoreWorker_Yellow_M"/>
         </children>
     </event>
     <event name="InfectedMedic">
         <nominal>50</nominal>
         <min>25</min>
-        <max>100</max>
+        <max>200</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -445,19 +594,18 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbF_DoctorSkinny"/>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_NurseFat"/>
+		    <child lootmax="5" lootmin="0" max="0" min="10" type="CDS_WHITE_DoctorSkinny_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="7" type="CDS_WHITE_NurseFat_F"/>		
+	    	<child lootmax="5" lootmin="0" max="0" min="7" type="CDS_WHITE_PatientOld_F"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_ParamedicNormal_Blue"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_ParamedicNormal_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_ParamedicNormal_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_PatientOld"/>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_ParamedicNormal_Red"/>	
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_DoctorFat"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Black"/>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Blue"/>
+            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Blue"/>		
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Green"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_PatientSkinny"/>
+		    <child lootmax="5" lootmin="0" max="0" min="7" type="CDS_WHITE_PatientSkinny_M"/>
         </children>
     </event>
     <event name="InfectedNBC">
@@ -508,10 +656,9 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_PoliceWomanNormal"/>
-            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_PolicemanFat"/>
-            <child lootmax="5" lootmin="0" max="20" min="0" type="ZmbM_PolicemanSpecForce"/>
-            <child lootmax="5" lootmin="0" max="20" min="0" type="ZmbM_PolicemanSpecForce_Heavy"/>
+			<child lootmax="5" lootmin="0" max="20" min="0" type="CDS_RED_PolicemanFat_M"/>
+	    	<child lootmax="5" lootmin="0" max="20" min="0" type="CDS_RED_PoliceWomanNormal_F"/>
+		    <child lootmax="5" lootmin="0" max="20" min="0" type="CDS_RED_PolicemanSpecForce_M"/>
         </children>
     </event>
     <event name="InfectedPoliceHard">
@@ -528,8 +675,10 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="100" min="90" type="ZmbM_PolicemanSpecForce_Heavy"/>
-            <child lootmax="5" lootmin="0" max="10" min="0" type="ZmbM_PrisonerSkinny"/>
+			<child lootmax="5" lootmin="0" max="100" min="90" type="CDS_RED_PolicemanFat_M"/>
+	     	<child lootmax="5" lootmin="0" max="100" min="0" type="CDS_RED_PoliceWomanNormal_F"/>
+	     	<child lootmax="5" lootmin="0" max="100" min="0" type="CDS_RED_PolicemanSpecForce_M"/>
+			<child lootmax="5" lootmin="0" max="10" min="0" type="CDS_ORANGE_PrisonerSkinny_M"/>
         </children>
     </event>
     <event name="InfectedPrisoner">
@@ -563,7 +712,7 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_priestPopSkinny"/>
+		<child lootmax="5" lootmin="0" max="0" min="100" type="CDS_YELLOW_PrisonerSkinny_M"/>
         </children>
     </event>
     <event name="InfectedSanta">
@@ -597,25 +746,25 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbF_HikerSkinny_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbF_HikerSkinny_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbF_HikerSkinny_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbF_HikerSkinny_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_FishermanOld_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_FishermanOld_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_FishermanOld_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_FishermanOld_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HermitSkinny_Beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HermitSkinny_Black"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HermitSkinny_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HermitSkinny_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HikerSkinny_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HikerSkinny_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HikerSkinny_Yellow"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_HunterOld_Autumn"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Spring"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Summer"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Winter"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_YELLOW_HikerSkinny_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_YELLOW_HikerSkinny_Blue_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_YELLOW_HikerSkinny_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_YELLOW_HikerSkinny_Green_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_YELLOW_HikerSkinny_Yellow_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_YELLOW_HikerSkinny_Grey_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_YELLOW_HikerSkinny_Red_F"/>		
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_GREEN_FishermanOld_Blue_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="5" type="CDS_GREEN_FishermanOld_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_GREEN_FishermanOld_Grey_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_GREEN_FishermanOld_Red_M"/>		
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_BLUE_HermitSkinny_Beige_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="5" type="CDS_BLUE_HermitSkinny_Black_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="5" type="CDS_BLUE_HermitSkinny_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_BLUE_HermitSkinny_Red_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="10" type="CDS_BLUE_HunterOld_Autumn_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_BLUE_HunterOld_Spring_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_BLUE_HunterOld_Summer_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="5" type="CDS_BLUE_HunterOld_Winter_M"/>
         </children>
     </event>
     <event name="InfectedVillage">
@@ -632,30 +781,50 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_JoggerSkinny_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Brown"/>
-            <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_JoggerSkinny_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_MilkMaidOld_Beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_MilkMaidOld_Black"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_MilkMaidOld_Grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_VillagerOld_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_VillagerOld_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbF_VillagerOld_White"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_FarmerFat_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_FarmerFat_Brown"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_FarmerFat_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_beige"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_black"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_brown"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_greenchecks"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_grey"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_khaki"/>
-            <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_stripes"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_JoggerSkinny_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_JoggerSkinny_Green"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_VillagerOld_Blue"/>
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_VillagerOld_White"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_BLUE_JoggerSkinny_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_BLUE_JoggerSkinny_Blue_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_BLUE_JoggerSkinny_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_BLUE_JoggerSkinny_Green_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_BLUE_JoggerSkinny_Red_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_BLUE_JoggerSkinny_Red_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_BLUE_JoggerSkinny_Brown_F"/>	
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_MilkMaidOld_Beige_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_MilkMaidOld_Black_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_MilkMaidOld_Green_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_BLUE_MilkMaidOld_Grey_F"/>			
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_PURPLE_VillagerOld_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_PURPLE_VillagerOld_Blue_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_PURPLE_VillagerOld_Green_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_PURPLE_VillagerOld_Green_F"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_PURPLE_VillagerOld_White_M"/>
+	    	<child lootmax="5" lootmin="0" max="0" min="3" type="CDS_PURPLE_VillagerOld_White_F"/>						
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_FarmerFat_Beige_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_FarmerFat_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_FarmerFat_Brown_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="2" type="CDS_PINK_FarmerFat_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_beige_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_black_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_bluechecks_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_brown_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_greenchecks_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_grey_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_khaki_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_magenta_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_PINK_Jacket_stripes_M"/>			
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_JoggerSkinny_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_JoggerSkinny_Blue_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_JoggerSkinny_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_JoggerSkinny_Green_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_JoggerSkinny_Red_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_JoggerSkinny_Red_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_JoggerSkinny_Brown_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_VillagerOld_Blue_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_VillagerOld_Blue_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_VillagerOld_Green_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_VillagerOld_Green_F"/>
+		    <child lootmax="5" lootmin="0" max="0" min="3" type="CDS_WHITE_VillagerOld_White_M"/>
+		    <child lootmax="5" lootmin="0" max="0" min="4" type="CDS_WHITE_VillagerOld_White_F"/>
         </children>
     </event>
     <event name="InfectedVillageTier1">
@@ -683,9 +852,9 @@
         </children>
     </event>
     <event name="ItemPlanks">
-        <nominal>10</nominal>
+        <nominal>25</nominal>
         <min>40</min>
-        <max>5</max>
+        <max>15</max>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <saferadius>250</saferadius>
@@ -771,7 +940,7 @@
     <event name="StaticContaminatedArea">
         <nominal>0</nominal>
         <min>2</min>
-        <max>4</max>
+        <max>6</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
@@ -801,7 +970,7 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2100</lifetime>
@@ -820,7 +989,7 @@
         </children>
     </event>
     <event name="StaticMilitaryConvoy">
-        <nominal>5</nominal>
+        <nominal>8</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
@@ -836,7 +1005,7 @@
         <children/>
     </event>
     <event name="StaticPoliceCar">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2500</lifetime>
@@ -848,14 +1017,14 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="5" lootmin="3" max="5" min="5" type="Land_Wreck_sed01_aban1_police"/>
             <child lootmax="5" lootmin="3" max="5" min="5" type="Land_Wreck_sed01_aban2_police"/>
         </children>
     </event>
     <event name="StaticPoliceSituation">
-        <nominal>5</nominal>
+        <nominal>8</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
@@ -871,7 +1040,7 @@
         <children/>
     </event>
     <event name="StaticSantaCrash">
-        <nominal>7</nominal>
+        <nominal>3</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2100</lifetime>
@@ -905,7 +1074,7 @@
         <children/>
     </event>
     <event name="TrajectoryApple">
-        <nominal>80</nominal>
+        <nominal>140</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -922,7 +1091,7 @@
         </children>
     </event>
     <event name="TrajectoryCanina">
-        <nominal>80</nominal>
+        <nominal>140</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -992,7 +1161,7 @@
         </children>
     </event>
     <event name="TrajectoryPear">
-        <nominal>80</nominal>
+        <nominal>140</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -1009,7 +1178,7 @@
         </children>
     </event>
     <event name="TrajectoryPlum">
-        <nominal>80</nominal>
+        <nominal>140</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -1043,7 +1212,7 @@
         </children>
     </event>
     <event name="TrajectoryStones">
-        <nominal>80</nominal>
+        <nominal>100</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>180</lifetime>
@@ -1059,7 +1228,7 @@
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone"/>
         </children>
     </event>
-    <event name="VehicleMotoblok_Base">
+    <event name="VehicleCivilianSedan">
         <nominal>8</nominal>
         <min>5</min>
         <max>11</max>
@@ -1071,12 +1240,101 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok_NT"/>
-			<child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok_Green"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Motoblok_NT_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Wine"/>
+        </children>
+    </event>
+    <event name="VehicleHatchback02">
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>11</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue"/>
+        </children>
+    </event>
+    <event name="VehicleOffroad02">
+        <nominal>3</nominal>
+        <min>2</min>
+        <max>3</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Offroad_02"/>
+        </children>
+    </event>
+    <event name="VehicleOffroadHatchback">
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>11</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White"/>
+        </children>
+    </event>
+    <event name="VehicleSedan02">
+        <nominal>1</nominal>
+        <min>5</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red"/>
+        </children>
+    </event>
+    <event name="VehicleTruck01">
+        <nominal>2</nominal>
+        <min>5</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
 </events>
